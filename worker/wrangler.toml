@@ -3,6 +3,6 @@ main = "worker.js"
 compatibility_date = "2026-10-01"
 [vars]
 SITE_URL = "https://pixelsteals.com/"
-SITE_ORIGIN = "https://pixelsteals.com"
+SITE_ORIGIN = "https://pixelsteals.com,https://besttechguides.github.io"
 FROM = "PixelSteals <deals@pixelsteals.com>"
 # secrets: wrangler secret put RESEND_API_KEY ; wrangler secret put SIGNING_SECRET

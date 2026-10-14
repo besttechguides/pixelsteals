@@ -12,11 +12,13 @@ const resend = (env, path, method, body) => fetch("https://api.resend.com" + pat
 const page = (env, title, msg) => new Response(
   `<!doctype html><meta name=viewport content="width=device-width,initial-scale=1"><title>${title}</title><body style="font:18px system-ui;background:#0b0d17;color:#e8ecff;text-align:center;padding:60px"><h1>${title}</h1><p>${msg}</p><p><a style="color:#7cf" href="${env.SITE_URL}">Back to PixelSteals</a></p>`,
   { headers: { "content-type": "text/html; charset=utf-8" } });
-const cors = env => ({ "Access-Control-Allow-Origin": env.SITE_ORIGIN || "*", "Access-Control-Allow-Methods": "POST, OPTIONS", "Access-Control-Allow-Headers": "content-type" });
+let ORIGIN = "";
+const cors = env => ({ "Access-Control-Allow-Origin": (env.SITE_ORIGIN || "").split(",").map(x => x.trim()).includes(ORIGIN) ? ORIGIN : (env.SITE_ORIGIN || "").split(",")[0], "Vary": "Origin", "Access-Control-Allow-Methods": "POST, OPTIONS", "Access-Control-Allow-Headers": "content-type" });
 
 export default {
   async fetch(req, env) {
     const url = new URL(req.url);
+    ORIGIN = req.headers.get("Origin") || "";
     if (req.method === "OPTIONS") return new Response(null, { headers: cors(env) });
 
     if (url.pathname === "/subscribe" && req.method === "POST") {

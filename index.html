@@ -6,7 +6,7 @@
 <h2>🎁 Free on Epic right now</h2><div id=epic class=grid><p class=m>Loading…</p></div>
 <h2>🔥 Today's top deals</h2><div id=deals class=grid><p class=m>Loading…</p></div><p><small id=upd></small></p></main>
 <script>
-const SIGNUP_ENDPOINT=""; // set to https://pixelsteals-signup.<subdomain>.workers.dev/subscribe once deployed
+const SIGNUP_ENDPOINT="https://pixelsteals-signup.pixelsteals.workers.dev/subscribe"; // set to https://pixelsteals-signup.<subdomain>.workers.dev/subscribe once deployed
 signup.addEventListener('submit',async ev=>{ev.preventDefault();const m=document.getElementById('msg');
  if(!SIGNUP_ENDPOINT){m.textContent='Sign-ups open very soon – check back shortly!';return}
  m.textContent='Sending…';try{const r=await fetch(SIGNUP_ENDPOINT,{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({email:signup.email.value})});
