@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T18:49Z",
+ "updated": "2026-10-14T20:50Z",
  "epic": [
   {
    "title": "Out of Sight",
@@ -12,6 +12,18 @@
    "ends": "2026-10-15T15:00:00.000Z",
    "url": "https://store.epicgames.com/en-GB/p/terrascape-2b12b1",
    "img": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png"
+  }
+ ],
+ "epic_upcoming": [
+  {
+   "title": "Bad Cheese",
+   "starts": "2026-10-15T15:00:00.000Z",
+   "ends": "2026-10-22T15:00:00.000Z"
+  },
+  {
+   "title": "Agent A: A puzzle in disguise",
+   "starts": "2026-10-15T15:00:00.000Z",
+   "ends": "2026-10-22T15:00:00.000Z"
   }
  ],
  "deals": [

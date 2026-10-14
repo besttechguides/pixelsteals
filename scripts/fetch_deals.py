@@ -4,12 +4,15 @@ import json, urllib.request, datetime
 UA={"User-Agent":"PixelSteals/1.0 (+https://besttechguides.github.io/pixelsteals)"}
 def get(u):
     with urllib.request.urlopen(urllib.request.Request(u,headers=UA),timeout=30) as r: return json.load(r)
-out={"updated":datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%MZ"),"epic":[],"deals":[]}
+out={"updated":datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),"epic":[],"epic_upcoming":[],"deals":[]}
 try:
     d=get("https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-GB&country=GB&allowCountries=GB")
     for e in d["data"]["Catalog"]["searchStore"]["elements"]:
         p=(e.get("promotions") or {}).get("promotionalOffers") or []
         offers=[o for g in p for o in g.get("promotionalOffers",[]) if o.get("discountSetting",{}).get("discountPercentage")==0]
+        up=[o for g in ((e.get("promotions") or {}).get("upcomingPromotionalOffers") or []) for o in g.get("promotionalOffers",[]) if o.get("discountSetting",{}).get("discountPercentage")==0]
+        if not offers and up:
+            out["epic_upcoming"].append({"title":e["title"],"starts":up[0].get("startDate"),"ends":up[0].get("endDate")}); continue
         if not offers: continue
         slug=None
         for m in (e.get("catalogNs") or {}).get("mappings") or []: slug=slug or m.get("pageSlug")
