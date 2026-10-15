@@ -1,29 +1,29 @@
 {
- "updated": "2026-10-15T12:40Z",
+ "updated": "2026-10-15T17:29Z",
  "epic": [
   {
-   "title": "Out of Sight",
-   "ends": "2026-10-15T15:00:00.000Z",
-   "url": "https://store.epicgames.com/en-GB/p/out-of-sight-b96ca8",
-   "img": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg"
+   "title": "Bad Cheese",
+   "ends": "2026-10-22T15:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/bad-cheese-4256d9",
+   "img": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png"
   },
   {
-   "title": "TerraScape",
-   "ends": "2026-10-15T15:00:00.000Z",
-   "url": "https://store.epicgames.com/en-GB/p/terrascape-2b12b1",
-   "img": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png"
+   "title": "Agent A: A puzzle in disguise",
+   "ends": "2026-10-22T15:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/agent-a-a-puzzle-in-disguise-42fe5f",
+   "img": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png"
   }
  ],
  "epic_upcoming": [
   {
-   "title": "Bad Cheese",
-   "starts": "2026-10-15T15:00:00.000Z",
-   "ends": "2026-10-22T15:00:00.000Z"
+   "title": "Sker Ritual",
+   "starts": "2026-10-22T15:00:00.000Z",
+   "ends": "2026-10-29T15:00:00.000Z"
   },
   {
-   "title": "Agent A: A puzzle in disguise",
-   "starts": "2026-10-15T15:00:00.000Z",
-   "ends": "2026-10-22T15:00:00.000Z"
+   "title": "Home - A Unique Horror Adventure",
+   "starts": "2026-10-22T15:00:00.000Z",
+   "ends": "2026-10-29T15:00:00.000Z"
   }
  ],
  "deals": [
@@ -44,15 +44,6 @@
    "savings": 38,
    "url": "https://www.cheapshark.com/redirect?dealID=HNPl2c6%2BV040vKq07rLwKPiQSYrZsTs4Zo%2FSqEhREYE%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/1d876833b58e192d06e6067a84da77c2768c30e4/capsule_231x87.jpg?t=1791897978"
-  },
-  {
-   "title": "Out of Sight",
-   "store": "Epic Games Store",
-   "sale": "0.00",
-   "normal": "14.99",
-   "savings": 100,
-   "url": "https://www.cheapshark.com/redirect?dealID=QM8NQEcadw11jzfTduhLF6c4HLxQPSB6AgAyGFjwdHw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2526310/7146d03b8832e7519d0bdecc704300f7c70416af/capsule_231x87.jpg?t=1789043494"
   },
   {
    "title": "Disco Elysium - The Final Cut",
@@ -80,6 +71,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=0lJwpbepaimkcrhG1GOnffv3tDxFtmjkuOzBzsT0TUQ%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/capsule_231x87.jpg?t=1741110084"
+  },
+  {
+   "title": "Disco Elysium - The Final Cut",
+   "store": "GOG",
+   "sale": "9.99",
+   "normal": "39.99",
+   "savings": 75,
+   "url": "https://www.cheapshark.com/redirect?dealID=fo%2BHT27GrgZT0g2USsPLQ2dVGTnq%2Fb%2FBnY2L2%2Bi8BWk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
   },
   {
    "title": "Disco Elysium - The Final Cut",
@@ -172,6 +172,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
   },
   {
+   "title": "WRC 9 FIA World Rally Championship",
+   "store": "GreenManGaming",
+   "sale": "3.16",
+   "normal": "39.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=8v8uFHQN%2F%2FkcQm10RNaXmzbChIN%2Fl%2BS0d7UTWpH%2BZqQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
+  },
+  {
    "title": "Everspace",
    "store": "GameBillet",
    "sale": "1.71",
@@ -233,15 +242,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=w5%2Fj0I5ToPSnuQErvQ7GznyqiXeL9n4TpaObgAGl6Fg%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1779296611"
-  },
-  {
-   "title": "When Ski Lifts Go Wrong",
-   "store": "GamersGate",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=1068%2Fpl1FYU1QV2j55esOK2m5JqZ2df3%2Fy%2BS5T92fXc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
   }
  ]
 }
