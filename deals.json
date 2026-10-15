@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T20:52Z",
+ "updated": "2026-10-15T12:40Z",
  "epic": [
   {
    "title": "Out of Sight",
@@ -55,6 +55,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2526310/7146d03b8832e7519d0bdecc704300f7c70416af/capsule_231x87.jpg?t=1789043494"
   },
   {
+   "title": "Disco Elysium - The Final Cut",
+   "store": "Gamesplanet",
+   "sale": "9.47",
+   "normal": "39.99",
+   "savings": 76,
+   "url": "https://www.cheapshark.com/redirect?dealID=AUvSqG%2BjgjZBM4JGg0dEDho7mk8Sxn2CpCvml8OEW40%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
+  },
+  {
+   "title": "MONSTER HUNTER RISE",
+   "store": "GameBillet",
+   "sale": "3.56",
+   "normal": "39.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=SN4DCkUn05Qtamd40pziWLHOiidu4xlR6JKah6RcNV4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1768870444"
+  },
+  {
    "title": "Metro 2033 Redux",
    "store": "GOG",
    "sale": "1.99",
@@ -62,6 +80,24 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=0lJwpbepaimkcrhG1GOnffv3tDxFtmjkuOzBzsT0TUQ%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/capsule_231x87.jpg?t=1741110084"
+  },
+  {
+   "title": "Disco Elysium - The Final Cut",
+   "store": "GamersGate",
+   "sale": "10.00",
+   "normal": "39.99",
+   "savings": 75,
+   "url": "https://www.cheapshark.com/redirect?dealID=qC4WrLpAECdOAkMdFbFR6v1enxAovFyS9bUIR41KGmQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
+  },
+  {
+   "title": "When Ski Lifts Go Wrong",
+   "store": "GameBillet",
+   "sale": "1.15",
+   "normal": "14.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=IhmJLXn3LYHKf0AOhW6skqrMGvaVkIiQdiurM5e97Oo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
   },
   {
    "title": "MONSTER HUNTER RISE",
@@ -73,6 +109,123 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1768870444"
   },
   {
+   "title": "MONSTER HUNTER RISE",
+   "store": "GamersGate",
+   "sale": "4.00",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=TrF%2BeGNc6cJU2jJcRC%2BC%2F6RjlC2yNv7ikkiSpDmgjis%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1768870444"
+  },
+  {
+   "title": "Valfaris",
+   "store": "GameBillet",
+   "sale": "3.25",
+   "normal": "24.99",
+   "savings": 87,
+   "url": "https://www.cheapshark.com/redirect?dealID=LXe4uapQAx5GqnsW7vWLjyulbBXOYWB8f8uD6ebIMN8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
+  },
+  {
+   "title": "Valfaris",
+   "store": "IndieGala",
+   "sale": "3.29",
+   "normal": "24.99",
+   "savings": 87,
+   "url": "https://www.cheapshark.com/redirect?dealID=AimE3rsevIwRCkXQTWfjIEfwKcb%2Ft6G3a2IL%2Fvi5nWg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
+  },
+  {
+   "title": "Roguebook",
+   "store": "GameBillet",
+   "sale": "1.70",
+   "normal": "24.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=MY%2BZHGhrjbfl%2BDK3UeuQs9Hypb1jXr2tkdZDreuaZ%2FI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1076200/capsule_231x87.jpg?t=1778174412"
+  },
+  {
+   "title": "Monster Hunter World: Iceborne",
+   "store": "GameBillet",
+   "sale": "5.35",
+   "normal": "39.99",
+   "savings": 87,
+   "url": "https://www.cheapshark.com/redirect?dealID=q07SnKgDW62ok7Zxj2QKkB4Ywen0gMRGi0g6HfnWtrs%3D",
+   "img": "https://sttc.gamersgate.com/images/product/monster-hunter-world-iceborne/cover-180-ea43cb.jpg"
+  },
+  {
+   "title": "Stories Untold",
+   "store": "Gamesplanet",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=U84rxVlnbAtajuh3PskPftioTrfdsd4iNKiLahN6RiI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1788374614"
+  },
+  {
+   "title": "WRC 9 FIA World Rally Championship",
+   "store": "GameBillet",
+   "sale": "2.49",
+   "normal": "29.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=CX0XStuc38cp48chTNh6dLk5PaSGCTRXjXmI5p6MyhE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
+  },
+  {
+   "title": "Everspace",
+   "store": "GameBillet",
+   "sale": "1.71",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=EYPtw%2BvPsLZhk%2BukzJ%2BobkBf3kElKbZ0PgFTqDcDfn4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
+  },
+  {
+   "title": "Destiny 2: The Final Shape",
+   "store": "GameBillet",
+   "sale": "1.76",
+   "normal": "49.99",
+   "savings": 96,
+   "url": "https://www.cheapshark.com/redirect?dealID=p2AOvB6%2Fr6U%2BXzz3L2Lbna4ncaHDcU9vV%2BS6gPtMHuI%3D",
+   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
+  },
+  {
+   "title": "Homeworld Remastered Collection",
+   "store": "GreenManGaming",
+   "sale": "4.73",
+   "normal": "34.99",
+   "savings": 86,
+   "url": "https://www.cheapshark.com/redirect?dealID=qoBo6t9byCwZRAskh33LdAGQWDSmktVjJUBPf%2FJ%2Fbwc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
+  },
+  {
+   "title": "WRC 8 FIA World Rally Championship",
+   "store": "GameBillet",
+   "sale": "2.11",
+   "normal": "29.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=yZvqYVRDTY1%2BhWSkPhRIy%2FgKKLmNvApKSCdqJQB4q44%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004750/capsule_231x87.jpg?t=1725354099"
+  },
+  {
+   "title": "MONSTER HUNTER RISE: Sunbreak",
+   "store": "GameBillet",
+   "sale": "5.35",
+   "normal": "39.99",
+   "savings": 87,
+   "url": "https://www.cheapshark.com/redirect?dealID=iaj7CkaTbgh6LyR2DEMrjGLEfT73QIx5wkWB6dNYcZ8%3D",
+   "img": "https://sttc.gamersgate.com/images/product/monster-hunter-rise-sunbreak/cover-180-1f6a09.jpg"
+  },
+  {
+   "title": "When Ski Lifts Go Wrong",
+   "store": "IndieGala",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=MeaKg6oeCmifnebKPhD5QGqAohkwaNlJNY111zQzhIc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
+  },
+  {
    "title": "Lacuna  A Sci-Fi Noir Adventure",
    "store": "GOG",
    "sale": "1.59",
@@ -82,166 +235,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1779296611"
   },
   {
-   "title": "Destiny 2: The Final Shape",
-   "store": "GameBillet",
-   "sale": "2.00",
-   "normal": "49.99",
-   "savings": 96,
-   "url": "https://www.cheapshark.com/redirect?dealID=p2AOvB6%2Fr6U%2BXzz3L2Lbna4ncaHDcU9vV%2BS6gPtMHuI%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
-  },
-  {
-   "title": "WRC 9 FIA World Rally Championship",
-   "store": "GreenManGaming",
-   "sale": "3.16",
-   "normal": "39.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=8v8uFHQN%2F%2FkcQm10RNaXmzbChIN%2Fl%2BS0d7UTWpH%2BZqQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
-  },
-  {
-   "title": "Floppy Knights",
-   "store": "IndieGala",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=No3YnUuZFZSaFTZSNeExgAPRZNdlyAU8XGluRMBjnNU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1057800/capsule_231x87.jpg?t=1746806768"
-  },
-  {
-   "title": "The Next Penelope",
-   "store": "IndieGala",
-   "sale": "1.29",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=T34TShDWMbSgDfcqiX8prXIkeeN9%2FHq2FlIVjP1dwjY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
-  },
-  {
-   "title": "Lair of the Clockwork God",
-   "store": "GOG",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=ebEo%2FlhXRjW44hk5Xv51cvGo6a%2BwsRg1QKvrPjZZFXY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1060600/capsule_231x87.jpg?t=1769537301"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
-   "store": "Steam",
-   "sale": "3.99",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=j2lexFQ%2Fx%2FOeqECYZgxWgBxj7YX3hcQs0N3Y8mn8kHk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
-  },
-  {
-   "title": "Monster Hunter World: Iceborne",
-   "store": "WinGameStore",
-   "sale": "5.99",
-   "normal": "39.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=yhAHH1mRuYk8UXaUVVk%2By5K6V3b0p9uJ%2FaHZMn76F%2BQ%3D",
-   "img": "https://sttc.gamersgate.com/images/product/monster-hunter-world-iceborne/cover-180-ea43cb.jpg"
-  },
-  {
-   "title": "MONSTER HUNTER RISE",
-   "store": "Gamesplanet",
-   "sale": "3.82",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Wiss%2FOAvoe3MV7214OmPR3GvyiaX08xJwNuBLb9Lld4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1768870444"
-  },
-  {
-   "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
-   "store": "GOG",
-   "sale": "2.99",
-   "normal": "19.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=wbwSwOEEf%2FXwtxjY8CVuiEfXM4NXhJq6i8wy%2FJbS5aY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20920/capsule_231x87.jpg?t=1761657279"
-  },
-  {
-   "title": "Fly'N",
-   "store": "IndieGala",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Fhxe9lS5kGTsUdIFiIFDdLFCT2X0MtY9q0o6%2F1vnnt8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223730/capsule_231x87.jpg?t=1753954633"
-  },
-  {
-   "title": "MONSTER HUNTER RISE: Sunbreak",
-   "store": "WinGameStore",
-   "sale": "5.99",
-   "normal": "39.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=jYyHiTSNtCPdTNUF9EnDt9JvTmHHm2lgofCQN32uMEg%3D",
-   "img": "https://sttc.gamersgate.com/images/product/monster-hunter-rise-sunbreak/cover-180-1f6a09.jpg"
-  },
-  {
-   "title": "The Next Penelope",
-   "store": "GreenManGaming",
-   "sale": "1.30",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=RLIVZdMkTtmX3JKwEguR2VK175nHtNS%2FpLo0hgDH0F0%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
-  },
-  {
-   "title": "Shadowgrounds Survivor",
-   "store": "GOG",
-   "sale": "0.59",
-   "normal": "5.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2FsT22RBZsbXBf1Ha04xBh9lL0yg%2BClzudHcODB9XocU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
-  },
-  {
-   "title": "Trinity Fusion",
-   "store": "IndieGala",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=kCOLXdStl%2B5Pu7xU6M1fqJYsBTFDhlSEnHGUZJvlUo4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1911360/8b105a3f5d4367bea1a9d4acb946591d97e511df/capsule_231x87.jpg?t=1786373937"
-  },
-  {
-   "title": "The Swapper",
-   "store": "Steam",
-   "sale": "2.24",
-   "normal": "14.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=KQg9Qq%2BJ5%2BC2QuzHKtmYg1envCpcqA713vsPbekbtGk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/231160/capsule_231x87.jpg?t=1742578969"
-  },
-  {
-   "title": "Wanderlust Travel Stories",
-   "store": "IndieGala",
-   "sale": "1.49",
+   "title": "When Ski Lifts Go Wrong",
+   "store": "GamersGate",
+   "sale": "1.50",
    "normal": "14.99",
    "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=HJbMW8t1So6IW6lnVhJ%2FVsshwbf7RUHAAiSCVH9mKec%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1051410/capsule_231x87.jpg?t=1724948951"
-  },
-  {
-   "title": "Jotun: Valhalla Edition",
-   "store": "IndieGala",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=qKgf1Zw30GRVFOhKq2OgFb6gZsNzvHhUAgCyYoGgONU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323580/capsule_231x87.jpg?t=1752500989"
-  },
-  {
-   "title": "Anarcute",
-   "store": "IndieGala",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Kw8RpU1%2F7aH9J0Ui3wXPmuSPzl1yj0GPdmtYhqOzyTk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
+   "url": "https://www.cheapshark.com/redirect?dealID=1068%2Fpl1FYU1QV2j55esOK2m5JqZ2df3%2Fy%2BS5T92fXc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
   }
  ]
 }
