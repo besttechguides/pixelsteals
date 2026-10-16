@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T17:29Z",
+ "updated": "2026-10-16T12:25Z",
  "epic": [
   {
    "title": "Bad Cheese",
@@ -44,6 +44,24 @@
    "savings": 38,
    "url": "https://www.cheapshark.com/redirect?dealID=HNPl2c6%2BV040vKq07rLwKPiQSYrZsTs4Zo%2FSqEhREYE%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/1d876833b58e192d06e6067a84da77c2768c30e4/capsule_231x87.jpg?t=1791897978"
+  },
+  {
+   "title": "Unity of Command II",
+   "store": "Steam",
+   "sale": "2.99",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=fwNwzWaH9FmEtHMgvo6sAC3Rh%2BYLdvHR2LPBx21jh9U%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809230/capsule_231x87.jpg?t=1791969552"
+  },
+  {
+   "title": "Unity of Command II",
+   "store": "GamersGate",
+   "sale": "3.00",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=LwCdK8kjzVY%2FkWs09aK7D2kKj9MB2DtlqBbLLZCeWNk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809230/capsule_231x87.jpg?t=1791969552"
   },
   {
    "title": "Disco Elysium - The Final Cut",
@@ -91,6 +109,33 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
   },
   {
+   "title": "Injustice 2",
+   "store": "Steam",
+   "sale": "4.99",
+   "normal": "49.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=3Z4THVFnoVlZCAuD20HvK0GVRSsN0lYUx2brrp%2FgHu0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/capsule_231x87.jpg?t=1745536404"
+  },
+  {
+   "title": "WRC 9 FIA World Rally Championship",
+   "store": "GreenManGaming",
+   "sale": "3.16",
+   "normal": "39.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=8v8uFHQN%2F%2FkcQm10RNaXmzbChIN%2Fl%2BS0d7UTWpH%2BZqQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
+  },
+  {
+   "title": "Mortal Kombat 11 Ultimate",
+   "store": "Steam",
+   "sale": "8.99",
+   "normal": "59.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=hBzFkwXV5CCVfkjbLZexRx1fhOrxUk1Idvnte3OGtao%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/518699/capsule_231x87.jpg?t=1780429573"
+  },
+  {
    "title": "When Ski Lifts Go Wrong",
    "store": "GameBillet",
    "sale": "1.15",
@@ -116,6 +161,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=TrF%2BeGNc6cJU2jJcRC%2BC%2F6RjlC2yNv7ikkiSpDmgjis%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1768870444"
+  },
+  {
+   "title": "Dropsy",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=KyVVy%2BjxIufO83d8DD5x2xs1KIzEmrEbFQ2x%2BHT%2FXe4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274350/capsule_231x87.jpg?t=1725396094"
   },
   {
    "title": "Valfaris",
@@ -172,13 +226,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
   },
   {
-   "title": "WRC 9 FIA World Rally Championship",
-   "store": "GreenManGaming",
-   "sale": "3.16",
-   "normal": "39.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=8v8uFHQN%2F%2FkcQm10RNaXmzbChIN%2Fl%2BS0d7UTWpH%2BZqQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
+   "title": "Valfaris",
+   "store": "WinGameStore",
+   "sale": "3.49",
+   "normal": "24.99",
+   "savings": 86,
+   "url": "https://www.cheapshark.com/redirect?dealID=NgYEAYo8KDLn0djGUJ4o0OxjV1glpnzRhrA5rnmrG%2F8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
   },
   {
    "title": "Everspace",
@@ -188,60 +242,6 @@
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=EYPtw%2BvPsLZhk%2BukzJ%2BobkBf3kElKbZ0PgFTqDcDfn4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
-  },
-  {
-   "title": "Destiny 2: The Final Shape",
-   "store": "GameBillet",
-   "sale": "1.76",
-   "normal": "49.99",
-   "savings": 96,
-   "url": "https://www.cheapshark.com/redirect?dealID=p2AOvB6%2Fr6U%2BXzz3L2Lbna4ncaHDcU9vV%2BS6gPtMHuI%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
-  },
-  {
-   "title": "Homeworld Remastered Collection",
-   "store": "GreenManGaming",
-   "sale": "4.73",
-   "normal": "34.99",
-   "savings": 86,
-   "url": "https://www.cheapshark.com/redirect?dealID=qoBo6t9byCwZRAskh33LdAGQWDSmktVjJUBPf%2FJ%2Fbwc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
-  },
-  {
-   "title": "WRC 8 FIA World Rally Championship",
-   "store": "GameBillet",
-   "sale": "2.11",
-   "normal": "29.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=yZvqYVRDTY1%2BhWSkPhRIy%2FgKKLmNvApKSCdqJQB4q44%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004750/capsule_231x87.jpg?t=1725354099"
-  },
-  {
-   "title": "MONSTER HUNTER RISE: Sunbreak",
-   "store": "GameBillet",
-   "sale": "5.35",
-   "normal": "39.99",
-   "savings": 87,
-   "url": "https://www.cheapshark.com/redirect?dealID=iaj7CkaTbgh6LyR2DEMrjGLEfT73QIx5wkWB6dNYcZ8%3D",
-   "img": "https://sttc.gamersgate.com/images/product/monster-hunter-rise-sunbreak/cover-180-1f6a09.jpg"
-  },
-  {
-   "title": "When Ski Lifts Go Wrong",
-   "store": "IndieGala",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=MeaKg6oeCmifnebKPhD5QGqAohkwaNlJNY111zQzhIc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
-  },
-  {
-   "title": "Lacuna  A Sci-Fi Noir Adventure",
-   "store": "GOG",
-   "sale": "1.59",
-   "normal": "15.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=w5%2Fj0I5ToPSnuQErvQ7GznyqiXeL9n4TpaObgAGl6Fg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1779296611"
   }
  ]
 }
