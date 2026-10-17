@@ -15,7 +15,28 @@ const page = (env, title, msg) => new Response(
 let ORIGIN = "";
 const cors = env => ({ "Access-Control-Allow-Origin": (env.SITE_ORIGIN || "").split(",").map(x => x.trim()).includes(ORIGIN) ? ORIGIN : (env.SITE_ORIGIN || "").split(",")[0], "Vary": "Origin", "Access-Control-Allow-Methods": "POST, OPTIONS", "Access-Control-Allow-Headers": "content-type" });
 
+// Daily 08:17 Europe/London trigger for the GitHub refresh-deals workflow.
+// Cron fires at 07:17 and 08:17 UTC; only the one that is 08:17 in London acts (BST vs GMT).
+// Secret: GH_DISPATCH_TOKEN (fine-grained PAT, Actions read/write on besttechguides/pixelsteals only).
+const londonHM = d => new Intl.DateTimeFormat("en-GB", { timeZone: "Europe/London", hour: "2-digit", minute: "2-digit", hour12: false }).format(d);
+async function dispatchRefresh(env, send) {
+  if (!env.GH_DISPATCH_TOKEN) { console.log("GH_DISPATCH_TOKEN not set; skipping dispatch"); return { ok: false, status: 0 }; }
+  const r = await fetch("https://api.github.com/repos/besttechguides/pixelsteals/actions/workflows/refresh-deals.yml/dispatches", {
+    method: "POST",
+    headers: { Authorization: `Bearer ${env.GH_DISPATCH_TOKEN}`, Accept: "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28", "User-Agent": "pixelsteals-signup-worker", "Content-Type": "application/json" },
+    body: JSON.stringify({ ref: "main", inputs: { send: send ? "true" : "false" } }) });
+  console.log(`dispatch refresh-deals send=${send} -> HTTP ${r.status}`);
+  if (!r.ok) console.log((await r.text()).slice(0, 300));
+  return { ok: r.ok, status: r.status };
+}
+
 export default {
+  async scheduled(event, env, ctx) {
+    const hm = londonHM(new Date(event.scheduledTime));
+    if (hm !== "08:17") { console.log(`London time ${hm}; not 08:17, skipping`); return; }
+    const res = await dispatchRefresh(env, true);
+    if (!res.ok) throw new Error(`dispatch failed: HTTP ${res.status}`);
+  },
   async fetch(req, env) {
     const url = new URL(req.url);
     ORIGIN = req.headers.get("Origin") || "";

@@ -1,8 +1,11 @@
 name = "pixelsteals-signup"
 main = "worker.js"
 compatibility_date = "2026-10-01"
+[triggers]
+crons = ["17 7 * * *", "17 8 * * *"]  # acts only when Europe/London time is 08:17
+
 [vars]
 SITE_URL = "https://pixelsteals.com/"
 SITE_ORIGIN = "https://pixelsteals.com,https://besttechguides.github.io"
 FROM = "PixelSteals <deals@pixelsteals.com>"
-# secrets: wrangler secret put RESEND_API_KEY ; wrangler secret put SIGNING_SECRET
+# secrets: wrangler secret put RESEND_API_KEY ; wrangler secret put SIGNING_SECRET ; wrangler secret put GH_DISPATCH_TOKEN

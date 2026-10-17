@@ -93,7 +93,8 @@ if DRY:
     u="https://example.invalid/unsub"; print(body(u))
     if os.environ.get("DRY_TEXT"): open(os.environ["DRY_TEXT"],"w").write("Subject: "+subject+"\n\n"+text(u))
     sys.exit(0)
+UKDATE=datetime.datetime.now(__import__("zoneinfo").ZoneInfo("Europe/London")).date()
 print(f"{len(confirmed)} confirmed contacts")
 for i in range(0,len(msgs),100):
-    api("/emails/batch","POST",msgs[i:i+100],{"Idempotency-Key":f"digest-{datetime.date.today()}-{i}"})
+    api("/emails/batch","POST",msgs[i:i+100],{"Idempotency-Key":f"digest-{UKDATE}-{i}"})
 print("sent", len(msgs))

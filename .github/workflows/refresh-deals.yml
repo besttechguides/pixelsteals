@@ -1,8 +1,16 @@
 name: Refresh deals
+# Primary trigger: Cloudflare Worker cron (pixelsteals-signup) dispatches this at 08:17 Europe/London with send=true.
+# Backup: GitHub schedule below (GitHub often runs it hours late). Only one newsletter send per UK date (marker + Resend idempotency).
 on:
-  schedule: [{cron: "17 7 * * *"}]
+  schedule: [{cron: "47 8 * * *"}]   # backup: 09:47 BST / 08:47 GMT, after the 08:17 primary
   workflow_dispatch:
+    inputs:
+      send:
+        description: "Send today's newsletter (still gated by SEND_ENABLED and once-per-UK-day guard)"
+        type: boolean
+        default: false
 permissions: {contents: write}
+concurrency: {group: refresh-deals, cancel-in-progress: false}
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -12,11 +20,26 @@ jobs:
       - run: python3 scripts/build_pages.py
       - run: |
           git config user.name "pixelsteals-bot"; git config user.email "actions@users.noreply.github.com"
-          git add deals.json guides; git diff --cached --quiet || (git commit -m "Daily deals refresh" && git push)
+          git add deals.json guides; git diff --cached --quiet || (git commit -m "Daily deals refresh" && git pull --rebase && git push)
+      - name: Check once-per-UK-day send guard
+        id: guard
+        if: vars.SEND_ENABLED == 'true' && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.send))
+        run: |
+          git pull --rebase --quiet || true
+          today=$(TZ=Europe/London date +%F)
+          last=$(cat .github/last-sent 2>/dev/null || true)
+          echo "UK date $today, last sent: ${last:-never}"
+          if [ "$last" = "$today" ]; then echo "Already sent today; skipping."; echo "send=false" >> "$GITHUB_OUTPUT"; else echo "send=true" >> "$GITHUB_OUTPUT"; fi
       - name: Email today's deals to confirmed subscribers
-        if: vars.SEND_ENABLED == 'true' && github.event_name == 'schedule'
+        if: steps.guard.outputs.send == 'true'
         env:
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SIGNING_SECRET: ${{ secrets.SIGNING_SECRET }}
           WORKER_URL: ${{ vars.WORKER_URL }}
         run: python3 scripts/send_digest.py
+      - name: Record send date
+        if: steps.guard.outputs.send == 'true'
+        run: |
+          TZ=Europe/London date +%F > .github/last-sent
+          git add .github/last-sent; git commit -m "Newsletter sent $(cat .github/last-sent)"
+          for i in 1 2 3; do git pull --rebase --quiet && git push && break; sleep 5; done
