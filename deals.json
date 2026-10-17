@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T12:25Z",
+ "updated": "2026-10-17T07:30Z",
  "epic": [
   {
    "title": "Bad Cheese",
@@ -109,6 +109,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
   },
   {
+   "title": "Syberia",
+   "store": "Humble Store",
+   "sale": "1.29",
+   "normal": "12.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=OP2%2BOBxybsYP5dxhiIH7Mse2cC723PtGmYftE289B0Y%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46500/capsule_231x87.jpg?t=1743167577"
+  },
+  {
    "title": "Injustice 2",
    "store": "Steam",
    "sale": "4.99",
@@ -116,15 +125,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=3Z4THVFnoVlZCAuD20HvK0GVRSsN0lYUx2brrp%2FgHu0%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/capsule_231x87.jpg?t=1745536404"
-  },
-  {
-   "title": "WRC 9 FIA World Rally Championship",
-   "store": "GreenManGaming",
-   "sale": "3.16",
-   "normal": "39.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=8v8uFHQN%2F%2FkcQm10RNaXmzbChIN%2Fl%2BS0d7UTWpH%2BZqQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
   },
   {
    "title": "Mortal Kombat 11 Ultimate",
@@ -170,6 +170,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=KyVVy%2BjxIufO83d8DD5x2xs1KIzEmrEbFQ2x%2BHT%2FXe4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274350/capsule_231x87.jpg?t=1725396094"
+  },
+  {
+   "title": "Syberia II",
+   "store": "Humble Store",
+   "sale": "1.29",
+   "normal": "12.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=CK%2F2WGl7EKJsH47qMWDCDJ2Iz5%2FkvFCMuTpyQdVOcZE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46510/capsule_231x87.jpg?t=1743167581"
   },
   {
    "title": "Valfaris",
@@ -233,15 +242,6 @@
    "savings": 86,
    "url": "https://www.cheapshark.com/redirect?dealID=NgYEAYo8KDLn0djGUJ4o0OxjV1glpnzRhrA5rnmrG%2F8%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
-  },
-  {
-   "title": "Everspace",
-   "store": "GameBillet",
-   "sale": "1.71",
-   "normal": "19.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=EYPtw%2BvPsLZhk%2BukzJ%2BobkBf3kElKbZ0PgFTqDcDfn4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
   }
  ]
 }
