@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T07:30Z",
+ "updated": "2026-10-17T08:10Z",
  "epic": [
   {
    "title": "Bad Cheese",
@@ -46,6 +46,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/1d876833b58e192d06e6067a84da77c2768c30e4/capsule_231x87.jpg?t=1791897978"
   },
   {
+   "title": "Deus Ex: Human Revolution - Director's Cut",
+   "store": "WinGameStore",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=ZLniwdY%2BXppO6gBCgyKEBZHHPbgDOGqeHSSJOzYSTbo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
+  },
+  {
    "title": "Unity of Command II",
    "store": "Steam",
    "sale": "2.99",
@@ -64,6 +73,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809230/capsule_231x87.jpg?t=1791969552"
   },
   {
+   "title": "Shadow Tactics: Blades of the Shogun",
+   "store": "WinGameStore",
+   "sale": "3.99",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
+   "title": "The Next Penelope",
+   "store": "WinGameStore",
+   "sale": "1.29",
+   "normal": "12.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2Fhe91FSS5h33%2BEjY0G5IMyEKMZPHz%2FVBmQRe7C9ropk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
+  },
+  {
    "title": "Disco Elysium - The Final Cut",
    "store": "Gamesplanet",
    "sale": "9.47",
@@ -71,6 +98,15 @@
    "savings": 76,
    "url": "https://www.cheapshark.com/redirect?dealID=AUvSqG%2BjgjZBM4JGg0dEDho7mk8Sxn2CpCvml8OEW40%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
+  },
+  {
+   "title": "Deus Ex: Mankind Divided",
+   "store": "WinGameStore",
+   "sale": "2.99",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=pLfGrv6mjaR7UOkc8UjfGhMrlaGLQEYkdnDUsQjhp68%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337000/96fc2a82c1820c77aae26304c62388841c2a93be/capsule_231x87.jpg?t=1780670420"
   },
   {
    "title": "MONSTER HUNTER RISE",
@@ -89,6 +125,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=0lJwpbepaimkcrhG1GOnffv3tDxFtmjkuOzBzsT0TUQ%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/capsule_231x87.jpg?t=1741110084"
+  },
+  {
+   "title": "Fly'N",
+   "store": "WinGameStore",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=CygdT1AXmlrr%2BHbzYkDGm%2Fhy7JRITQa0nOjPyI0Yafs%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223730/capsule_231x87.jpg?t=1753954633"
   },
   {
    "title": "Disco Elysium - The Final Cut",
@@ -127,6 +172,33 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/capsule_231x87.jpg?t=1745536404"
   },
   {
+   "title": "Shadowgrounds Survivor",
+   "store": "WinGameStore",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=GxCeQHH57JE%2F68Ax5BV6qp%2FZ6g34MWSR4gzZo6Smc3g%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
+  },
+  {
+   "title": "Anarcute",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=Z6B9rNulf2q4pK5zlcMqToNjm0PO%2FhB50SWITCDK0%2Bw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
+  },
+  {
+   "title": "Wanderlust Travel Stories",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=zz6XmCu7lMfFnuF0axtnG6%2Fhfh6DuwkNEQzgHirsj7Y%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1051410/capsule_231x87.jpg?t=1724948951"
+  },
+  {
    "title": "Mortal Kombat 11 Ultimate",
    "store": "Steam",
    "sale": "8.99",
@@ -154,6 +226,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1768870444"
   },
   {
+   "title": "Werewolf: the Apocalypse - Heart of the Forest",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=Ra%2BkxYw9DFw9Cwzhkd1i10%2FHZDYErrEcA6GThqaO1Wc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1342620/capsule_231x87.jpg?t=1729175144"
+  },
+  {
    "title": "MONSTER HUNTER RISE",
    "store": "GamersGate",
    "sale": "4.00",
@@ -161,87 +242,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=TrF%2BeGNc6cJU2jJcRC%2BC%2F6RjlC2yNv7ikkiSpDmgjis%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1768870444"
-  },
-  {
-   "title": "Dropsy",
-   "store": "GOG",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=KyVVy%2BjxIufO83d8DD5x2xs1KIzEmrEbFQ2x%2BHT%2FXe4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274350/capsule_231x87.jpg?t=1725396094"
-  },
-  {
-   "title": "Syberia II",
-   "store": "Humble Store",
-   "sale": "1.29",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=CK%2F2WGl7EKJsH47qMWDCDJ2Iz5%2FkvFCMuTpyQdVOcZE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46510/capsule_231x87.jpg?t=1743167581"
-  },
-  {
-   "title": "Valfaris",
-   "store": "GameBillet",
-   "sale": "3.25",
-   "normal": "24.99",
-   "savings": 87,
-   "url": "https://www.cheapshark.com/redirect?dealID=LXe4uapQAx5GqnsW7vWLjyulbBXOYWB8f8uD6ebIMN8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
-  },
-  {
-   "title": "Valfaris",
-   "store": "IndieGala",
-   "sale": "3.29",
-   "normal": "24.99",
-   "savings": 87,
-   "url": "https://www.cheapshark.com/redirect?dealID=AimE3rsevIwRCkXQTWfjIEfwKcb%2Ft6G3a2IL%2Fvi5nWg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
-  },
-  {
-   "title": "Roguebook",
-   "store": "GameBillet",
-   "sale": "1.70",
-   "normal": "24.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=MY%2BZHGhrjbfl%2BDK3UeuQs9Hypb1jXr2tkdZDreuaZ%2FI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1076200/capsule_231x87.jpg?t=1778174412"
-  },
-  {
-   "title": "Monster Hunter World: Iceborne",
-   "store": "GameBillet",
-   "sale": "5.35",
-   "normal": "39.99",
-   "savings": 87,
-   "url": "https://www.cheapshark.com/redirect?dealID=q07SnKgDW62ok7Zxj2QKkB4Ywen0gMRGi0g6HfnWtrs%3D",
-   "img": "https://sttc.gamersgate.com/images/product/monster-hunter-world-iceborne/cover-180-ea43cb.jpg"
-  },
-  {
-   "title": "Stories Untold",
-   "store": "Gamesplanet",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=U84rxVlnbAtajuh3PskPftioTrfdsd4iNKiLahN6RiI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1788374614"
-  },
-  {
-   "title": "WRC 9 FIA World Rally Championship",
-   "store": "GameBillet",
-   "sale": "2.49",
-   "normal": "29.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=CX0XStuc38cp48chTNh6dLk5PaSGCTRXjXmI5p6MyhE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
-  },
-  {
-   "title": "Valfaris",
-   "store": "WinGameStore",
-   "sale": "3.49",
-   "normal": "24.99",
-   "savings": 86,
-   "url": "https://www.cheapshark.com/redirect?dealID=NgYEAYo8KDLn0djGUJ4o0OxjV1glpnzRhrA5rnmrG%2F8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
   }
  ]
 }
