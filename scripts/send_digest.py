@@ -3,12 +3,23 @@
 import json, os, hmac, hashlib, urllib.request, urllib.parse, html, datetime, sys
 KEY=os.environ.get("RESEND_API_KEY"); SECRET=os.environ.get("SIGNING_SECRET",""); WORKER=os.environ.get("WORKER_URL","").rstrip("/")
 DRY=os.environ.get("DRY_RUN")=="1"; FROM="PixelSteals <deals@pixelsteals.com>"; SITE="https://pixelsteals.com/"
+LOADED="https://go.loaded.com/KBLBry"  # Loaded (formerly CDKeys) via Impact
+AMZ_TAG="trustedtrad07-21"; AMAZON="https://www.amazon.co.uk/gp/goldbox?tag="+AMZ_TAG
+def amazon_tag(u):
+    p=urllib.parse.urlsplit(u)
+    if not p.netloc.endswith("amazon.co.uk"): return u
+    q=[(k,v) for k,v in urllib.parse.parse_qsl(p.query) if k!="tag"]+[("tag",AMZ_TAG)]
+    return urllib.parse.urlunsplit(p._replace(query=urllib.parse.urlencode(q)))
+def loaded(dest=None): return LOADED+("?u="+urllib.parse.quote(dest,safe="") if dest else "")
 if not DRY and not (KEY and SECRET and WORKER): print("Missing RESEND_API_KEY/SIGNING_SECRET/WORKER_URL; skipping send."); sys.exit(0)
 def api(path, method="GET", body=None, headers=None):
     h={"Authorization":f"Bearer {KEY}","Content-Type":"application/json","User-Agent":"PixelSteals/1.0"}; h.update(headers or {})
     r=urllib.request.Request("https://api.resend.com"+path,data=json.dumps(body).encode() if body is not None else None,headers=h,method=method)
     with urllib.request.urlopen(r,timeout=60) as x: return json.load(x)
 d=json.load(open("deals.json"))
+for _g in d["deals"]:
+    _g["url"]=amazon_tag(_g["url"])
+    if _g["store"].lower() in ("loaded","cdkeys","cdkeys.com"): _g["url"]=loaded("https://www.loaded.com/catalogsearch/result/?q="+urllib.parse.quote(_g["title"]))
 UK={"Steam","GOG","Humble Store","GreenManGaming","Fanatical","Epic Games Store","Gamesplanet UK","WinGameStore"}
 _ep={g["title"].lower() for g in d["epic"]}
 deals=sorted([x for x in d["deals"] if x["title"].lower() not in _ep],key=lambda x:(x["store"] not in UK, x["store"]!="Gamesplanet UK", -x["savings"]))[:10]
@@ -49,19 +60,22 @@ def body(unsub):
     out.append(head("&#128293; Today&rsquo;s top PC deals"))
     for g in deals:
         out.append(card(f'<tr><td>{img(g.get("img"),g["title"])}</td></tr><tr><td style="padding:14px 18px 4px;{FONT}"><span style="display:inline-block;background:#ff2e63;color:#fff;font-weight:bold;font-size:13px;padding:3px 8px;border-radius:3px">-{g["savings"]}%</span> <a href="{e(g["url"])}" style="color:#fff;text-decoration:none;font-size:19px;line-height:25px;font-weight:bold">{e(g["title"])}</a></td></tr><tr><td style="padding:6px 18px 12px;{FONT};color:#cfcfcf;font-size:15px"><b style="color:{G};font-size:18px">{usd(g["sale"])}</b> <s style="color:#77778a">{usd(g["normal"])}</s> &middot; at {e(g["store"])}</td></tr><tr><td style="padding:0 18px 18px">{btn(g["url"],"Get deal")}</td></tr>'))
+    out.append(head("&#127918; Partner pick"))
+    out.append(card(f'<tr><td style="padding:16px 18px 4px;{FONT}"><a href="{e(LOADED)}" style="color:#fff;text-decoration:none;font-size:19px;line-height:25px;font-weight:bold">Cheap game keys at Loaded</a> <span style="color:#77778a;font-size:12px">#ad</span></td></tr><tr><td style="padding:4px 18px 12px;{FONT};color:#cfcfcf;font-size:14px;line-height:21px">Loaded (formerly CDKeys) sells digital PC game keys, console credit and gift cards with instant email delivery. Check the region on the product page before you buy.</td></tr><tr><td style="padding:0 18px 18px">{btn(LOADED,"Browse Loaded")}</td></tr>'))
+    out.append(card(f'<tr><td style="padding:16px 18px 4px;{FONT}"><a href="{e(AMAZON)}" style="color:#fff;text-decoration:none;font-size:19px;line-height:25px;font-weight:bold">Game deals on Amazon UK</a> <span style="color:#77778a;font-size:12px">#ad</span></td></tr><tr><td style="padding:4px 18px 12px;{FONT};color:#cfcfcf;font-size:14px;line-height:21px">Today&rsquo;s Amazon UK deals on games, consoles and accessories.</td></tr><tr><td style="padding:0 18px 18px">{btn(AMAZON,"See Amazon deals")}</td></tr>'))
     out.append(f'<tr><td style="padding:10px 24px 4px;{FONT};color:#9a9aa8;font-size:12px">Prices in US dollars from CheapShark; UK prices in &pound; may differ, so check before buying.</td></tr>')
     out.append(f'<tr><td align="center" style="padding:22px 24px">{btn(SITE,"See all deals at pixelsteals.com")}</td></tr>')
     out.append(f'<tr><td style="padding:0 24px 10px;{FONT};color:#cfcfcf;font-size:14px;line-height:22px">Want more? Browse our <a href="{SITE}guides/" style="color:{G}">free-to-play picks and buying guides</a>. Discord alerts are coming soon.</td></tr>')
     out.append(f'<tr><td style="padding:8px 24px 24px;{FONT};color:#fff;font-size:15px">Happy hunting,<br><b>The PixelSteals team</b></td></tr>')
-    out.append(f'<tr><td style="padding:16px 24px 30px;border-top:1px solid #222;{FONT};color:#77778a;font-size:12px;line-height:18px">You&rsquo;re getting this because you confirmed a PixelSteals subscription at pixelsteals.com. <a href="{e(unsub)}" style="color:#9a9aa8">Unsubscribe</a> &middot; <a href="{SITE}privacy.html" style="color:#9a9aa8">Privacy</a></td></tr>')
+    out.append(f'<tr><td style="padding:16px 24px 30px;border-top:1px solid #222;{FONT};color:#77778a;font-size:12px;line-height:18px">You&rsquo;re getting this because you confirmed a PixelSteals subscription at pixelsteals.com. <a href="{e(unsub)}" style="color:#9a9aa8">Unsubscribe</a> &middot; <a href="{SITE}privacy.html" style="color:#9a9aa8">Privacy</a><br>Some links are affiliate links; we may earn a commission at no extra cost to you. As an Amazon Associate we earn from qualifying purchases. <a href="{SITE}affiliate.html" style="color:#9a9aa8">Affiliate disclosure</a></td></tr>')
     out.append('</table></td></tr></table>')
     return f'<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head><body style="margin:0;padding:0;background:{BG}">'+"".join(out)+'</body></html>'
 def text(unsub):
-    L=[f"PIXELSTEALS - {DATELINE}","#ad - contains affiliate links: "+SITE+"affiliate.html","",intro(),""]
+    L=[f"PIXELSTEALS - {DATELINE}","#ad - contains affiliate links. As an Amazon Associate we earn from qualifying purchases. Disclosure: "+SITE+"affiliate.html","",intro(),""]
     if d["epic"]:
         L.append("FREE ON EPIC (UK)"); L+= [f'- {g["title"]} - FREE until {ends(g)}\n  {g["url"]}' for g in d["epic"]]; L.append("")
     L.append("TODAY'S TOP PC DEALS"); L+=[f'- {g["title"]} -{g["savings"]}%: {usd(g["sale"])} (was {usd(g["normal"])}) at {g["store"]}\n  {g["url"]}' for g in deals]
-    L+=["","Prices in US dollars from CheapShark; UK prices may differ.","All deals: "+SITE,"","Happy hunting,","The PixelSteals team","",f"Unsubscribe: {unsub}",f"Privacy: {SITE}privacy.html"]
+    L+=["","Prices in US dollars from CheapShark; UK prices may differ.","PARTNER PICK (#ad): Cheap game keys at Loaded (formerly CDKeys)","  "+LOADED,"PARTNER PICK (#ad): Game deals on Amazon UK","  "+AMAZON,"","All deals: "+SITE,"","Happy hunting,","The PixelSteals team","",f"Unsubscribe: {unsub}",f"Privacy: {SITE}privacy.html","Some links are affiliate links; we may earn a commission at no extra cost to you. As an Amazon Associate we earn from qualifying purchases."]
     return "\n".join(L)
 def unsub_link(email):
     t=hmac.new(SECRET.encode(),("unsub:"+email).encode(),hashlib.sha256).hexdigest()[:32]

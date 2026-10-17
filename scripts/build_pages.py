@@ -1,15 +1,24 @@
 #!/usr/bin/env python3
 """Build PixelSteals content pages. Static guides + data pages regenerated from deals.json."""
-import json, re, html, datetime, os
+import json, re, html, datetime, os, urllib.parse
 os.chdir(os.path.dirname(os.path.abspath(__file__)) + "/..")
 e = html.escape
+LOADED = "https://go.loaded.com/KBLBry"  # Loaded (formerly CDKeys) via Impact
+def loaded(dest=None): return LOADED + ("?u=" + urllib.parse.quote(dest, safe="") if dest else "")
+AMZ_TAG = "trustedtrad07-21"; AMAZON = "https://www.amazon.co.uk/gp/goldbox?tag=" + AMZ_TAG
+def amazon_tag(u):  # tag an existing amazon.co.uk product link with our Associates tag
+    p = urllib.parse.urlsplit(u)
+    if not p.netloc.endswith("amazon.co.uk"): return u
+    q = [(k, v) for k, v in urllib.parse.parse_qsl(p.query) if k != "tag"] + [("tag", AMZ_TAG)]
+    return urllib.parse.urlunsplit(p._replace(query=urllib.parse.urlencode(q)))
+SPON = 'rel="sponsored nofollow noopener" target="_blank"'
 idx = open("index.html").read()
 STYLE = re.search(r"<style>.*?</style>", idx, re.S).group(0)
 ADS = re.search(r'<script async src="https://pagead2\.googlesyndication\.com[^>]*></script>', idx)
 ADS = ADS.group(0) if ADS else ""
 EXTRA = "<style>nav a{margin-right:16px;text-decoration:none}article{max-width:760px}article h2{margin-top:1.6em}table{border-collapse:collapse;width:100%;margin:1em 0}td,th{border-bottom:1px solid #223;padding:8px;text-align:left}.date{color:var(--m);font-size:.9rem}</style>"
 NAV = '<nav><a href="/">Deals</a><a href="/guides/">Guides</a><a href="/about.html">About</a><a href="/contact.html">Contact</a></nav>'
-FOOT = '<footer class="w"><p>PixelSteals is independent and not affiliated with Epic Games, Valve, Microsoft or any store. <a href="/affiliate.html">Affiliate disclosure</a> · <a href="/privacy.html">Privacy policy</a> · <a href="/about.html">About</a> · <a href="/contact.html">Contact</a></p><p>Deal data via <a href="https://www.cheapshark.com">CheapShark</a> and the Epic Games Store. Prices change fast; always check the store before buying.</p></footer>'
+FOOT = '<footer class="w"><p>PixelSteals is independent and not affiliated with Epic Games, Valve, Microsoft or any store. <a href="/affiliate.html">Affiliate disclosure</a> · <a href="/privacy.html">Privacy policy</a> · <a href="/about.html">About</a> · <a href="/contact.html">Contact</a> · <a href="'+LOADED+'" '+SPON+'>Partner: Loaded</a> · <a href="'+AMAZON+'" '+SPON+'>Game deals on Amazon UK</a></p><p>Some links are affiliate links; we may earn a commission at no extra cost to you. As an Amazon Associate we earn from qualifying purchases. Deal data via <a href="https://www.cheapshark.com">CheapShark</a> and the Epic Games Store. Prices change fast; always check the store before buying.</p></footer>'
 def page(path, title, desc, body):
     h = (f"<!doctype html><html lang=en-GB><head><meta charset=utf-8><meta name=viewport content='width=device-width,initial-scale=1'>"
          f"<title>{e(title)} – PixelSteals</title><meta name=description content=\"{e(desc)}\"><link rel=canonical href=\"https://pixelsteals.com/{path.replace('index.html','')}\">"
@@ -55,6 +64,12 @@ page("guides/free-epic-games.html", "Free Epic Games Store games right now (UK)"
 
 # ---------- Weekly deals (data page) ----------
 deals = sorted(d["deals"], key=lambda x: -x["savings"])
+for g in deals:  # if a deal is ever from Loaded/CDKeys, send it through our tracked deep link
+    g["url"] = amazon_tag(g["url"])
+    if g["store"].lower() in ("loaded", "cdkeys", "cdkeys.com"): g["url"] = loaded("https://www.loaded.com/catalogsearch/result/?q=" + urllib.parse.quote(g["title"]))
+PARTNER = (f'<h2>Partner pick: Loaded</h2><p><a href="{loaded("https://www.loaded.com/pc")}" {SPON}>Loaded (formerly CDKeys)</a> <small>#ad</small> sells digital PC game keys, console credit and gift cards with email delivery. '
+           'It isn\'t tracked by CheapShark, so its prices aren\'t in the table above; it\'s worth a look when comparing. Check the region on the product page before you buy.</p>'
+           f'<p>Console or accessories instead? See <a href="{AMAZON}" {SPON}>today\'s game deals on Amazon UK</a> <small>#ad</small>. As an Amazon Associate we earn from qualifying purchases.</p>')
 rows = "".join(f'<tr><td><a href="{e(g["url"])}" rel="noopener sponsored">{e(g["title"])}</a></td><td>{e(g["store"])}</td><td>${e(g["sale"])}</td><td><s>${e(g["normal"])}</s></td><td>−{g["savings"]}%</td></tr>' for g in deals)
 stores = sorted({g["store"] for g in deals})
 under5 = [g for g in deals if float(g["sale"]) < 5]
@@ -64,7 +79,7 @@ page("guides/best-pc-game-deals.html", "This week's best PC game deals", "The be
 <p><strong>About the prices:</strong> CheapShark reports prices in US dollars. UK stores charge in pounds and the UK price isn't always a straight conversion, so treat the figures as a guide and check the price on the store page before you buy. Links go via CheapShark's own redirect links. <a href="/affiliate.html">#ad disclosure</a>.</p>
 <h2>Today's list ({len(deals)} deals from {len(stores)} stores)</h2>
 <table><tr><th>Game</th><th>Store</th><th>Sale (USD)</th><th>Normal</th><th>Saving</th></tr>{rows}</table>
-<p>{len(under5)} of these are under $5 today. Stores in today's list: {e(", ".join(stores))}.</p>
+<p>{len(under5)} of these are under $5 today. Stores in today's list: {e(", ".join(stores))}.</p>{PARTNER}
 <h2>How to use a deal list like this</h2>
 <ul><li><strong>Check the region.</strong> Keys from some stores are region-locked. All the stores tracked here sell to UK customers, but read the store page for any "not available in your region" note.</li>
 <li><strong>Same game, several stores?</strong> Pick the store that delivers to the platform you use. A GOG copy is DRM-free and installs through GOG Galaxy or a plain installer; most other stores give you a Steam key.</li>
