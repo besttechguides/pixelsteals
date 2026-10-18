@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T07:17Z",
+ "updated": "2026-10-18T12:48Z",
  "epic": [
   {
    "title": "Bad Cheese",
@@ -181,6 +181,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
   },
   {
+   "title": "Lysfanga: The Time Shift Warrior",
+   "store": "GameBillet",
+   "sale": "1.64",
+   "normal": "19.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=EPrI1jvxx6NkLNMKT45Pb0EsALyye4aqqNe1IbKl%2BdM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2161620/capsule_231x87.jpg?t=1710436253"
+  },
+  {
    "title": "Anarcute",
    "store": "WinGameStore",
    "sale": "1.49",
@@ -233,15 +242,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=Ra%2BkxYw9DFw9Cwzhkd1i10%2FHZDYErrEcA6GThqaO1Wc%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1342620/capsule_231x87.jpg?t=1729175144"
-  },
-  {
-   "title": "MONSTER HUNTER RISE",
-   "store": "GamersGate",
-   "sale": "4.00",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=TrF%2BeGNc6cJU2jJcRC%2BC%2F6RjlC2yNv7ikkiSpDmgjis%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1768870444"
   }
  ]
 }
