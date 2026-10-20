@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T15:53Z",
+ "updated": "2026-10-20T07:17Z",
  "epic": [
   {
    "title": "Bad Cheese",
@@ -28,15 +28,6 @@
  ],
  "deals": [
   {
-   "title": "The Witcher 3: Wild Hunt  Remastered",
-   "store": "GOG",
-   "sale": "24.99",
-   "normal": "49.99",
-   "savings": 50,
-   "url": "https://www.cheapshark.com/redirect?dealID=OR%2BVz0QIAULaNU5tjUdvoTs3iqGm6lodrS%2BXzXvxPXg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/62fb0a4707d9fb0f729affec7d7d01dd70099769/capsule_231x87_alt_assets_1.jpg?t=1790845156"
-  },
-  {
    "title": "Silver Pines",
    "store": "Steam",
    "sale": "22.26",
@@ -64,6 +55,33 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
   },
   {
+   "title": "Shadow Tactics: Blades of the Shogun",
+   "store": "WinGameStore",
+   "sale": "2.49",
+   "normal": "39.99",
+   "savings": 94,
+   "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
+   "title": "Hitman 2: Silent Assassin",
+   "store": "Steam",
+   "sale": "0.89",
+   "normal": "8.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=9LFlfPPXEpdvcFz68YG4VUutBRsMNuc2at1lcODyQYk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
+  },
+  {
+   "title": "Hitman 2: Silent Assassin",
+   "store": "GOG",
+   "sale": "0.89",
+   "normal": "8.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=02BngC2eerCKDu6td3LDoognymPLwY5pWbigLzanh5I%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
+  },
+  {
    "title": "Deus Ex: Human Revolution - Director's Cut",
    "store": "DreamGame",
    "sale": "3.00",
@@ -71,6 +89,33 @@
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=Y4Ig3TxogTnj2Ny%2F18X5TjWcKlzA3%2FPBuquowYHoMtI%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
+  },
+  {
+   "title": "BioShock",
+   "store": "Steam",
+   "sale": "4.99",
+   "normal": "19.99",
+   "savings": 75,
+   "url": "https://www.cheapshark.com/redirect?dealID=7OKT5vjgeNTOpZUf6NTct4pDEozvxfM3KwdevolT%2FCE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
+  },
+  {
+   "title": "Hell Pie",
+   "store": "Steam",
+   "sale": "1.49",
+   "normal": "24.99",
+   "savings": 94,
+   "url": "https://www.cheapshark.com/redirect?dealID=EWCWRdJCZ%2BEF8cUCE32v1VCqy7BC7CJU0ujmEZJDizQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/889910/capsule_231x87.jpg?t=1764867573"
+  },
+  {
+   "title": "BioShock 2",
+   "store": "Steam",
+   "sale": "2.99",
+   "normal": "19.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=O%2BSZ%2FWxXnuj0dNBuB1ytb2ytFK8WOK%2FfmZWTYDPjTF4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/capsule_231x87.jpg?t=1730174099"
   },
   {
    "title": "Disco Elysium - The Final Cut",
@@ -82,6 +127,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
   },
   {
+   "title": "Hitman: Blood Money",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=hz69tD7igaue5tPP9YlHRZTYhYSKEIubJSTVR3Sa2NA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6860/capsule_231x87.jpg?t=1732283123"
+  },
+  {
+   "title": "Deponia Doomsday",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "29.99",
+   "savings": 95,
+   "url": "https://www.cheapshark.com/redirect?dealID=nWV6m%2Fh8mX%2BuE6s%2BoQ6fUlAlUNC6NFsweFvPpWzwxZc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/421050/capsule_231x87.jpg?t=1789475469"
+  },
+  {
    "title": "The Next Penelope",
    "store": "DreamGame",
    "sale": "1.30",
@@ -89,6 +152,24 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=oCiePoNZE7Ez4X3yPvnxaWn9TB5gIarRTaEvo4rG72Y%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
+  },
+  {
+   "title": "The Textorcist: The Story of Ray Bibbia",
+   "store": "Steam",
+   "sale": "1.04",
+   "normal": "14.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=yHwHEUOSnAYu2oHH4egqsPEsay39S2LKabnrOT2v2JM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/940680/capsule_231x87.jpg?t=1754643092"
+  },
+  {
+   "title": "Iratus Lord of the Dead",
+   "store": "WinGameStore",
+   "sale": "1.99",
+   "normal": "29.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=sSgEtFG8mz0lIMOFyPBQw%2BySy9Bv4QnXYl%2FlNHNIR8w%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/807120/capsule_231x87.jpg?t=1789476763"
   },
   {
    "title": "Super Hydorah",
@@ -101,12 +182,30 @@
   },
   {
    "title": "The Inner World - The Last Wind Monk",
+   "store": "Steam",
+   "sale": "1.59",
+   "normal": "19.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=Wa5qiz7qG5nJuDKq5uViAywtw8kcM95uODQ96RKRb3Q%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613470/capsule_231x87.jpg?t=1717679611"
+  },
+  {
+   "title": "The Inner World - The Last Wind Monk",
    "store": "Epic Games Store",
    "sale": "1.59",
    "normal": "19.99",
    "savings": 92,
    "url": "https://www.cheapshark.com/redirect?dealID=kro9wGIraCHaRWsyBFtZPgWhI7sf5P1NlHGXu1ymZUM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613470/capsule_231x87.jpg?t=1717679611"
+  },
+  {
+   "title": "Bridge Constructor Portal",
+   "store": "Steam",
+   "sale": "0.89",
+   "normal": "9.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=5pOCXB3pu3%2FlUydWHwAeME0yIHQKuGF2QZQyoQpnPxo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/684410/capsule_231x87.jpg?t=1717674640"
   },
   {
    "title": "The Next Penelope",
@@ -118,130 +217,31 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
   },
   {
-   "title": "Bury me, my Love",
-   "store": "DreamGame",
-   "sale": "0.50",
-   "normal": "4.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=c5TFSCTB2oXZy3vDzOb6%2FmdBgzJ%2FsOePreOqNf4rYrw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/808090/capsule_231x87.jpg?t=1781885052"
-  },
-  {
-   "title": "Stealth Bastard Deluxe",
-   "store": "DreamGame",
-   "sale": "1.00",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=FFZdmsK%2BmTIA%2ByPDf2T7aeFLkVspMkIWw%2BhgAkmoebI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209190/capsule_231x87.jpg?t=1747738814"
-  },
-  {
-   "title": "Fly'N",
-   "store": "DreamGame",
-   "sale": "1.00",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=J1IUF2%2F2Kjzn%2BwmENu2fxD6vl2CO9KwQrvX9sJV7Y6g%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223730/capsule_231x87.jpg?t=1753954633"
-  },
-  {
-   "title": "When Ski Lifts Go Wrong",
-   "store": "DreamGame",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=ko5C0PJO8KnLuIyAPfT4wqz8TEMV4prjHy6iDuJD284%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
-  },
-  {
-   "title": "Hogwarts Legacy",
-   "store": "Epic Games Store",
-   "sale": "5.99",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2Fn%2F5x2ClvrvzThtgmxBpOUqhfG1owwHqQE%2FQLlEqczY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/4617336bf98ab04289173328838f18303673457f/capsule_231x87.jpg?t=1790708992"
-  },
-  {
-   "title": "Frostpunk",
-   "store": "Gamesplanet",
-   "sale": "3.76",
-   "normal": "29.99",
-   "savings": 87,
-   "url": "https://www.cheapshark.com/redirect?dealID=DmASoOxtLpzJACCeSNsk%2BbnYyLEm%2Bh7XWpbPWQ0s3dg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323190/45bfdc7f6b60b2acab44cc96c488f938219c42fd/capsule_231x87.jpg?t=1792058205"
-  },
-  {
-   "title": "Darkwood",
-   "store": "Epic Games Store",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=g4vegkk8AjyaSC1irEfbn6WxdeDdcJh4VoeCJYztONk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274520/b2902056c13270bba1d4aba1c91a2cb36beb175e/capsule_231x87.jpg?t=1791278921"
-  },
-  {
-   "title": "Unity of Command II",
-   "store": "Steam",
-   "sale": "2.99",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=fwNwzWaH9FmEtHMgvo6sAC3Rh%2BYLdvHR2LPBx21jh9U%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809230/capsule_231x87.jpg?t=1791969552"
-  },
-  {
-   "title": "BioShock Infinite",
-   "store": "DreamGame",
-   "sale": "7.35",
-   "normal": "29.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=VWdjBCo9CksAFyfcotkC4H2DSgZNhD4izTK7Rpvpc3A%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/capsule_231x87.jpg?t=1728673518"
-  },
-  {
-   "title": "Unity of Command II",
-   "store": "GamersGate",
-   "sale": "3.00",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=LwCdK8kjzVY%2FkWs09aK7D2kKj9MB2DtlqBbLLZCeWNk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809230/capsule_231x87.jpg?t=1791969552"
-  },
-  {
-   "title": "Borderlands 3",
-   "store": "GreenManGaming",
-   "sale": "5.40",
-   "normal": "59.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=U%2Bf0VQyiojbRrGJSe6GHdjbUm2GvPq4l7QDv0TMzDak%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1750802377"
-  },
-  {
-   "title": "Shadowgrounds Survivor",
-   "store": "DreamGame",
-   "sale": "1.00",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Pj6n%2FssMnsLNzLetlW6fY7XgdwXKtvUNZqOap%2FWYfeo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
+   "title": "Ken Follett's The Pillars of the Earth",
    "store": "WinGameStore",
-   "sale": "3.99",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+   "sale": "1.49",
+   "normal": "19.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=wTxo%2FbeNCbm7WtPrb1Ibxqy3ORPGJj5kFBTTLuVVKt4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234270/capsule_231x87.jpg?t=1789476278"
   },
   {
-   "title": "Impulsion",
-   "store": "DreamGame",
-   "sale": "1.30",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Pf5FTHE6vWLrmx1D24cPGvNSjsOiEBwy8wS9itYxS%2Fg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
+   "title": "Rough Justice: 84",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "19.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=IEjzAV7A0zfYFcb4sFE66ma9BBy3d5KBxNL104cCiI4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1291860/capsule_231x87.jpg?t=1789478119"
+  },
+  {
+   "title": "IL-2 Sturmovik: 1946",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "9.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=aNAamitLXrQJSrXJQUA8h4gisWSJKCIiZA1uOLDXUgg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945"
   }
  ]
 }
