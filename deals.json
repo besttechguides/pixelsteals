@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T07:17Z",
+ "updated": "2026-10-20T13:52Z",
  "epic": [
   {
    "title": "Bad Cheese",
@@ -34,7 +34,7 @@
    "normal": "35.98",
    "savings": 38,
    "url": "https://www.cheapshark.com/redirect?dealID=HNPl2c6%2BV040vKq07rLwKPiQSYrZsTs4Zo%2FSqEhREYE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/1d876833b58e192d06e6067a84da77c2768c30e4/capsule_231x87.jpg?t=1791897978"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/1d876833b58e192d06e6067a84da77c2768c30e4/capsule_231x87.jpg?t=1792490698"
   },
   {
    "title": "EA SPORTS PGA TOUR",
@@ -163,6 +163,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/940680/capsule_231x87.jpg?t=1754643092"
   },
   {
+   "title": "Wizardry 8",
+   "store": "GOG",
+   "sale": "1.49",
+   "normal": "9.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=4RF6LEHZSMLFWuID2BzY1i8v2RdEkic4sRqpXfPOHqM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245450/capsule_231x87.jpg?t=1774276664"
+  },
+  {
    "title": "Iratus Lord of the Dead",
    "store": "WinGameStore",
    "sale": "1.99",
@@ -179,6 +188,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=rTTCt6PRw0SyBAWZ5XjRWK7DkpNs11lPXHUFxExi1HM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/628800/e7c5538273e2a62080e3469b10e6a9f61a19c7a0/capsule_231x87.jpg?t=1790694045"
+  },
+  {
+   "title": "Tower of Time",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "24.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2BTtUcXUugzMF2EAX8PXOWDv7Ax7h8F6cHsx9uUYAcBU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/617480/75e6dee24eecc1fb9f7d4f0b0f2b7a3a6ff207a0/capsule_231x87.jpg?t=1791198345"
   },
   {
    "title": "The Inner World - The Last Wind Monk",
@@ -224,24 +242,6 @@
    "savings": 93,
    "url": "https://www.cheapshark.com/redirect?dealID=wTxo%2FbeNCbm7WtPrb1Ibxqy3ORPGJj5kFBTTLuVVKt4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234270/capsule_231x87.jpg?t=1789476278"
-  },
-  {
-   "title": "Rough Justice: 84",
-   "store": "WinGameStore",
-   "sale": "1.49",
-   "normal": "19.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=IEjzAV7A0zfYFcb4sFE66ma9BBy3d5KBxNL104cCiI4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1291860/capsule_231x87.jpg?t=1789478119"
-  },
-  {
-   "title": "IL-2 Sturmovik: 1946",
-   "store": "WinGameStore",
-   "sale": "1.49",
-   "normal": "9.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=aNAamitLXrQJSrXJQUA8h4gisWSJKCIiZA1uOLDXUgg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945"
   }
  ]
 }
