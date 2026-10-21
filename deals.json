@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T13:52Z",
+ "updated": "2026-10-21T07:17Z",
  "epic": [
   {
    "title": "Bad Cheese",
@@ -44,6 +44,42 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=d%2F76kKc8wzdFvnXE2GTj0ruDps28NPqKIfIvQ4AjZ8c%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677350/capsule_231x87.jpg?t=1777395708"
+  },
+  {
+   "title": "Metro 2033 Redux",
+   "store": "Humble Store",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=4N8lwdp8b3fG3Qg1qY2nABPCJ8rgTczjiXluOg3TPBk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/capsule_231x87.jpg?t=1741110084"
+  },
+  {
+   "title": "Super Meat Boy",
+   "store": "Steam",
+   "sale": "1.19",
+   "normal": "14.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=Fs%2BQgmFZf9VVUIOJkAyGLakgSUq%2BFTHMuSGkS6qrs34%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40800/capsule_231x87.jpg?t=1700669950"
+  },
+  {
+   "title": "Rogue Legacy",
+   "store": "GOG",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=wNjuHxmHnC40ibZzD%2BZ8DGxniOylfO3jy9rXt3Y8Rt8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241600/capsule_231x87.jpg?t=1743078622"
+  },
+  {
+   "title": "Deus Ex: Human Revolution - Director's Cut",
+   "store": "GOG",
+   "sale": "2.99",
+   "normal": "19.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=CHSUkUA5Qsd%2Fz%2BBJ6a95p7hGCN0oyXK83Mg9G5yhnyY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
   },
   {
    "title": "Deus Ex: Human Revolution - Director's Cut",
@@ -91,6 +127,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
   },
   {
+   "title": "Shadow Tactics: Blades of the Shogun",
+   "store": "GOG",
+   "sale": "3.99",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=evPHVt7ofnWKB48WqFd8YaqH6sGGEZO6%2FaJ5%2F80L1YU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
    "title": "BioShock",
    "store": "Steam",
    "sale": "4.99",
@@ -116,6 +161,15 @@
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=O%2BSZ%2FWxXnuj0dNBuB1ytb2ytFK8WOK%2FfmZWTYDPjTF4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/capsule_231x87.jpg?t=1730174099"
+  },
+  {
+   "title": "Anomaly: Warzone Earth",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=s7HEgfT5emvIn0EWfiWyd%2BsICobDRM7qg8GDRiL9bNw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91200/capsule_231x87.jpg?t=1634818526"
   },
   {
    "title": "Disco Elysium - The Final Cut",
@@ -145,6 +199,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/421050/capsule_231x87.jpg?t=1789475469"
   },
   {
+   "title": "Freedom Fighters",
+   "store": "GOG",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=vXy83DX7kQBKv7tH%2BAPZm8QyGLmsR1bODhG8HgfnFhg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1347780/capsule_231x87.jpg?t=1600704099"
+  },
+  {
    "title": "The Next Penelope",
    "store": "DreamGame",
    "sale": "1.30",
@@ -172,76 +235,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245450/capsule_231x87.jpg?t=1774276664"
   },
   {
-   "title": "Iratus Lord of the Dead",
-   "store": "WinGameStore",
-   "sale": "1.99",
-   "normal": "29.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=sSgEtFG8mz0lIMOFyPBQw%2BySy9Bv4QnXYl%2FlNHNIR8w%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/807120/capsule_231x87.jpg?t=1789476763"
-  },
-  {
-   "title": "Super Hydorah",
-   "store": "Epic Games Store",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=rTTCt6PRw0SyBAWZ5XjRWK7DkpNs11lPXHUFxExi1HM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/628800/e7c5538273e2a62080e3469b10e6a9f61a19c7a0/capsule_231x87.jpg?t=1790694045"
-  },
-  {
-   "title": "Tower of Time",
-   "store": "GOG",
-   "sale": "1.99",
-   "normal": "24.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2BTtUcXUugzMF2EAX8PXOWDv7Ax7h8F6cHsx9uUYAcBU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/617480/75e6dee24eecc1fb9f7d4f0b0f2b7a3a6ff207a0/capsule_231x87.jpg?t=1791198345"
-  },
-  {
-   "title": "The Inner World - The Last Wind Monk",
+   "title": "Aeon Drive",
    "store": "Steam",
-   "sale": "1.59",
-   "normal": "19.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=Wa5qiz7qG5nJuDKq5uViAywtw8kcM95uODQ96RKRb3Q%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613470/capsule_231x87.jpg?t=1717679611"
-  },
-  {
-   "title": "The Inner World - The Last Wind Monk",
-   "store": "Epic Games Store",
-   "sale": "1.59",
-   "normal": "19.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=kro9wGIraCHaRWsyBFtZPgWhI7sf5P1NlHGXu1ymZUM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613470/capsule_231x87.jpg?t=1717679611"
-  },
-  {
-   "title": "Bridge Constructor Portal",
-   "store": "Steam",
-   "sale": "0.89",
-   "normal": "9.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=5pOCXB3pu3%2FlUydWHwAeME0yIHQKuGF2QZQyoQpnPxo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/684410/capsule_231x87.jpg?t=1717674640"
-  },
-  {
-   "title": "The Next Penelope",
-   "store": "Gamesplanet",
-   "sale": "1.16",
-   "normal": "12.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=UcN3Ob27BNr%2FfGLh%2Buhd8tNyh5DW%2BrZs%2BHecbjrANQs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
-  },
-  {
-   "title": "Ken Follett's The Pillars of the Earth",
-   "store": "WinGameStore",
    "sale": "1.49",
-   "normal": "19.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=wTxo%2FbeNCbm7WtPrb1Ibxqy3ORPGJj5kFBTTLuVVKt4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/234270/capsule_231x87.jpg?t=1789476278"
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=aAfMq61xORo6e%2Fh6WmSHig%2BpaPyvCPuaFGZhpWfPYL4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1252240/capsule_231x87.jpg?t=1731176057"
   }
  ]
 }
