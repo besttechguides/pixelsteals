@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T14:09Z",
+ "updated": "2026-10-22T07:17Z",
  "epic": [
   {
    "title": "Bad Cheese",
@@ -55,6 +55,33 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/capsule_231x87.jpg?t=1741110084"
   },
   {
+   "title": "Sid Meiers Civilization VI",
+   "store": "Gamesplanet",
+   "sale": "5.77",
+   "normal": "59.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=w%2B5ojedM7X0TvzRbvuxsC%2FYfJqXI2J8yH%2FwEhXlSDRg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792602288"
+  },
+  {
+   "title": "BioShock",
+   "store": "Gamesplanet",
+   "sale": "4.84",
+   "normal": "19.99",
+   "savings": 76,
+   "url": "https://www.cheapshark.com/redirect?dealID=sih7CO1qZ1vUrVB%2BuKVccW82zOPd37fOjCi07Y5ip4k%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
+  },
+  {
+   "title": "Sid Meiers Civilization VI",
+   "store": "GamersGate",
+   "sale": "6.00",
+   "normal": "59.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=ckx0u2bxCeKbtaweJyEGoXjAnjp9XAYGtAj83Pb6w4s%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792602288"
+  },
+  {
    "title": "Super Meat Boy",
    "store": "Steam",
    "sale": "1.19",
@@ -62,6 +89,15 @@
    "savings": 92,
    "url": "https://www.cheapshark.com/redirect?dealID=Fs%2BQgmFZf9VVUIOJkAyGLakgSUq%2BFTHMuSGkS6qrs34%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40800/capsule_231x87.jpg?t=1700669950"
+  },
+  {
+   "title": "BioShock",
+   "store": "GamersGate",
+   "sale": "5.00",
+   "normal": "19.99",
+   "savings": 75,
+   "url": "https://www.cheapshark.com/redirect?dealID=DlT5IxXbqt4KI7VAOZVcrt1u%2BS9qYZQ16IY4cory4Cg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
   },
   {
    "title": "Deus Ex: Human Revolution - Director's Cut",
@@ -73,6 +109,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
   },
   {
+   "title": "Mortal Kombat 11 Ultimate",
+   "store": "GamersGate",
+   "sale": "9.00",
+   "normal": "59.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=cXykklbia0CGeK3o2p7LaMayjx8xAwPfNzMfIzF1xMA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/518699/capsule_231x87.jpg?t=1780429573"
+  },
+  {
    "title": "Rogue Legacy",
    "store": "GOG",
    "sale": "1.49",
@@ -80,6 +125,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=wNjuHxmHnC40ibZzD%2BZ8DGxniOylfO3jy9rXt3Y8Rt8%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241600/capsule_231x87.jpg?t=1743078622"
+  },
+  {
+   "title": "Joe Danger 2: The Movie",
+   "store": "Gamesplanet",
+   "sale": "1.35",
+   "normal": "14.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=wXu0pRdf5tfJsEM3z3%2ByuY5ConELwazXx1BewlVmqSU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
   },
   {
    "title": "Deus Ex: Human Revolution - Director's Cut",
@@ -91,6 +145,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
   },
   {
+   "title": "BioShock 2",
+   "store": "Gamesplanet",
+   "sale": "2.95",
+   "normal": "19.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=eIC7rg3p0JS%2Fgg6Uiog7o9ICh1K3ZemzjMsUVBebTJw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/capsule_231x87.jpg?t=1730174099"
+  },
+  {
    "title": "Deus Ex: Human Revolution - Director's Cut",
    "store": "WinGameStore",
    "sale": "1.99",
@@ -100,6 +163,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
   },
   {
+   "title": "BioShock 2",
+   "store": "GamersGate",
+   "sale": "3.00",
+   "normal": "19.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=Mp%2BYJYqB2mMdRDU5AOHlz6gnIrcTMsBjboqOFek0D0k%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/capsule_231x87.jpg?t=1730174099"
+  },
+  {
    "title": "Shadow Tactics: Blades of the Shogun",
    "store": "WinGameStore",
    "sale": "2.49",
@@ -107,6 +179,24 @@
    "savings": 94,
    "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
+   "title": "Joe Danger 2: The Movie",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=QnI79INhhm9MhS53%2FNxMNfNg8JM3elW4u1MH5W9VnTg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
+  },
+  {
+   "title": "Joe Danger 2: The Movie",
+   "store": "GamersGate",
+   "sale": "1.50",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=B0ejVy1cY3y74eUICxyYs7QS%2Fe75GVAOPw2e44TcWrE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
   },
   {
    "title": "Hitman 2: Silent Assassin",
@@ -127,121 +217,31 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
   },
   {
-   "title": "The Next Penelope",
-   "store": "DreamGame",
-   "sale": "1.30",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=oCiePoNZE7Ez4X3yPvnxaWn9TB5gIarRTaEvo4rG72Y%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
+   "title": "Mortal Kombat11",
+   "store": "Gamesplanet",
+   "sale": "4.34",
+   "normal": "49.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=cWX4LT6yRzOeEasg%2BjssQPqOozn6GbsJNU%2BP%2BXzpdvM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/capsule_231x87.jpg?t=1780429525"
   },
   {
-   "title": "Shadow Tactics: Blades of the Shogun",
-   "store": "GOG",
-   "sale": "3.99",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=evPHVt7ofnWKB48WqFd8YaqH6sGGEZO6%2FaJ5%2F80L1YU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
-  },
-  {
-   "title": "BioShock",
-   "store": "Steam",
-   "sale": "4.99",
-   "normal": "19.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=7OKT5vjgeNTOpZUf6NTct4pDEozvxfM3KwdevolT%2FCE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
-  },
-  {
-   "title": "Impulsion",
-   "store": "DreamGame",
-   "sale": "1.30",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Pf5FTHE6vWLrmx1D24cPGvNSjsOiEBwy8wS9itYxS%2Fg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
-  },
-  {
-   "title": "Anarcute",
-   "store": "DreamGame",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=JnAZNDOTmAeMgXIf9N9ZCPrvNahwFW2XK26XzdCg1eE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
-  },
-  {
-   "title": "Wanderlust Travel Stories",
-   "store": "DreamGame",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=8iRAirgtTjiW6rBmADEnZBos3xNA%2B8Rk6%2F7qur%2FgZug%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1051410/capsule_231x87.jpg?t=1724948951"
-  },
-  {
-   "title": "Splasher",
-   "store": "DreamGame",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2Fc76ZWPK9OE1bmVRwljXsaHwmLkB2G5xwuYXbgyk00M%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950"
-  },
-  {
-   "title": "BioShock Infinite",
-   "store": "DreamGame",
-   "sale": "7.50",
-   "normal": "29.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=VWdjBCo9CksAFyfcotkC4H2DSgZNhD4izTK7Rpvpc3A%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/capsule_231x87.jpg?t=1728673518"
-  },
-  {
-   "title": "Hell Pie",
-   "store": "Steam",
-   "sale": "1.49",
-   "normal": "24.99",
-   "savings": 94,
-   "url": "https://www.cheapshark.com/redirect?dealID=EWCWRdJCZ%2BEF8cUCE32v1VCqy7BC7CJU0ujmEZJDizQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/889910/capsule_231x87.jpg?t=1764867573"
-  },
-  {
-   "title": "Afterimage",
-   "store": "DreamGame",
-   "sale": "2.50",
-   "normal": "24.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=MvYmX7XtSx%2FeSNxkqwC1tZ%2BxTGfDSW5xlqmK4cU8%2Bb4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1701520/capsule_231x87.jpg?t=1787333685"
-  },
-  {
-   "title": "BioShock 2",
-   "store": "Steam",
-   "sale": "2.99",
-   "normal": "19.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=O%2BSZ%2FWxXnuj0dNBuB1ytb2ytFK8WOK%2FfmZWTYDPjTF4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/capsule_231x87.jpg?t=1730174099"
-  },
-  {
-   "title": "Anomaly: Warzone Earth",
-   "store": "GOG",
+   "title": "Stories Untold",
+   "store": "Gamesplanet",
    "sale": "0.99",
    "normal": "9.99",
    "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=s7HEgfT5emvIn0EWfiWyd%2BsICobDRM7qg8GDRiL9bNw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91200/capsule_231x87.jpg?t=1634818526"
+   "url": "https://www.cheapshark.com/redirect?dealID=U84rxVlnbAtajuh3PskPftioTrfdsd4iNKiLahN6RiI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1788374614"
   },
   {
-   "title": "The Textorcist: The Story of Ray Bibbia",
-   "store": "DreamGame",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=RBRTi6ChTbNahZYhvLO0orc3s4MTZ81uYmwSX4fzC6g%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/940680/capsule_231x87.jpg?t=1754643092"
+   "title": "BioShock Infinite",
+   "store": "Gamesplanet",
+   "sale": "7.16",
+   "normal": "29.99",
+   "savings": 76,
+   "url": "https://www.cheapshark.com/redirect?dealID=2sDtUVnDfdJu1XottvKlPmZXgHGMv8gD4ufzmS9JHDk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/capsule_231x87.jpg?t=1728673518"
   }
  ]
 }
