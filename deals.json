@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T07:17Z",
+ "updated": "2026-10-23T07:45Z",
  "epic": [
   {
    "title": "Sker Ritual",
@@ -19,6 +19,92 @@
    "title": "Sorry We're Closed",
    "starts": "2026-10-29T15:00:00.000Z",
    "ends": "2026-11-05T16:00:00.000Z"
+  }
+ ],
+ "free_other": [
+  {
+   "title": "The Black Within",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/67cb0e32bf51c.jpg",
+   "ends": "2026-10-24T23:59:59Z"
+  },
+  {
+   "title": "The Green Light",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/the-green-light-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/6a369af2d25aa.jpg",
+   "ends": "2026-10-29T23:59:00Z"
+  },
+  {
+   "title": "Primal Slideee Deluxe",
+   "store": "Stove",
+   "url": "https://www.gamerpower.com/open/primal-slideee-deluxe-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/6993208da38c7.jpg",
+   "ends": "2026-10-31T23:59:59Z"
+  },
+  {
+   "title": "Last Room",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/last-room-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/68f91bd81c328.jpg",
+   "ends": null
+  },
+  {
+   "title": "Best Plumber",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/best-plumber-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/68f40b259de93.jpg",
+   "ends": null
+  },
+  {
+   "title": "Sausage Hunter",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/68eadb2d6f0c4.jpg",
+   "ends": null
+  },
+  {
+   "title": "Battle Ram",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/battle-ram-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/68efabd65f913.jpg",
+   "ends": null
+  },
+  {
+   "title": "Leaper",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/leaper-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/68e6513c31514.jpg",
+   "ends": null
+  },
+  {
+   "title": "Wordle",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/wordle-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/68e15e986da99.jpg",
+   "ends": null
+  },
+  {
+   "title": "Bad cat Sam",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/bad-cat-sam-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/68d828fc4174f.jpg",
+   "ends": null
+  },
+  {
+   "title": "GigaBash",
+   "store": "Stove",
+   "url": "https://www.gamerpower.com/open/gigabash-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/69567c4ee0fa3.jpg",
+   "ends": null
+  },
+  {
+   "title": "Dual Chroma: Academy Carols",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/63c6f67bb9c8b.jpg",
+   "ends": null
   }
  ],
  "deals": [

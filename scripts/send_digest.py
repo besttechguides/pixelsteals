@@ -24,6 +24,7 @@ UK={"Steam","GOG","Humble Store","GreenManGaming","Fanatical","Epic Games Store"
 _ep={g["title"].lower() for g in d["epic"]}
 deals=sorted([x for x in d["deals"] if x["title"].lower() not in _ep],key=lambda x:(x["store"] not in UK, x["store"]!="Gamesplanet UK", -x["savings"]))[:10]
 e=html.escape
+fo=d.get("free_other",[])[:6]
 G="#39ff14"; BG="#0b0b10"; CARD="#15151d"; FONT="font-family:Arial,Helvetica,sans-serif"
 TODAY=datetime.date.today(); DATELINE=f"{TODAY:%A} {TODAY.day} {TODAY:%B %Y}"
 def ends(g):
@@ -57,6 +58,11 @@ def body(unsub):
         out.append(head("&#127873; Free on Epic (UK)"))
         for g in d["epic"]:
             out.append(card(f'<tr><td>{img(g.get("img"),g["title"])}</td></tr><tr><td style="padding:16px 18px 4px;{FONT}"><a href="{e(g["url"])}" style="color:#fff;text-decoration:none;font-size:21px;line-height:27px;font-weight:bold">{e(g["title"])}</a></td></tr><tr><td style="padding:4px 18px 12px;{FONT};color:{G};font-size:15px;font-weight:bold">FREE until {ends(g)}</td></tr><tr><td style="padding:0 18px 20px">{btn(g["url"],"Claim free")}</td></tr>'))
+    if fo:
+        out.append(head("&#127379; Free on other stores"))
+        for g in fo:
+            out.append(card(f'<tr><td style="padding:16px 18px 4px;{FONT}"><a href="{e(g["url"])}" style="color:#fff;text-decoration:none;font-size:19px;line-height:25px;font-weight:bold">{e(g["title"])}</a></td></tr><tr><td style="padding:4px 18px 12px;{FONT};color:{G};font-size:15px;font-weight:bold">FREE {("until "+ends(g)) if g.get("ends") else "for a limited time"} <span style="color:#9a9aa8;font-weight:normal">&middot; {e(g["store"])}</span></td></tr><tr><td style="padding:0 18px 18px">{btn(g["url"],"Claim free")}</td></tr>'))
+        out.append(f'<tr><td style="padding:0 24px 4px;{FONT};color:#9a9aa8;font-size:12px">Other-store giveaways via <a href="https://www.gamerpower.com" style="color:#9a9aa8">GamerPower</a>. Check each store page for terms.</td></tr>')
     out.append(head("&#128293; Today&rsquo;s top PC deals"))
     for g in deals:
         out.append(card(f'<tr><td>{img(g.get("img"),g["title"])}</td></tr><tr><td style="padding:14px 18px 4px;{FONT}"><span style="display:inline-block;background:#ff2e63;color:#fff;font-weight:bold;font-size:13px;padding:3px 8px;border-radius:3px">-{g["savings"]}%</span> <a href="{e(g["url"])}" style="color:#fff;text-decoration:none;font-size:19px;line-height:25px;font-weight:bold">{e(g["title"])}</a></td></tr><tr><td style="padding:6px 18px 12px;{FONT};color:#cfcfcf;font-size:15px"><b style="color:{G};font-size:18px">{usd(g["sale"])}</b> <s style="color:#77778a">{usd(g["normal"])}</s> &middot; at {e(g["store"])}</td></tr><tr><td style="padding:0 18px 18px">{btn(g["url"],"Get deal")}</td></tr>'))
@@ -74,6 +80,8 @@ def text(unsub):
     L=[f"PIXELSTEALS - {DATELINE}","#ad - contains affiliate links. As an Amazon Associate we earn from qualifying purchases. Disclosure: "+SITE+"affiliate.html","",intro(),""]
     if d["epic"]:
         L.append("FREE ON EPIC (UK)"); L+= [f'- {g["title"]} - FREE until {ends(g)}\n  {g["url"]}' for g in d["epic"]]; L.append("")
+    if fo:
+        L.append("FREE ON OTHER STORES (via GamerPower)"); L+=[f'- {g["title"]} ({g["store"]}) - FREE '+(f'until {ends(g)}' if g.get("ends") else 'for a limited time')+f'\n  {g["url"]}' for g in fo]; L.append("")
     L.append("TODAY'S TOP PC DEALS"); L+=[f'- {g["title"]} -{g["savings"]}%: {usd(g["sale"])} (was {usd(g["normal"])}) at {g["store"]}\n  {g["url"]}' for g in deals]
     L+=["","Prices in US dollars from CheapShark; UK prices may differ.","PARTNER PICK (#ad): Cheap game keys at Loaded (formerly CDKeys)","  "+LOADED,"PARTNER PICK (#ad): Game deals on Amazon UK","  "+AMAZON,"","All deals: "+SITE,"Follow us: Instagram @pixelsteals, TikTok @pixel.steals, Facebook https://www.facebook.com/profile.php?id=61595512350372, Bluesky @pixelsteals.bsky.social","","Happy hunting,","The PixelSteals team","",f"Unsubscribe: {unsub}",f"Privacy: {SITE}privacy.html","Some links are affiliate links; we may earn a commission at no extra cost to you. As an Amazon Associate we earn from qualifying purchases."]
     return "\n".join(L)

@@ -2,7 +2,10 @@ name: Refresh deals
 # Primary trigger: Cloudflare Worker cron (pixelsteals-signup) dispatches this at 08:17 Europe/London with send=true.
 # Backup: GitHub schedule below (GitHub often runs it hours late). Only one newsletter send per UK date (marker + Resend idempotency).
 on:
-  schedule: [{cron: "47 8 * * *"}]   # backup: 09:47 BST / 08:47 GMT, after the 08:17 primary
+  schedule:
+    - cron: "47 8 * * *"    # backup newsletter: 09:47 BST / 08:47 GMT, after the 08:17 primary
+    - cron: "15 15 * * 4"   # Thursday refresh only (no send): Epic swaps at 16:00 UK, 15:15 UTC = 16:15 BST
+    - cron: "15 16 * * 4"   # same for GMT (16:15 UK)
   workflow_dispatch:
     inputs:
       send:
@@ -23,7 +26,7 @@ jobs:
           git add deals.json guides; git diff --cached --quiet || (git commit -m "Daily deals refresh" && git pull --rebase && git push)
       - name: Check once-per-UK-day send guard
         id: guard
-        if: vars.SEND_ENABLED == 'true' && (github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.send))
+        if: vars.SEND_ENABLED == 'true' && (github.event.schedule == '47 8 * * *' || (github.event_name == 'workflow_dispatch' && inputs.send))
         run: |
           git pull --rebase --quiet || true
           today=$(TZ=Europe/London date +%F)
