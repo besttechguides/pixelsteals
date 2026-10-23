@@ -1,41 +1,27 @@
 {
- "updated": "2026-10-22T14:07Z",
+ "updated": "2026-10-23T07:17Z",
  "epic": [
   {
-   "title": "Bad Cheese",
-   "ends": "2026-10-22T15:00:00.000Z",
-   "url": "https://store.epicgames.com/en-GB/p/bad-cheese-4256d9",
-   "img": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png"
+   "title": "Sker Ritual",
+   "ends": "2026-10-29T15:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/sker-ritual-aac702",
+   "img": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png"
   },
   {
-   "title": "Agent A: A puzzle in disguise",
-   "ends": "2026-10-22T15:00:00.000Z",
-   "url": "https://store.epicgames.com/en-GB/p/agent-a-a-puzzle-in-disguise-42fe5f",
-   "img": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png"
+   "title": "Home - A Unique Horror Adventure",
+   "ends": "2026-10-29T15:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/home-19212a",
+   "img": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png"
   }
  ],
  "epic_upcoming": [
   {
-   "title": "Sker Ritual",
-   "starts": "2026-10-22T15:00:00.000Z",
-   "ends": "2026-10-29T15:00:00.000Z"
-  },
-  {
-   "title": "Home - A Unique Horror Adventure",
-   "starts": "2026-10-22T15:00:00.000Z",
-   "ends": "2026-10-29T15:00:00.000Z"
+   "title": "Sorry We're Closed",
+   "starts": "2026-10-29T15:00:00.000Z",
+   "ends": "2026-11-05T16:00:00.000Z"
   }
  ],
  "deals": [
-  {
-   "title": "Silver Pines",
-   "store": "Steam",
-   "sale": "22.26",
-   "normal": "35.98",
-   "savings": 38,
-   "url": "https://www.cheapshark.com/redirect?dealID=HNPl2c6%2BV040vKq07rLwKPiQSYrZsTs4Zo%2FSqEhREYE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2333000/1d876833b58e192d06e6067a84da77c2768c30e4/capsule_231x87.jpg?t=1792490698"
-  },
   {
    "title": "EA SPORTS PGA TOUR",
    "store": "Epic Games Store",
@@ -47,12 +33,30 @@
   },
   {
    "title": "Metro 2033 Redux",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=o35o2DS12hd%2BlYrHgmxPiMry13keOtIO83Cziy6I2l8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/e61b54b5c5ec0a610be1bd53e89b461c413e0e6b/capsule_231x87_alt_assets_1.jpg?t=1792681167"
+  },
+  {
+   "title": "Metro 2033 Redux",
    "store": "Humble Store",
    "sale": "1.99",
    "normal": "19.99",
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=4N8lwdp8b3fG3Qg1qY2nABPCJ8rgTczjiXluOg3TPBk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/capsule_231x87.jpg?t=1741110084"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/e61b54b5c5ec0a610be1bd53e89b461c413e0e6b/capsule_231x87_alt_assets_1.jpg?t=1792681167"
+  },
+  {
+   "title": "Mortal Kombat 11 Ultimate",
+   "store": "IndieGala",
+   "sale": "7.49",
+   "normal": "59.99",
+   "savings": 88,
+   "url": "https://www.cheapshark.com/redirect?dealID=DtU2qszJfwxgiVzzEPdn9rqBH1gjiglEG1HrDzzPlRI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/518699/capsule_231x87.jpg?t=1780429573"
   },
   {
    "title": "Sid Meiers Civilization VI",
@@ -61,7 +65,7 @@
    "normal": "59.99",
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=w%2B5ojedM7X0TvzRbvuxsC%2FYfJqXI2J8yH%2FwEhXlSDRg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792602288"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   },
   {
    "title": "BioShock",
@@ -79,7 +83,7 @@
    "normal": "59.99",
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=KmJ7PdJp5h1NytnnuNjMpdHV%2B7wRa18fIT6DTbKp994%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792602288"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   },
   {
    "title": "Sid Meiers Civilization VI",
@@ -88,7 +92,7 @@
    "normal": "59.99",
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=%2FcSarHtc28W00%2BabB0nYX%2FE%2FrJHBTa8OsaXqrAa9208%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792602288"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   },
   {
    "title": "Sid Meiers Civilization VI",
@@ -97,7 +101,7 @@
    "normal": "59.99",
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=ckx0u2bxCeKbtaweJyEGoXjAnjp9XAYGtAj83Pb6w4s%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792602288"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   },
   {
    "title": "Super Meat Boy",
@@ -233,15 +237,6 @@
    "savings": 94,
    "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
-  },
-  {
-   "title": "Joe Danger 2: The Movie",
-   "store": "WinGameStore",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=QnI79INhhm9MhS53%2FNxMNfNg8JM3elW4u1MH5W9VnTg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
   }
  ]
 }
