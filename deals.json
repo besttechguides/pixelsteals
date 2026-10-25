@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T12:56Z",
+ "updated": "2026-10-25T08:17Z",
  "epic": [
   {
    "title": "Sker Ritual",
@@ -22,13 +22,6 @@
   }
  ],
  "free_other": [
-  {
-   "title": "The Black Within",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/67cb0e32bf51c.jpg",
-   "ends": "2026-10-24T23:59:59Z"
-  },
   {
    "title": "The Green Light",
    "store": "itch.io",
@@ -199,6 +192,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
   },
   {
+   "title": "Tomb Raider: Anniversary",
+   "store": "Humble Store",
+   "sale": "0.89",
+   "normal": "8.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=iwrKh8o6mrBLPEAtGP1WShPvXa4%2BnzK53NixOYtY6qM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8000/capsule_231x87.jpg?t=1729009457"
+  },
+  {
+   "title": "Rise of the Tomb Raider",
+   "store": "Humble Store",
+   "sale": "5.99",
+   "normal": "59.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=Gx5hfuafK9aCwARHtjUZJjrvOFINVCqzLAlzOe9fHXE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391220/d811b86e2960ea42903774f4ec447d79494e8ef4/capsule_231x87_alt_assets_0.jpg?t=1792675385"
+  },
+  {
    "title": "Rise of the Tomb Raider",
    "store": "Steam",
    "sale": "2.99",
@@ -305,24 +316,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=IKS83PxQgYY4qBC2FBZw0SbvSNXtP0J%2BiT1I%2BIf7ZfM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
-   "store": "GreenManGaming",
-   "sale": "4.00",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=ELt%2BhnOOENEzf1NPm0%2FqsjGNIF1zAPYQUbM3OnUdgtE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
-  },
-  {
-   "title": "BioShock Infinite",
-   "store": "GameBillet",
-   "sale": "6.45",
-   "normal": "29.99",
-   "savings": 78,
-   "url": "https://www.cheapshark.com/redirect?dealID=vb3EqB4KpKbSyV83DXQYAZCSBS60LaOMgLCXSt8pQxw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/capsule_231x87.jpg?t=1728673518"
   }
  ]
 }
