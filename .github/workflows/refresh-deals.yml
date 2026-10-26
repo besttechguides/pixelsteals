@@ -44,5 +44,6 @@ jobs:
         if: steps.guard.outputs.send == 'true'
         run: |
           TZ=Europe/London date +%F > .github/last-sent
-          git add .github/last-sent; git commit -m "Newsletter sent $(cat .github/last-sent)"
+          git add .github/last-sent .github/last-epic
+          git commit -m "Newsletter sent $(cat .github/last-sent)"
           for i in 1 2 3; do git pull --rebase --quiet && git push && break; sleep 5; done
