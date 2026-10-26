@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:17Z",
+ "updated": "2026-10-26T15:30Z",
  "epic": [
   {
    "title": "Sker Ritual",
@@ -35,6 +35,13 @@
    "url": "https://www.gamerpower.com/open/primal-slideee-deluxe-pc-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/6993208da38c7.jpg",
    "ends": "2026-10-31T23:59:59Z"
+  },
+  {
+   "title": "ANCIENT EVIL",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/ancient-evil-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/69024dade7c16.jpg",
+   "ends": null
   },
   {
    "title": "Last Room",
@@ -147,6 +154,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   },
   {
+   "title": "Tails of Iron",
+   "store": "Gamesplanet",
+   "sale": "2.35",
+   "normal": "24.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2FayuENR2yV296jwlAGxDfnbBJRxrmH72hwQcEZNLoHk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1283410/capsule_231x87.jpg?t=1737877432"
+  },
+  {
    "title": "Europa Universalis IV",
    "store": "GreenManGaming",
    "sale": "4.50",
@@ -237,6 +253,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/518699/capsule_231x87.jpg?t=1780429573"
   },
   {
+   "title": "Children of Morta",
+   "store": "Gamesplanet",
+   "sale": "2.77",
+   "normal": "21.99",
+   "savings": 87,
+   "url": "https://www.cheapshark.com/redirect?dealID=UsRgBg%2BFZrtpGsIx66uqy4XkMAfjsSJIN8uPmssnZKE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330020/capsule_231x87.jpg?t=1765218667"
+  },
+  {
    "title": "Sid Meiers Civilization VI",
    "store": "Gamesplanet",
    "sale": "5.77",
@@ -298,24 +323,6 @@
    "savings": 92,
    "url": "https://www.cheapshark.com/redirect?dealID=Fs%2BQgmFZf9VVUIOJkAyGLakgSUq%2BFTHMuSGkS6qrs34%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40800/capsule_231x87.jpg?t=1700669950"
-  },
-  {
-   "title": "Aces and Adventures",
-   "store": "GreenManGaming",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=KJFxFaPvXd%2BHb6odFXX9DmLqy78TWKBmOnnv4uIpZFQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815570/capsule_231x87.jpg?t=1731955791"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
-   "store": "Humble Store",
-   "sale": "3.99",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=IKS83PxQgYY4qBC2FBZw0SbvSNXtP0J%2BiT1I%2BIf7ZfM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
   }
  ]
 }
