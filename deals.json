@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T15:30Z",
+ "updated": "2026-10-27T08:17Z",
  "epic": [
   {
    "title": "Sker Ritual",
@@ -118,6 +118,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677350/capsule_231x87.jpg?t=1777395708"
   },
   {
+   "title": "LIMBO",
+   "store": "Steam",
+   "sale": "1.24",
+   "normal": "12.49",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=X9XEB%2Fw3H%2BmI80UYR458fzGB9zWEHde%2Bz2e8vPvNWl4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48000/capsule_231x87.jpg?t=1761819450"
+  },
+  {
+   "title": "INSIDE",
+   "store": "Steam",
+   "sale": "2.49",
+   "normal": "24.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=MNeCPwsOA2Ep3wim%2FLwY4C0rcPZGEkwjwOSlzBwXs8c%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304430/capsule_231x87.jpg?t=1761819581"
+  },
+  {
    "title": "Tumblestone",
    "store": "Humble Store",
    "sale": "2.49",
@@ -125,6 +143,42 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=vBcBR5HWelc%2BiepW0ceo1R9oJ%2B9wpjDbDU2s07JCbvk%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/269710/capsule_231x87.jpg?t=1768587840"
+  },
+  {
+   "title": "Aces and Adventures",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=9TZMaGpmnmCL%2BcMhhVU%2BJw6UO9Qs%2BceKs5A%2Bk05E97Y%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815570/capsule_231x87.jpg?t=1731955791"
+  },
+  {
+   "title": "Bulb Boy",
+   "store": "Steam",
+   "sale": "0.89",
+   "normal": "8.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=LPczpAHwTLjRLu1Ra1OOPHZXhyZwArQtkODNCvrt4Q8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390290/capsule_231x87.jpg?t=1762291079"
+  },
+  {
+   "title": "Joe Danger 2: The Movie",
+   "store": "Steam",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=iDT6jPYn7qH4gC%2FYq%2BLd8m5YqFiSnGBoN0o3uELzVnA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
+  },
+  {
+   "title": "Stories Untold",
+   "store": "Steam",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=7uJ0Grx2IwForWYbuZrZokkWMTUibI4b1eRRCnctYrE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1793035114"
   },
   {
    "title": "Metro 2033 Redux",
@@ -163,6 +217,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1283410/capsule_231x87.jpg?t=1737877432"
   },
   {
+   "title": "Battlefleet Gothic: Armada",
+   "store": "Gamesplanet",
+   "sale": "1.38",
+   "normal": "14.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=UossavXmwkC3Kx4kj6OgTngTGnWiArbjKl%2BxAiL3zbA%3D",
+   "img": "https://sttc.gamersgate.com/images/product/battlefleet-gothic-armada/cover-180-f855d4.jpg"
+  },
+  {
    "title": "Europa Universalis IV",
    "store": "GreenManGaming",
    "sale": "4.50",
@@ -181,6 +244,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1446780/capsule_231x87.jpg?t=1792548454"
   },
   {
+   "title": "Outlast",
+   "store": "Steam",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=XU5v9Dm9E%2B2UM4UtgeQArX%2BUP%2BKmmgBXhqN81c2O9JU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238320/capsule_231x87.jpg?t=1666817106"
+  },
+  {
+   "title": "The Last Campfire",
+   "store": "Steam",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=zuntj1DasObDdfuFNldS4TeW0RAR%2BpeRN94RorhGLdg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
+  },
+  {
    "title": "BioShock",
    "store": "GameBillet",
    "sale": "4.80",
@@ -188,6 +269,24 @@
    "savings": 76,
    "url": "https://www.cheapshark.com/redirect?dealID=et8hm7BwoAPZnyJpSAAehTMKS7M1aPlbLKSZDWmUtEo%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
+  },
+  {
+   "title": "Monster Energy Supercross - The Official Videogame 2",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=cdJntIN84g4dRo3rqt8izoxL1Xg%2FL2uOcACwHEmAjfI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/882020/capsule_231x87.jpg?t=1728478491"
+  },
+  {
+   "title": "Cursed to Golf",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=QQJrXHufPXLRMgk5FTOzkyIvHbqQz%2BRpsmgCHv6%2FR3o%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1726120/capsule_231x87.jpg?t=1759331008"
   },
   {
    "title": "Sid Meiers Civilization VI",
@@ -199,6 +298,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   },
   {
+   "title": "Darkwood",
+   "store": "GreenManGaming",
+   "sale": "2.00",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2ByNZD0kg7yZMz2Vv5QtZ16fqIHt%2B%2BU5vWzTYIDBwtFY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274520/b2902056c13270bba1d4aba1c91a2cb36beb175e/capsule_231x87.jpg?t=1792743731"
+  },
+  {
+   "title": "A Plague Tale: Innocence",
+   "store": "Steam",
+   "sale": "3.99",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=t1lqDapKKHV6EtRdJhAg1Z8KdKx1dZfykebFM5MWgfA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/752590/capsule_231x87.jpg?t=1784712345"
+  },
+  {
    "title": "Europa Universalis IV",
    "store": "Gamesplanet",
    "sale": "4.90",
@@ -206,123 +323,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=3n5AuHGzuk2%2FTSnMf%2F7lWv9zdH5g%2BuDGUMhlpr68w08%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
-  },
-  {
-   "title": "Tomb Raider: Anniversary",
-   "store": "Humble Store",
-   "sale": "0.89",
-   "normal": "8.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=iwrKh8o6mrBLPEAtGP1WShPvXa4%2BnzK53NixOYtY6qM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8000/capsule_231x87.jpg?t=1729009457"
-  },
-  {
-   "title": "Rise of the Tomb Raider",
-   "store": "Humble Store",
-   "sale": "5.99",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Gx5hfuafK9aCwARHtjUZJjrvOFINVCqzLAlzOe9fHXE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391220/d811b86e2960ea42903774f4ec447d79494e8ef4/capsule_231x87_alt_assets_0.jpg?t=1792675385"
-  },
-  {
-   "title": "Rise of the Tomb Raider",
-   "store": "Steam",
-   "sale": "2.99",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=JLFqGNvtew3enSlgxRtAZBJ3GeU4Rd0XYhGePiQcaI8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/391220/d811b86e2960ea42903774f4ec447d79494e8ef4/capsule_231x87_alt_assets_0.jpg?t=1792675385"
-  },
-  {
-   "title": "Metro 2033 Redux",
-   "store": "Humble Store",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=4N8lwdp8b3fG3Qg1qY2nABPCJ8rgTczjiXluOg3TPBk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/e61b54b5c5ec0a610be1bd53e89b461c413e0e6b/capsule_231x87_alt_assets_1.jpg?t=1792681167"
-  },
-  {
-   "title": "Mortal Kombat 11 Ultimate",
-   "store": "IndieGala",
-   "sale": "7.49",
-   "normal": "59.99",
-   "savings": 88,
-   "url": "https://www.cheapshark.com/redirect?dealID=DtU2qszJfwxgiVzzEPdn9rqBH1gjiglEG1HrDzzPlRI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/518699/capsule_231x87.jpg?t=1780429573"
-  },
-  {
-   "title": "Children of Morta",
-   "store": "Gamesplanet",
-   "sale": "2.77",
-   "normal": "21.99",
-   "savings": 87,
-   "url": "https://www.cheapshark.com/redirect?dealID=UsRgBg%2BFZrtpGsIx66uqy4XkMAfjsSJIN8uPmssnZKE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/330020/capsule_231x87.jpg?t=1765218667"
-  },
-  {
-   "title": "Sid Meiers Civilization VI",
-   "store": "Gamesplanet",
-   "sale": "5.77",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=w%2B5ojedM7X0TvzRbvuxsC%2FYfJqXI2J8yH%2FwEhXlSDRg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
-  },
-  {
-   "title": "Europa Universalis IV",
-   "store": "GameBillet",
-   "sale": "4.45",
-   "normal": "39.99",
-   "savings": 89,
-   "url": "https://www.cheapshark.com/redirect?dealID=Xonoitn5pg6vfsMzfxqXcWaDT545YgjCyhjagZJR%2BYc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
-  },
-  {
-   "title": "Joe Danger 2: The Movie",
-   "store": "GameBillet",
-   "sale": "1.19",
-   "normal": "14.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=V5ZXzLwey%2F7XsvJF%2Bj6W6p2u06my42zmVrgE6RKFPAM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
-  },
-  {
-   "title": "BioShock",
-   "store": "Gamesplanet",
-   "sale": "4.84",
-   "normal": "19.99",
-   "savings": 76,
-   "url": "https://www.cheapshark.com/redirect?dealID=sih7CO1qZ1vUrVB%2BuKVccW82zOPd37fOjCi07Y5ip4k%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
-  },
-  {
-   "title": "Sid Meiers Civilization VI",
-   "store": "IndieGala",
-   "sale": "5.99",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=KmJ7PdJp5h1NytnnuNjMpdHV%2B7wRa18fIT6DTbKp994%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
-  },
-  {
-   "title": "Sid Meiers Civilization VI",
-   "store": "GamersGate",
-   "sale": "6.00",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=ckx0u2bxCeKbtaweJyEGoXjAnjp9XAYGtAj83Pb6w4s%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
-  },
-  {
-   "title": "Super Meat Boy",
-   "store": "Steam",
-   "sale": "1.19",
-   "normal": "14.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=Fs%2BQgmFZf9VVUIOJkAyGLakgSUq%2BFTHMuSGkS6qrs34%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/40800/capsule_231x87.jpg?t=1700669950"
   }
  ]
 }
