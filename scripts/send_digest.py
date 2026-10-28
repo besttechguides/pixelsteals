@@ -81,7 +81,7 @@ def fo_section():
     if not fo: return rows
     rows.append(head("&#127379; Free on other stores"))
     for g in fo:
-        rows.append(card(f'<tr><td style="padding:16px 18px 4px;{FONT}"><a href="{e(g["url"])}" style="color:#fff;text-decoration:none;font-size:19px;line-height:25px;font-weight:bold">{e(g["title"])}</a></td></tr><tr><td style="padding:4px 18px 12px;{FONT};color:{G};font-size:15px;font-weight:bold">FREE {("until "+ends(g)) if g.get("ends") else "for a limited time"} <span style="color:#9a9aa8;font-weight:normal">&middot; {e(g["store"])}</span></td></tr><tr><td style="padding:0 18px 18px">{btn(g["url"],"Claim free")}</td></tr>'))
+        rows.append(card(f'<tr><td>{img(g.get("img"),g["title"])}</td></tr><tr><td style="padding:16px 18px 4px;{FONT}"><a href="{e(g["url"])}" style="color:#fff;text-decoration:none;font-size:19px;line-height:25px;font-weight:bold">{e(g["title"])}</a></td></tr><tr><td style="padding:4px 18px 12px;{FONT};color:{G};font-size:15px;font-weight:bold">FREE {("until "+ends(g)) if g.get("ends") else "for a limited time"} <span style="color:#9a9aa8;font-weight:normal">&middot; {e(g["store"])}</span></td></tr><tr><td style="padding:0 18px 18px">{btn(g["url"],"Claim free")}</td></tr>'))
     rows.append(f'<tr><td style="padding:0 24px 4px;{FONT};color:#9a9aa8;font-size:12px">Other-store giveaways via <a href="https://www.gamerpower.com" style="color:#9a9aa8">GamerPower</a>. Check each store page for terms.</td></tr>')
     return rows
 def deals_section():
