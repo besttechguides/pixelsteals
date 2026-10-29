@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T15:36Z",
+ "updated": "2026-10-29T20:16Z",
  "epic": [
   {
    "title": "Sorry We're Closed",
@@ -21,6 +21,13 @@
   }
  ],
  "free_other": [
+  {
+   "title": "Hexologic",
+   "store": "Steam",
+   "url": "https://www.gamerpower.com/open/hexologic-steam-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/6ae37c96c0b45.jpg",
+   "ends": "2026-10-31T23:59:00Z"
+  },
   {
    "title": "The Green Light",
    "store": "itch.io",
@@ -97,16 +104,18 @@
    "url": "https://www.gamerpower.com/open/cherophobia-itch-io-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/698fa7369c1f5.jpg",
    "ends": "2026-11-05T23:59:00Z"
-  },
-  {
-   "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/6946b8c46bc9b.jpg",
-   "ends": "2026-11-05T23:59:00Z"
   }
  ],
  "deals": [
+  {
+   "title": "Sorry Were Closed",
+   "store": "Epic Games Store",
+   "sale": "0.00",
+   "normal": "24.99",
+   "savings": 100,
+   "url": "https://www.cheapshark.com/redirect?dealID=mdXsHrbzWYTdk42x82ahrFKrv9%2BTHOkoyfNwvB5op%2Bo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796580/c6fa267fe2888073c88a429b579bd92e5f388292/capsule_231x87.jpg?t=1788536861"
+  },
   {
    "title": "EA SPORTS PGA TOUR",
    "store": "Epic Games Store",
@@ -178,6 +187,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=ebEo%2FlhXRjW44hk5Xv51cvGo6a%2BwsRg1QKvrPjZZFXY%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1060600/capsule_231x87.jpg?t=1769537301"
+  },
+  {
+   "title": "Zombie Army 4: Dead War",
+   "store": "GreenManGaming",
+   "sale": "2.00",
+   "normal": "49.99",
+   "savings": 96,
+   "url": "https://www.cheapshark.com/redirect?dealID=hGUUSSX1YCsqMByALOSKB%2FNaVza4cZS53vt8giMp06U%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/694280/capsule_231x87.jpg?t=1786965015"
   },
   {
    "title": "Alan Wake",
@@ -288,40 +306,22 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20900/capsule_231x87.jpg?t=1749200362"
   },
   {
-   "title": "Bulb Boy",
-   "store": "Steam",
-   "sale": "0.89",
-   "normal": "8.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=LPczpAHwTLjRLu1Ra1OOPHZXhyZwArQtkODNCvrt4Q8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390290/capsule_231x87.jpg?t=1762291079"
-  },
-  {
-   "title": "Warhammer: End Times - Vermintide",
-   "store": "GamersGate",
-   "sale": "3.00",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=uaGn7QnwkWLL4BWs9NzuaQsgteqy9UZZbur8SN5M6aQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/235540/13b1be07e53f1febe5c229b8539e5a964dfbecc5/capsule_231x87.jpg?t=1761316136"
-  },
-  {
-   "title": "Syberia II",
-   "store": "GOG",
-   "sale": "1.29",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=VPbeJcw2sB7HkpqMQmJeuQ7r%2B6CC0DDMHic7RXcSQEE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46510/capsule_231x87.jpg?t=1743167581"
-  },
-  {
-   "title": "Warhammer: End Times - Vermintide",
-   "store": "Gamesplanet",
-   "sale": "2.53",
-   "normal": "29.99",
+   "title": "Evil Genius",
+   "store": "GreenManGaming",
+   "sale": "0.80",
+   "normal": "9.99",
    "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=r%2FCvDAL9DNs%2FlxFFsCFnke%2Bx6pPfL4C%2BjJQROmbHTKs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/235540/13b1be07e53f1febe5c229b8539e5a964dfbecc5/capsule_231x87.jpg?t=1761316136"
+   "url": "https://www.cheapshark.com/redirect?dealID=0QgHcqVab%2F%2FZtxOPSbe4yHKv9QseOwE%2BnzLGusefpOU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3720/capsule_231x87.jpg?t=1721932669"
+  },
+  {
+   "title": "Sniper Elite 4",
+   "store": "GreenManGaming",
+   "sale": "4.80",
+   "normal": "59.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=654%2FK6EWM5PKZfTWssxUNRhbWawd1%2F7C6WbBMRbYSvM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312660/capsule_231x87.jpg?t=1681207252"
   }
  ]
 }
