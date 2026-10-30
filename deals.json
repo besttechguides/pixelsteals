@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T21:05Z",
+ "updated": "2026-10-30T08:17Z",
  "epic": [
   {
    "title": "Sorry We're Closed",
@@ -180,6 +180,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
   },
   {
+   "title": "Super Hydorah",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=admoOLN6Tln7UU72VTvbAvh3QvdY5aJdsokvDd7BDUI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/628800/e7c5538273e2a62080e3469b10e6a9f61a19c7a0/capsule_231x87.jpg?t=1790694045"
+  },
+  {
    "title": "Lair of the Clockwork God",
    "store": "GOG",
    "sale": "1.99",
@@ -196,6 +205,15 @@
    "savings": 96,
    "url": "https://www.cheapshark.com/redirect?dealID=hGUUSSX1YCsqMByALOSKB%2FNaVza4cZS53vt8giMp06U%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/694280/capsule_231x87.jpg?t=1786965015"
+  },
+  {
+   "title": "Resident Evil 2",
+   "store": "GameBillet",
+   "sale": "6.76",
+   "normal": "39.99",
+   "savings": 83,
+   "url": "https://www.cheapshark.com/redirect?dealID=AzmEN6DbarCkCrDOyzw0KZkZqhlzs0XBtl28ZWE8k0I%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/883710/capsule_231x87.jpg?t=1779433152"
   },
   {
    "title": "Alan Wake",
@@ -243,6 +261,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/269710/capsule_231x87.jpg?t=1768587840"
   },
   {
+   "title": "Stealth Bastard Deluxe",
+   "store": "Steam",
+   "sale": "1.29",
+   "normal": "12.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=uu3TmpMjyOdpHgrbi2iww9exW%2BUyrm4POQYuJ7YWQuc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209190/capsule_231x87.jpg?t=1747738814"
+  },
+  {
    "title": "Zombie Army 4: Dead War",
    "store": "GamersGate",
    "sale": "2.50",
@@ -252,6 +279,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/694280/capsule_231x87.jpg?t=1786965015"
   },
   {
+   "title": "When Ski Lifts Go Wrong",
+   "store": "Steam",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=9Z3aPjsmWC7Kj5l3XRQ7Mftxn0mJsXnfiTyrmx%2Bpc2Q%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
+  },
+  {
    "title": "Syberia",
    "store": "GOG",
    "sale": "1.29",
@@ -259,6 +295,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=M5b%2FDiEWDxXSYqvNDZ7biX5wozFqClpyKEgtWuyXkeM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46500/capsule_231x87.jpg?t=1743167577"
+  },
+  {
+   "title": "Stealth Inc. 2: A Game of Clones",
+   "store": "Steam",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=Ol6KUbuZvp9R8d9Iprs4%2B5eXuEV7W%2F7JGensw6Yrw4k%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/329380/capsule_231x87.jpg?t=1747738919"
   },
   {
    "title": "Goodbye Deponia",
@@ -277,51 +322,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=9TZMaGpmnmCL%2BcMhhVU%2BJw6UO9Qs%2BceKs5A%2Bk05E97Y%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815570/capsule_231x87.jpg?t=1731955791"
-  },
-  {
-   "title": "Monster Hunter World: Iceborne",
-   "store": "GamersGate",
-   "sale": "6.00",
-   "normal": "39.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=3KbbHBSchPfemiA2LJb%2FNNE%2FPV%2BlG0%2BXoy%2Fo0Pjsdaw%3D",
-   "img": "https://sttc.gamersgate.com/images/product/monster-hunter-world-iceborne/cover-180-ea43cb.jpg"
-  },
-  {
-   "title": "Call of Juarez: Gunslinger",
-   "store": "GamersGate",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=cjyE2IH3K6sRF8wMLQI%2F1O%2BmyXWCN0OnBjasLmT%2FFeg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/204450/capsule_231x87.jpg?t=1728907994"
-  },
-  {
-   "title": "The Witcher: Enhanced Edition Director's Cut",
-   "store": "GOG",
-   "sale": "1.49",
-   "normal": "9.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=aZ%2F7TtJLwk3XO9Grnstt0GRZGQamrpM6%2BMdi%2BZIQVe0%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20900/capsule_231x87.jpg?t=1749200362"
-  },
-  {
-   "title": "Evil Genius",
-   "store": "GreenManGaming",
-   "sale": "0.80",
-   "normal": "9.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=0QgHcqVab%2F%2FZtxOPSbe4yHKv9QseOwE%2BnzLGusefpOU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3720/capsule_231x87.jpg?t=1721932669"
-  },
-  {
-   "title": "Sniper Elite 4",
-   "store": "GreenManGaming",
-   "sale": "4.80",
-   "normal": "59.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=654%2FK6EWM5PKZfTWssxUNRhbWawd1%2F7C6WbBMRbYSvM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/312660/capsule_231x87.jpg?t=1681207252"
   }
  ]
 }
