@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T08:17Z",
+ "updated": "2026-10-30T15:21Z",
  "epic": [
   {
    "title": "Sorry We're Closed",
@@ -71,6 +71,13 @@
    "ends": "2026-10-31T23:59:59Z"
   },
   {
+   "title": "A New Beginning: Final Cut",
+   "store": "GOG",
+   "url": "https://www.gamerpower.com/open/a-new-beginning-final-cut-gog-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/6ae4af4cbf862.jpg",
+   "ends": "2026-11-02T23:59:00Z"
+  },
+  {
    "title": "Octane100",
    "store": "itch.io",
    "url": "https://www.gamerpower.com/open/octane100-itch-io-giveaway",
@@ -97,13 +104,6 @@
    "url": "https://www.gamerpower.com/open/assassin-at-crimson-keep",
    "img": "https://www.gamerpower.com/offers/1b/62e41a3c35b09.jpg",
    "ends": "2026-11-04T23:59:59Z"
-  },
-  {
-   "title": "Cherophobia",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/cherophobia-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/698fa7369c1f5.jpg",
-   "ends": "2026-11-05T23:59:00Z"
   }
  ],
  "deals": [
