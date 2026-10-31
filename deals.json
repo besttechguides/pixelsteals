@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:21Z",
+ "updated": "2026-10-31T08:17Z",
  "epic": [
   {
    "title": "Sorry We're Closed",
@@ -71,6 +71,13 @@
    "ends": "2026-10-31T23:59:59Z"
   },
   {
+   "title": "Asleep: Act 1",
+   "store": "Steam",
+   "url": "https://www.gamerpower.com/open/asleep-act-1-steam-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/6ae4ceb2e38bb.jpg",
+   "ends": "2026-11-02T23:59:00Z"
+  },
+  {
    "title": "A New Beginning: Final Cut",
    "store": "GOG",
    "url": "https://www.gamerpower.com/open/a-new-beginning-final-cut-gog-giveaway",
@@ -97,13 +104,6 @@
    "url": "https://www.gamerpower.com/open/heirloom-itch-io-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/6ae257b2d5ad9.jpg",
    "ends": "2026-11-04T23:59:00Z"
-  },
-  {
-   "title": "Assassin at Crimson Keep",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/assassin-at-crimson-keep",
-   "img": "https://www.gamerpower.com/offers/1b/62e41a3c35b09.jpg",
-   "ends": "2026-11-04T23:59:59Z"
   }
  ],
  "deals": [
@@ -133,6 +133,15 @@
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=jwdaiSvD5t2xWwSWXlsejGLf56BiKCLJ8ZouICVKDzY%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373420/capsule_231x87.jpg?t=1765505119"
+  },
+  {
+   "title": "Lacuna  A Sci-Fi Noir Adventure",
+   "store": "Steam",
+   "sale": "1.59",
+   "normal": "15.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=QynqV9Jil2aK5kn3aCSGIGetSgD8Qzx3RcC1kfC9Rvo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1793106469"
   },
   {
    "title": "Europa Universalis IV",
@@ -313,15 +322,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=iee%2Fcc385N2nIIoRNTBbUWbRDTlwaBY5119eCM2HeuI%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241910/capsule_231x87.jpg?t=1789474225"
-  },
-  {
-   "title": "Aces and Adventures",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=9TZMaGpmnmCL%2BcMhhVU%2BJw6UO9Qs%2BceKs5A%2Bk05E97Y%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815570/capsule_231x87.jpg?t=1731955791"
   }
  ]
 }
