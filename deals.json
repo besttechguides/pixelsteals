@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T14:48Z",
+ "updated": "2026-11-01T08:17Z",
  "epic": [
   {
    "title": "Sorry We're Closed",
@@ -21,55 +21,6 @@
   }
  ],
  "free_other": [
-  {
-   "title": "Hexologic",
-   "store": "Steam",
-   "url": "https://www.gamerpower.com/open/hexologic-steam-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/6ae37c96c0b45.jpg",
-   "ends": "2026-10-31T23:59:00Z"
-  },
-  {
-   "title": "The Green Light",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/the-green-light-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/6a369af2d25aa.jpg",
-   "ends": "2026-10-31T23:59:00Z"
-  },
-  {
-   "title": "Liminal Space Holiday",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/liminal-space-holiday-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/6aa2ad0a69420.jpg",
-   "ends": "2026-10-31T23:59:00Z"
-  },
-  {
-   "title": "Sleep Demon",
-   "store": "Itchio",
-   "url": "https://www.gamerpower.com/open/sleep-demon-itchio-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/69ca788f5d0d4.jpg",
-   "ends": "2026-10-31T23:59:00Z"
-  },
-  {
-   "title": "Liminal Lane",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/liminal-lane-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/69fe517a04b6a.jpg",
-   "ends": "2026-10-31T23:59:00Z"
-  },
-  {
-   "title": "The Black Within",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/the-black-within-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/67cb0e32bf51c.jpg",
-   "ends": "2026-10-31T23:59:59Z"
-  },
-  {
-   "title": "Primal Slideee Deluxe",
-   "store": "Stove",
-   "url": "https://www.gamerpower.com/open/primal-slideee-deluxe-pc-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/6993208da38c7.jpg",
-   "ends": "2026-10-31T23:59:59Z"
-  },
   {
    "title": "Asleep: Act 1",
    "store": "Steam",
@@ -104,6 +55,55 @@
    "url": "https://www.gamerpower.com/open/heirloom-itch-io-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/6ae257b2d5ad9.jpg",
    "ends": "2026-11-04T23:59:00Z"
+  },
+  {
+   "title": "Assassin at Crimson Keep",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/assassin-at-crimson-keep",
+   "img": "https://www.gamerpower.com/offers/1b/62e41a3c35b09.jpg",
+   "ends": "2026-11-04T23:59:59Z"
+  },
+  {
+   "title": "Cherophobia",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/cherophobia-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/698fa7369c1f5.jpg",
+   "ends": "2026-11-05T23:59:00Z"
+  },
+  {
+   "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/6946b8c46bc9b.jpg",
+   "ends": "2026-11-05T23:59:00Z"
+  },
+  {
+   "title": "Solace Inc.",
+   "store": "itchio",
+   "url": "https://www.gamerpower.com/open/solace-inc-itchio-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/684151ffd5fd6.jpg",
+   "ends": "2026-11-05T23:59:00Z"
+  },
+  {
+   "title": "Very Realistic Game Dev Simulator",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/very-realistic-game-dev-simulator-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/6946b7c157bca.jpg",
+   "ends": "2026-11-05T23:59:35Z"
+  },
+  {
+   "title": "Project Malice",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/project-malice-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/639e763b0c618.jpg",
+   "ends": "2026-11-05T23:59:59Z"
+  },
+  {
+   "title": "Buckler 2",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/buckler-2-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/639f704bc35bc.jpg",
+   "ends": "2026-11-05T23:59:59Z"
   }
  ],
  "deals": [
@@ -124,6 +124,24 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=d%2F76kKc8wzdFvnXE2GTj0ruDps28NPqKIfIvQ4AjZ8c%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677350/capsule_231x87.jpg?t=1777395708"
+  },
+  {
+   "title": "Sid Meiers Civilization VI",
+   "store": "GameBillet",
+   "sale": "5.36",
+   "normal": "59.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2FcSarHtc28W00%2BabB0nYX%2FE%2FrJHBTa8OsaXqrAa9208%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
+  },
+  {
+   "title": "Shadow Tactics: Blades of the Shogun",
+   "store": "WinGameStore",
+   "sale": "3.49",
+   "normal": "39.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
   },
   {
    "title": "Divinity: Original Sin - Enhanced Edition",
@@ -189,6 +207,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
   },
   {
+   "title": "Kathy Rain",
+   "store": "Steam",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=x4Rve1MDdtCybHfCrpcd%2BJiSQc7wue10GsiA7A0iRjA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/370910/capsule_231x87.jpg?t=1726577236"
+  },
+  {
+   "title": "The Quarry",
+   "store": "GameBillet",
+   "sale": "5.36",
+   "normal": "59.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=jLgjGKYcfRav%2Bpm0%2F%2Bg9yMjmEEq5E86iQ7mZXVfvUhI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1577120/capsule_231x87.jpg?t=1730303267"
+  },
+  {
    "title": "Super Hydorah",
    "store": "Steam",
    "sale": "1.99",
@@ -225,6 +261,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/883710/capsule_231x87.jpg?t=1779433152"
   },
   {
+   "title": "OlliOlli World",
+   "store": "GameBillet",
+   "sale": "5.25",
+   "normal": "29.99",
+   "savings": 82,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2F3ybHTNGkiUZjoD%2BrMTLLbj1R%2FwB%2BOzc%2BoznW2F0tOw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190170/capsule_231x87.jpg?t=1749136439"
+  },
+  {
+   "title": "Marvels Midnight Suns",
+   "store": "GreenManGaming",
+   "sale": "8.10",
+   "normal": "59.99",
+   "savings": 86,
+   "url": "https://www.cheapshark.com/redirect?dealID=9unHxDjIZfGumDQhZkb8j02LGSvH6Lao2ICicJN7ASI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368260/capsule_231x87.jpg?t=1732138093"
+  },
+  {
    "title": "Alan Wake",
    "store": "GOG",
    "sale": "1.49",
@@ -232,6 +286,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=hpW0muntgKlM8CfUo3XCKx%2Bg8cIPNKx85X3XaS53XZU%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108710/a0e04fbe5de4b8116dbf8102354fcf4db5503fe1/capsule_231x87.jpg?t=1769717716"
+  },
+  {
+   "title": "King's Bounty: Armored Princess",
+   "store": "Steam",
+   "sale": "1.49",
+   "normal": "9.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=a7aai9%2FkT8VYhuY5i9Q7sehnKeC4HAxuUGmyPPXdWyw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3170/3743302f7350d1fc53f377a6cf6fe7d1b59b7849/capsule_231x87.jpg?t=1786626361"
   },
   {
    "title": "INSIDE",
@@ -259,69 +322,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=KyVVy%2BjxIufO83d8DD5x2xs1KIzEmrEbFQ2x%2BHT%2FXe4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274350/capsule_231x87.jpg?t=1725396094"
-  },
-  {
-   "title": "Tumblestone",
-   "store": "Humble Store",
-   "sale": "2.49",
-   "normal": "24.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=vBcBR5HWelc%2BiepW0ceo1R9oJ%2B9wpjDbDU2s07JCbvk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/269710/capsule_231x87.jpg?t=1768587840"
-  },
-  {
-   "title": "Stealth Bastard Deluxe",
-   "store": "Steam",
-   "sale": "1.29",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=uu3TmpMjyOdpHgrbi2iww9exW%2BUyrm4POQYuJ7YWQuc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/209190/capsule_231x87.jpg?t=1747738814"
-  },
-  {
-   "title": "Zombie Army 4: Dead War",
-   "store": "GamersGate",
-   "sale": "2.50",
-   "normal": "49.99",
-   "savings": 95,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2B1lYrWi6PnDHiT1JAiTAvEuPgYhT0LA%2FEYnm2EAoOkQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/694280/capsule_231x87.jpg?t=1786965015"
-  },
-  {
-   "title": "When Ski Lifts Go Wrong",
-   "store": "Steam",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=9Z3aPjsmWC7Kj5l3XRQ7Mftxn0mJsXnfiTyrmx%2Bpc2Q%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
-  },
-  {
-   "title": "Syberia",
-   "store": "GOG",
-   "sale": "1.29",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=M5b%2FDiEWDxXSYqvNDZ7biX5wozFqClpyKEgtWuyXkeM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/46500/capsule_231x87.jpg?t=1743167577"
-  },
-  {
-   "title": "Stealth Inc. 2: A Game of Clones",
-   "store": "Steam",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Ol6KUbuZvp9R8d9Iprs4%2B5eXuEV7W%2F7JGensw6Yrw4k%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/329380/capsule_231x87.jpg?t=1747738919"
-  },
-  {
-   "title": "Goodbye Deponia",
-   "store": "GamersGate",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=iee%2Fcc385N2nIIoRNTBbUWbRDTlwaBY5119eCM2HeuI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241910/capsule_231x87.jpg?t=1789474225"
   }
  ]
 }
