@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T15:28Z",
+ "updated": "2026-11-02T08:17Z",
  "epic": [
   {
    "title": "Sorry We're Closed",
@@ -126,6 +126,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677350/capsule_231x87.jpg?t=1777395708"
   },
   {
+   "title": "Owlboy",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=h7jKI1jBdFpskbaDQbVYa1jLlCzAjUary37jBfaVOVw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115800/912f1083dbb1e38a24aee39409fc05102636509a/capsule_231x87_alt_assets_0.jpg?t=1793528438"
+  },
+  {
+   "title": "Owlboy",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=qdUy9w9Ewyf%2FDXKWnnAss4fZYUxCiEzE%2FNAbOUIO4hg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115800/912f1083dbb1e38a24aee39409fc05102636509a/capsule_231x87_alt_assets_0.jpg?t=1793528438"
+  },
+  {
    "title": "Sid Meiers Civilization VI",
    "store": "GameBillet",
    "sale": "5.36",
@@ -142,6 +160,24 @@
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
+   "title": "Bury me, my Love",
+   "store": "GamersGate",
+   "sale": "0.50",
+   "normal": "4.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=uuoILTdto7Uqw%2FMRCPx49MwIqpEH7RXOn2FKlIdmtDg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/808090/capsule_231x87.jpg?t=1781885052"
+  },
+  {
+   "title": "Borderlands 3",
+   "store": "GameBillet",
+   "sale": "5.05",
+   "normal": "59.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=qiReSB%2FpNhyqXpTCaLwjQlfGqUpA%2FeqZPXWNDpvFLzY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
   },
   {
    "title": "Divinity: Original Sin - Enhanced Edition",
@@ -162,6 +198,51 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1793106469"
   },
   {
+   "title": "Impulsion",
+   "store": "GamersGate",
+   "sale": "1.30",
+   "normal": "12.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=nxwK%2BocZq5PawCTZnykS1xJHnTzjt%2FnUxbjIxEjJEf4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
+  },
+  {
+   "title": "Everspace",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=cmJeDS%2FYRfcKqU0nGBqIp0eYF5YrqMxmfQstbG36y5g%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
+  },
+  {
+   "title": "WRC 9 FIA World Rally Championship",
+   "store": "GamersGate",
+   "sale": "4.00",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=vJfBss8ZdrlBfJvDdTHWoZkYHcE9rJD1g7fzP1tiy1o%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
+  },
+  {
+   "title": "Roguebook",
+   "store": "GamersGate",
+   "sale": "2.50",
+   "normal": "24.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=5m11BQuVIZQJx3yonejXssC2TRfyJuGMQ%2FSt%2BKLJ58M%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1076200/capsule_231x87.jpg?t=1778174412"
+  },
+  {
+   "title": "Splasher",
+   "store": "GamersGate",
+   "sale": "1.50",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=5ScRtXAgJdneu0lcLq5wsZgXR92N0HuETgbUOdUQKCE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950"
+  },
+  {
    "title": "Europa Universalis IV",
    "store": "GOG",
    "sale": "4.99",
@@ -169,6 +250,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=niq3hBlOProhhMGGwkYVV0SeoggCh0si25QwsPp2HMQ%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
+  },
+  {
+   "title": "WRC 8 FIA World Rally Championship",
+   "store": "GamersGate",
+   "sale": "3.00",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=d8bomc2k5ALTGmqS1A5Vew0jV8LrEGRBBS7wPOHREA0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1004750/capsule_231x87.jpg?t=1725354099"
   },
   {
    "title": "Lacuna  A Sci-Fi Noir Adventure",
@@ -198,6 +288,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48000/capsule_231x87.jpg?t=1761819450"
   },
   {
+   "title": "RoboCop: Rogue City",
+   "store": "GamersGate",
+   "sale": "5.00",
+   "normal": "49.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=BziBDBEN4eig0h%2F2uecKFGVX9w5avRBpLSdHyBOqv9s%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/capsule_231x87.jpg?t=1778174302"
+  },
+  {
    "title": "Disco Elysium - The Final Cut",
    "store": "GOG",
    "sale": "9.99",
@@ -223,105 +322,6 @@
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=jLgjGKYcfRav%2Bpm0%2F%2Bg9yMjmEEq5E86iQ7mZXVfvUhI%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1577120/capsule_231x87.jpg?t=1730303267"
-  },
-  {
-   "title": "Super Hydorah",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=admoOLN6Tln7UU72VTvbAvh3QvdY5aJdsokvDd7BDUI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/628800/e7c5538273e2a62080e3469b10e6a9f61a19c7a0/capsule_231x87.jpg?t=1790694045"
-  },
-  {
-   "title": "Lair of the Clockwork God",
-   "store": "GOG",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=ebEo%2FlhXRjW44hk5Xv51cvGo6a%2BwsRg1QKvrPjZZFXY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1060600/capsule_231x87.jpg?t=1769537301"
-  },
-  {
-   "title": "Zombie Army 4: Dead War",
-   "store": "GreenManGaming",
-   "sale": "2.00",
-   "normal": "49.99",
-   "savings": 96,
-   "url": "https://www.cheapshark.com/redirect?dealID=hGUUSSX1YCsqMByALOSKB%2FNaVza4cZS53vt8giMp06U%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/694280/capsule_231x87.jpg?t=1786965015"
-  },
-  {
-   "title": "Resident Evil 2",
-   "store": "GameBillet",
-   "sale": "6.76",
-   "normal": "39.99",
-   "savings": 83,
-   "url": "https://www.cheapshark.com/redirect?dealID=AzmEN6DbarCkCrDOyzw0KZkZqhlzs0XBtl28ZWE8k0I%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/883710/capsule_231x87.jpg?t=1779433152"
-  },
-  {
-   "title": "OlliOlli World",
-   "store": "GameBillet",
-   "sale": "5.25",
-   "normal": "29.99",
-   "savings": 82,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2F3ybHTNGkiUZjoD%2BrMTLLbj1R%2FwB%2BOzc%2BoznW2F0tOw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1190170/capsule_231x87.jpg?t=1749136439"
-  },
-  {
-   "title": "Marvels Midnight Suns",
-   "store": "GreenManGaming",
-   "sale": "8.10",
-   "normal": "59.99",
-   "savings": 86,
-   "url": "https://www.cheapshark.com/redirect?dealID=9unHxDjIZfGumDQhZkb8j02LGSvH6Lao2ICicJN7ASI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/368260/capsule_231x87.jpg?t=1732138093"
-  },
-  {
-   "title": "Alan Wake",
-   "store": "GOG",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=hpW0muntgKlM8CfUo3XCKx%2Bg8cIPNKx85X3XaS53XZU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108710/a0e04fbe5de4b8116dbf8102354fcf4db5503fe1/capsule_231x87.jpg?t=1769717716"
-  },
-  {
-   "title": "King's Bounty: Armored Princess",
-   "store": "Steam",
-   "sale": "1.49",
-   "normal": "9.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=a7aai9%2FkT8VYhuY5i9Q7sehnKeC4HAxuUGmyPPXdWyw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3170/3743302f7350d1fc53f377a6cf6fe7d1b59b7849/capsule_231x87.jpg?t=1786626361"
-  },
-  {
-   "title": "INSIDE",
-   "store": "Steam",
-   "sale": "2.49",
-   "normal": "24.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=MNeCPwsOA2Ep3wim%2FLwY4C0rcPZGEkwjwOSlzBwXs8c%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/304430/capsule_231x87.jpg?t=1761819581"
-  },
-  {
-   "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
-   "store": "GOG",
-   "sale": "2.99",
-   "normal": "19.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=wbwSwOEEf%2FXwtxjY8CVuiEfXM4NXhJq6i8wy%2FJbS5aY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20920/capsule_231x87.jpg?t=1761657279"
-  },
-  {
-   "title": "Dropsy",
-   "store": "GOG",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=KyVVy%2BjxIufO83d8DD5x2xs1KIzEmrEbFQ2x%2BHT%2FXe4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274350/capsule_231x87.jpg?t=1725396094"
   }
  ]
 }
