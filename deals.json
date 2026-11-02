@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T08:17Z",
+ "updated": "2026-11-02T18:51Z",
  "epic": [
   {
    "title": "Sorry We're Closed",
@@ -26,13 +26,6 @@
    "store": "Steam",
    "url": "https://www.gamerpower.com/open/asleep-act-1-steam-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/6ae4ceb2e38bb.jpg",
-   "ends": "2026-11-02T23:59:00Z"
-  },
-  {
-   "title": "A New Beginning: Final Cut",
-   "store": "GOG",
-   "url": "https://www.gamerpower.com/open/a-new-beginning-final-cut-gog-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/6ae4af4cbf862.jpg",
    "ends": "2026-11-02T23:59:00Z"
   },
   {
@@ -104,6 +97,13 @@
    "url": "https://www.gamerpower.com/open/buckler-2-itch-io-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/639f704bc35bc.jpg",
    "ends": "2026-11-05T23:59:59Z"
+  },
+  {
+   "title": "Roseblight",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/roseblight",
+   "img": "https://www.gamerpower.com/offers/1b/61c3b92ec8e9f.jpg",
+   "ends": "2026-11-05T23:59:59Z"
   }
  ],
  "deals": [
@@ -117,13 +117,31 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796580/c6fa267fe2888073c88a429b579bd92e5f388292/capsule_231x87.jpg?t=1788536861"
   },
   {
-   "title": "EA SPORTS PGA TOUR",
-   "store": "Epic Games Store",
-   "sale": "6.99",
-   "normal": "69.99",
+   "title": "Dont Stop, Girlypop!",
+   "store": "Gamesplanet",
+   "sale": "1.88",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=msu0%2BanMJrKmgos%2B7EdlTPNxEOdWKD2pDlBlwFeKzJ0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
+  },
+  {
+   "title": "Dont Stop, Girlypop!",
+   "store": "IndieGala",
+   "sale": "1.89",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=U6%2FmzYxisz6oDuhlbCFkfm%2FhgbB9VCxwBAOU%2FYQhdWY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
+  },
+  {
+   "title": "Dont Stop, Girlypop!",
+   "store": "GamersGate",
+   "sale": "2.00",
+   "normal": "19.99",
    "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=d%2F76kKc8wzdFvnXE2GTj0ruDps28NPqKIfIvQ4AjZ8c%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1677350/capsule_231x87.jpg?t=1777395708"
+   "url": "https://www.cheapshark.com/redirect?dealID=Ykakzsdhian9XVN%2Br3OCAVoXF6jedTZqM99kQuslB%2F8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
   },
   {
    "title": "Owlboy",
@@ -160,6 +178,15 @@
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
+   "title": "Torchlight II",
+   "store": "GreenManGaming",
+   "sale": "3.20",
+   "normal": "19.99",
+   "savings": 84,
+   "url": "https://www.cheapshark.com/redirect?dealID=cJtg1TRIgWSDUyTBIDlpw8BR%2FlDgvnBvUeOKOYIVfIw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200710/capsule_231x87.jpg?t=1792118316"
   },
   {
    "title": "Bury me, my Love",
@@ -225,6 +252,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
   },
   {
+   "title": "Ultra Street Fighter IV",
+   "store": "Gamesplanet",
+   "sale": "3.73",
+   "normal": "29.99",
+   "savings": 88,
+   "url": "https://www.cheapshark.com/redirect?dealID=2k1iHZIVamMaeIML72kmPdWGf4NQ8jot82VwCgAExQg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/45760/capsule_231x87.jpg?t=1759109520"
+  },
+  {
    "title": "Roguebook",
    "store": "GamersGate",
    "sale": "2.50",
@@ -232,6 +268,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=5m11BQuVIZQJx3yonejXssC2TRfyJuGMQ%2FSt%2BKLJ58M%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1076200/capsule_231x87.jpg?t=1778174412"
+  },
+  {
+   "title": "IL-2 Sturmovik: 1946",
+   "store": "Gamesplanet",
+   "sale": "1.82",
+   "normal": "9.99",
+   "savings": 82,
+   "url": "https://www.cheapshark.com/redirect?dealID=6o6PdUkh9VoETYlJIvkupm4qZh%2BOqdu0QrazAq1CVsY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945"
   },
   {
    "title": "Splasher",
@@ -252,6 +297,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
   },
   {
+   "title": "Metro 2033 Redux",
+   "store": "Fanatical",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=7xy5A9tNsHVw8JjckcBDRr7PL6MXHN4jBwRXQ9GX6Ps%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/e61b54b5c5ec0a610be1bd53e89b461c413e0e6b/capsule_231x87_alt_assets_1.jpg?t=1792681167"
+  },
+  {
    "title": "WRC 8 FIA World Rally Championship",
    "store": "GamersGate",
    "sale": "3.00",
@@ -268,60 +322,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=w5%2Fj0I5ToPSnuQErvQ7GznyqiXeL9n4TpaObgAGl6Fg%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1793106469"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
-   "store": "GamersGate",
-   "sale": "4.00",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=PVRg%2FyHCMCE6vB37NrqoNsATrSJsc6bxNRAgzv8W72E%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
-  },
-  {
-   "title": "LIMBO",
-   "store": "Steam",
-   "sale": "1.24",
-   "normal": "12.49",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=X9XEB%2Fw3H%2BmI80UYR458fzGB9zWEHde%2Bz2e8vPvNWl4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/48000/capsule_231x87.jpg?t=1761819450"
-  },
-  {
-   "title": "RoboCop: Rogue City",
-   "store": "GamersGate",
-   "sale": "5.00",
-   "normal": "49.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=BziBDBEN4eig0h%2F2uecKFGVX9w5avRBpLSdHyBOqv9s%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/capsule_231x87.jpg?t=1778174302"
-  },
-  {
-   "title": "Disco Elysium - The Final Cut",
-   "store": "GOG",
-   "sale": "9.99",
-   "normal": "39.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=fo%2BHT27GrgZT0g2USsPLQ2dVGTnq%2Fb%2FBnY2L2%2Bi8BWk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
-  },
-  {
-   "title": "Kathy Rain",
-   "store": "Steam",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=x4Rve1MDdtCybHfCrpcd%2BJiSQc7wue10GsiA7A0iRjA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/370910/capsule_231x87.jpg?t=1726577236"
-  },
-  {
-   "title": "The Quarry",
-   "store": "GameBillet",
-   "sale": "5.36",
-   "normal": "59.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=jLgjGKYcfRav%2Bpm0%2F%2Bg9yMjmEEq5E86iQ7mZXVfvUhI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1577120/capsule_231x87.jpg?t=1730303267"
   }
  ]
 }
