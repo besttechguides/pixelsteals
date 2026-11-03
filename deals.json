@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T08:17Z",
+ "updated": "2026-11-03T16:37Z",
  "epic": [
   {
    "title": "Sorry We're Closed",
@@ -115,6 +115,15 @@
    "savings": 100,
    "url": "https://www.cheapshark.com/redirect?dealID=mdXsHrbzWYTdk42x82ahrFKrv9%2BTHOkoyfNwvB5op%2Bo%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796580/c6fa267fe2888073c88a429b579bd92e5f388292/capsule_231x87.jpg?t=1788536861"
+  },
+  {
+   "title": "Dont Stop, Girlypop!",
+   "store": "GameBillet",
+   "sale": "2.00",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=4TB%2FNlmgfAW%2F82vNFihbz3H92Ax7dZB5yBV4dXbaaw8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
   },
   {
    "title": "Dont Stop, Girlypop!",
@@ -288,6 +297,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323580/capsule_231x87.jpg?t=1752500989"
   },
   {
+   "title": "Make Way",
+   "store": "IndieGala",
+   "sale": "2.24",
+   "normal": "14.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=nZUwZY%2FDlqsMWiZcUy%2BPbBdUW3%2BsqrUfHmAU9KWryDg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1445790/ce67a56e968fc26fb8de1647458a025904d0e51b/capsule_231x87.jpg?t=1790865580"
+  },
+  {
    "title": "Everspace",
    "store": "Steam",
    "sale": "1.99",
@@ -304,24 +322,6 @@
    "savings": 80,
    "url": "https://www.cheapshark.com/redirect?dealID=UgYbZfH00wFDvUZF8Nk1uNP7npZA2HEibK%2BCD%2FGadgk%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
-  },
-  {
-   "title": "WRC 9 FIA World Rally Championship",
-   "store": "GamersGate",
-   "sale": "4.00",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=vJfBss8ZdrlBfJvDdTHWoZkYHcE9rJD1g7fzP1tiy1o%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
-  },
-  {
-   "title": "Borderlands 3",
-   "store": "Steam",
-   "sale": "5.99",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=vS1xuwVUUlwbII1yuCEqdOCxRHNlV2%2F6fnhSikmNFGA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
   }
  ]
 }
