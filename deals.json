@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T08:17Z",
+ "updated": "2026-11-04T16:37Z",
  "epic": [
   {
    "title": "Sorry We're Closed",
@@ -117,6 +117,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796580/c6fa267fe2888073c88a429b579bd92e5f388292/capsule_231x87.jpg?t=1788536861"
   },
   {
+   "title": "Disco Elysium - The Final Cut",
+   "store": "IndieGala",
+   "sale": "7.89",
+   "normal": "39.99",
+   "savings": 80,
+   "url": "https://www.cheapshark.com/redirect?dealID=3Y%2Fp3MbsSuCo%2FLOFoOL7cnlYwZl1qBKQCMsAaqZHRl8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
+  },
+  {
    "title": "Dont Stop, Girlypop!",
    "store": "GameBillet",
    "sale": "2.00",
@@ -222,7 +231,7 @@
    "normal": "49.99",
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=Q%2FG36SByFK5fUA9fKhyVMEJr%2B0XuKuvs%2B7hBNciv%2Fmg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg?t=1789446799"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg?t=1793774936"
   },
   {
    "title": "Rising Storm 2: Vietnam",
@@ -313,15 +322,6 @@
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=ChqYhrDPEBjLMuoKuMuxtiRBPLG359pG0acXde2993E%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/257510/capsule_231x87.jpg?t=1744327639"
-  },
-  {
-   "title": "Dark Future: Blood Red States",
-   "store": "WinGameStore",
-   "sale": "2.49",
-   "normal": "24.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=TAj5QYM2YPF3JUhSjBjB4t%2B6Ccib0DTL7B5rkQ8tEsA%3D",
-   "img": "https://sttc.gamersgate.com/images/product/dark-future-blood-red-states/cover-180-d7cd23.jpg"
   }
  ]
 }
