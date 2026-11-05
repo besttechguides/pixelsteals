@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:52Z",
+ "updated": "2026-11-05T21:28Z",
  "epic": [
   {
    "title": "Idle Champions of the Forgotten Realms",
@@ -35,27 +35,6 @@
    "url": "https://www.gamerpower.com/open/very-realistic-game-dev-simulator-itch-io-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/6946b7c157bca.jpg",
    "ends": "2026-11-05T23:59:35Z"
-  },
-  {
-   "title": "Project Malice",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/project-malice-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/639e763b0c618.jpg",
-   "ends": "2026-11-05T23:59:59Z"
-  },
-  {
-   "title": "Buckler 2",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/buckler-2-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/639f704bc35bc.jpg",
-   "ends": "2026-11-05T23:59:59Z"
-  },
-  {
-   "title": "Roseblight",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/roseblight",
-   "img": "https://www.gamerpower.com/offers/1b/61c3b92ec8e9f.jpg",
-   "ends": "2026-11-05T23:59:59Z"
   },
   {
    "title": "My Darkest Witch",
@@ -105,17 +84,31 @@
    "url": "https://www.gamerpower.com/open/leaper-pc-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/68e6513c31514.jpg",
    "ends": null
+  },
+  {
+   "title": "GigaBash",
+   "store": "Stove",
+   "url": "https://www.gamerpower.com/open/gigabash-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/69567c4ee0fa3.jpg",
+   "ends": null
+  },
+  {
+   "title": "Dual Chroma: Academy Carols",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/63c6f67bb9c8b.jpg",
+   "ends": null
   }
  ],
  "deals": [
   {
-   "title": "Sorry Were Closed",
-   "store": "Epic Games Store",
-   "sale": "0.00",
-   "normal": "24.99",
-   "savings": 100,
-   "url": "https://www.cheapshark.com/redirect?dealID=mdXsHrbzWYTdk42x82ahrFKrv9%2BTHOkoyfNwvB5op%2Bo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1796580/c6fa267fe2888073c88a429b579bd92e5f388292/capsule_231x87.jpg?t=1788536861"
+   "title": "Dont Stop, Girlypop!",
+   "store": "GameBillet",
+   "sale": "1.65",
+   "normal": "19.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=4TB%2FNlmgfAW%2F82vNFihbz3H92Ax7dZB5yBV4dXbaaw8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
   },
   {
    "title": "Disco Elysium - The Final Cut",
@@ -136,13 +129,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
   },
   {
-   "title": "Dont Stop, Girlypop!",
-   "store": "GameBillet",
-   "sale": "2.00",
+   "title": "Sid Meier's Civilization IV",
+   "store": "Steam",
+   "sale": "3.99",
    "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=4TB%2FNlmgfAW%2F82vNFihbz3H92Ax7dZB5yBV4dXbaaw8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
+   "savings": 80,
+   "url": "https://www.cheapshark.com/redirect?dealID=khSrhkgpaxgOWWEYV9MdKid%2FcDzIGa0zHzvh5j73lLo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900/capsule_231x87.jpg?t=1724341287"
   },
   {
    "title": "Dont Stop, Girlypop!",
@@ -161,6 +154,15 @@
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=U6%2FmzYxisz6oDuhlbCFkfm%2FhgbB9VCxwBAOU%2FYQhdWY%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
+  },
+  {
+   "title": "Company of Heroes",
+   "store": "Steam",
+   "sale": "2.99",
+   "normal": "14.99",
+   "savings": 80,
+   "url": "https://www.cheapshark.com/redirect?dealID=jMk%2BhjGpIo9Go5VfAYi1PHYlp%2FFpcax2ABPgj4Gj%2FPo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/228200/capsule_231x87.jpg?t=1777996337"
   },
   {
    "title": "Dont Stop, Girlypop!",
@@ -307,22 +309,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261470/capsule_231x87.jpg?t=1726821290"
   },
   {
-   "title": "Stories Untold",
-   "store": "Gamesplanet",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=U84rxVlnbAtajuh3PskPftioTrfdsd4iNKiLahN6RiI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1793035114"
-  },
-  {
-   "title": "Hitman Absolution",
-   "store": "GOG",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Q55DUqIbqxEMwlL%2F3iJ9lZnNs6pIWd8YmRRtILDr1xc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203140/capsule_231x87.jpg?t=1734461136"
+   "title": "Dark Future: Blood Red States",
+   "store": "GameBillet",
+   "sale": "2.08",
+   "normal": "24.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=EVm6p1uBUauy1bGaiYUN6VISgKMxnznIH%2FMVLed%2BPWE%3D",
+   "img": "https://sttc.gamersgate.com/images/product/dark-future-blood-red-states/cover-180-d7cd23.jpg"
   }
  ]
 }
