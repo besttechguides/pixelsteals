@@ -1,23 +1,24 @@
 {
- "updated": "2026-11-05T08:17Z",
+ "updated": "2026-11-05T16:52Z",
  "epic": [
   {
-   "title": "Sorry We're Closed",
-   "ends": "2026-11-05T16:00:00.000Z",
-   "url": "https://store.epicgames.com/en-GB/p/sorry-were-closed-724c86",
-   "img": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png"
+   "title": "Idle Champions of the Forgotten Realms",
+   "ends": "2026-11-12T16:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/idle-champions-of-the-forgotten-realms",
+   "img": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg"
+  },
+  {
+   "title": "Flotsam",
+   "ends": "2026-11-12T16:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/flotsam-266287",
+   "img": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg"
   }
  ],
  "epic_upcoming": [
   {
-   "title": "Idle Champions of the Forgotten Realms",
-   "starts": "2026-11-05T16:00:00.000Z",
-   "ends": "2026-11-12T16:00:00.000Z"
-  },
-  {
-   "title": "Flotsam",
-   "starts": "2026-11-05T16:00:00.000Z",
-   "ends": "2026-11-12T16:00:00.000Z"
+   "title": "Knightica",
+   "starts": "2026-11-12T16:00:00.000Z",
+   "ends": "2026-11-19T16:00:00.000Z"
   }
  ],
  "free_other": [
@@ -26,20 +27,6 @@
    "store": "itch.io",
    "url": "https://www.gamerpower.com/open/cherophobia-itch-io-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/698fa7369c1f5.jpg",
-   "ends": "2026-11-05T23:59:00Z"
-  },
-  {
-   "title": "Do You Have a Moment to Talk About Our Lord and Savior?",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/do-you-have-a-moment-to-talk-about-our-lord-and-savior-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/6946b8c46bc9b.jpg",
-   "ends": "2026-11-05T23:59:00Z"
-  },
-  {
-   "title": "Solace Inc.",
-   "store": "itchio",
-   "url": "https://www.gamerpower.com/open/solace-inc-itchio-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/684151ffd5fd6.jpg",
    "ends": "2026-11-05T23:59:00Z"
   },
   {
@@ -104,6 +91,20 @@
    "url": "https://www.gamerpower.com/open/sausage-hunter-pc-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/68eadb2d6f0c4.jpg",
    "ends": null
+  },
+  {
+   "title": "Battle Ram",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/battle-ram-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/68efabd65f913.jpg",
+   "ends": null
+  },
+  {
+   "title": "Leaper",
+   "store": "IndieGala",
+   "url": "https://www.gamerpower.com/open/leaper-pc-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/68e6513c31514.jpg",
+   "ends": null
   }
  ],
  "deals": [
@@ -124,6 +125,15 @@
    "savings": 80,
    "url": "https://www.cheapshark.com/redirect?dealID=3Y%2Fp3MbsSuCo%2FLOFoOL7cnlYwZl1qBKQCMsAaqZHRl8%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
+  },
+  {
+   "title": "Hitman 2: Silent Assassin",
+   "store": "GOG",
+   "sale": "0.89",
+   "normal": "8.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=02BngC2eerCKDu6td3LDoognymPLwY5pWbigLzanh5I%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
   },
   {
    "title": "Dont Stop, Girlypop!",
@@ -162,6 +172,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
   },
   {
+   "title": "SteamWorld Dig 2",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=dKEChl4oge1iERtCeaxD2Pq7SCbFHVCAeNBMa341tV8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg?t=1726132098"
+  },
+  {
    "title": "Disco Elysium - The Final Cut",
    "store": "Gamesplanet",
    "sale": "9.47",
@@ -189,6 +208,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115800/912f1083dbb1e38a24aee39409fc05102636509a/capsule_231x87_alt_assets_0.jpg?t=1793528438"
   },
   {
+   "title": "Hitman: Blood Money",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=hz69tD7igaue5tPP9YlHRZTYhYSKEIubJSTVR3Sa2NA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6860/capsule_231x87.jpg?t=1732283123"
+  },
+  {
    "title": "Disco Elysium - The Final Cut",
    "store": "GamersGate",
    "sale": "10.00",
@@ -196,6 +224,15 @@
    "savings": 75,
    "url": "https://www.cheapshark.com/redirect?dealID=qC4WrLpAECdOAkMdFbFR6v1enxAovFyS9bUIR41KGmQ%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
+  },
+  {
+   "title": "Metro Exodus",
+   "store": "GOG",
+   "sale": "2.99",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=wU0Nb%2B%2BYjnl3Q8mWou48wfy4kCTgJa4VuMUmASC4af0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/412020/capsule_231x87.jpg?t=1750772804"
   },
   {
    "title": "Cross Blitz",
@@ -243,6 +280,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115800/912f1083dbb1e38a24aee39409fc05102636509a/capsule_231x87_alt_assets_0.jpg?t=1793528438"
   },
   {
+   "title": "Freedom Fighters",
+   "store": "GOG",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=vXy83DX7kQBKv7tH%2BAPZm8QyGLmsR1bODhG8HgfnFhg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1347780/capsule_231x87.jpg?t=1600704099"
+  },
+  {
+   "title": "Trine 4: The Nightmare Prince",
+   "store": "IndieGala",
+   "sale": "2.99",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=O7ecxbHHnDCgRMTk2eTqsHQHbL%2FkbXqFiXRtFXw%2FQEw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/690640/2f8046e5409963a84cec48d9c116f7ec287b9f76/capsule_231x87.jpg?t=1793616299"
+  },
+  {
    "title": "Distant Worlds: Universe",
    "store": "GamersGate",
    "sale": "3.00",
@@ -261,67 +316,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/558420/capsule_231x87.jpg?t=1793035114"
   },
   {
-   "title": "Afterimage",
-   "store": "GamersGate",
-   "sale": "2.50",
-   "normal": "24.99",
+   "title": "Hitman Absolution",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "19.99",
    "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=lno1HFg9sTJN6h3ILtGJsN5OtTngYhoa7hU8DiBPdU8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1701520/capsule_231x87.jpg?t=1787333685"
-  },
-  {
-   "title": "FINAL FANTASY VII REBIRTH",
-   "store": "Epic Games Store",
-   "sale": "7.49",
-   "normal": "49.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=Q%2FG36SByFK5fUA9fKhyVMEJr%2B0XuKuvs%2B7hBNciv%2Fmg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg?t=1793774936"
-  },
-  {
-   "title": "Slime-San",
-   "store": "GamersGate",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=4sAzs90zbLjXUP0h51gNh9m2UFOEIIILtWorsaf3ltk%3D",
-   "img": "https://sttc.gamersgate.com/images/product/slime-san/cover-180-00b42c.jpg"
-  },
-  {
-   "title": "The Textorcist: The Story of Ray Bibbia",
-   "store": "GamersGate",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=izs5Sm%2FebGaAXkiMA7uEzYrnZqEtsPSrz4MvGQRR8RQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/940680/capsule_231x87.jpg?t=1754643092"
-  },
-  {
-   "title": "Rising Storm 2: Vietnam",
-   "store": "Humble Store",
-   "sale": "2.49",
-   "normal": "24.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Hsa3QMMXZfDyEpyCsYfeJPu%2BBH1jSuGKdm3RLERI9sA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418460/capsule_231x87.jpg?t=1789745392"
-  },
-  {
-   "title": "Hell Pie",
-   "store": "GamersGate",
-   "sale": "2.50",
-   "normal": "24.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=VXV0Qg1l%2B2qOrpl9NouTIdQncy1C7M5ZxNPXpoCU3pM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/889910/capsule_231x87.jpg?t=1764867573"
-  },
-  {
-   "title": "The Coma 2: Vicious Sisters",
-   "store": "GamersGate",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=SAXSFpTHud%2FjPoLNnwwTTgD%2FT87Yf%2FonCs6f4TiSUXw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1045720/capsule_231x87.jpg?t=1783989609"
+   "url": "https://www.cheapshark.com/redirect?dealID=Q55DUqIbqxEMwlL%2F3iJ9lZnNs6pIWd8YmRRtILDr1xc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203140/capsule_231x87.jpg?t=1734461136"
   }
  ]
 }
