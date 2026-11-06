@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:17Z",
+ "updated": "2026-11-06T16:20Z",
  "epic": [
   {
    "title": "Idle Champions of the Forgotten Realms",
@@ -169,6 +169,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg?t=1726132098"
   },
   {
+   "title": "The Next Penelope",
+   "store": "WinGameStore",
+   "sale": "1.29",
+   "normal": "12.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2Fhe91FSS5h33%2BEjY0G5IMyEKMZPHz%2FVBmQRe7C9ropk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
+  },
+  {
    "title": "Disco Elysium - The Final Cut",
    "store": "Gamesplanet",
    "sale": "9.47",
@@ -185,6 +194,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=y9vH5Xf2O3lmQzX8IprLnYJ8PT7C2MafD4gPIMz7y%2Fs%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49520/capsule_231x87.jpg?t=1793288352"
+  },
+  {
+   "title": "Fly'N",
+   "store": "WinGameStore",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=CygdT1AXmlrr%2BHbzYkDGm%2Fhy7JRITQa0nOjPyI0Yafs%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223730/capsule_231x87.jpg?t=1753954633"
   },
   {
    "title": "Owlboy",
@@ -214,6 +232,51 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
   },
   {
+   "title": "Shadowgrounds Survivor",
+   "store": "WinGameStore",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=GxCeQHH57JE%2F68Ax5BV6qp%2FZ6g34MWSR4gzZo6Smc3g%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
+  },
+  {
+   "title": "Impulsion",
+   "store": "WinGameStore",
+   "sale": "1.29",
+   "normal": "12.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=auEVb3bEX7%2FjWDmqpidQpnzNJHW%2Fv46xY6frFdqPewg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
+  },
+  {
+   "title": "Anarcute",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=Z6B9rNulf2q4pK5zlcMqToNjm0PO%2FhB50SWITCDK0%2Bw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
+  },
+  {
+   "title": "Splasher",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=ZzODs6ZHpBTPj2xJT29dVBcgue55w4k5TSEYWWy8TXw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950"
+  },
+  {
+   "title": "WRC 9 FIA World Rally Championship",
+   "store": "WinGameStore",
+   "sale": "2.99",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=VdzRtXjt%2Bu5HhBe4AyzQQE0LVEU3lezbzkbItntFcpQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
+  },
+  {
    "title": "Metro Exodus",
    "store": "GOG",
    "sale": "2.99",
@@ -239,69 +302,6 @@
    "savings": 75,
    "url": "https://www.cheapshark.com/redirect?dealID=S2uE9cJS%2Fd9lV12GvnprUt0L8O5lsr7S8btaruxWK24%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
-  },
-  {
-   "title": "Cross Blitz",
-   "store": "GameBillet",
-   "sale": "5.75",
-   "normal": "22.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=l%2F1GqzvIxxOC0jR8uKY0gWpI%2Fm8vpaHSiBZ%2BJdED3zs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
-  },
-  {
-   "title": "Owlboy",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=h7jKI1jBdFpskbaDQbVYa1jLlCzAjUary37jBfaVOVw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115800/912f1083dbb1e38a24aee39409fc05102636509a/capsule_231x87_alt_assets_0.jpg?t=1793528438"
-  },
-  {
-   "title": "Owlboy",
-   "store": "GOG",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=qdUy9w9Ewyf%2FDXKWnnAss4fZYUxCiEzE%2FNAbOUIO4hg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115800/912f1083dbb1e38a24aee39409fc05102636509a/capsule_231x87_alt_assets_0.jpg?t=1793528438"
-  },
-  {
-   "title": "Freedom Fighters",
-   "store": "GOG",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=vXy83DX7kQBKv7tH%2BAPZm8QyGLmsR1bODhG8HgfnFhg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1347780/capsule_231x87.jpg?t=1600704099"
-  },
-  {
-   "title": "Trine 4: The Nightmare Prince",
-   "store": "IndieGala",
-   "sale": "2.99",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=O7ecxbHHnDCgRMTk2eTqsHQHbL%2FkbXqFiXRtFXw%2FQEw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/690640/2f8046e5409963a84cec48d9c116f7ec287b9f76/capsule_231x87.jpg?t=1793616299"
-  },
-  {
-   "title": "Distant Worlds: Universe",
-   "store": "GamersGate",
-   "sale": "3.00",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=VOG4yAHk0l%2BKWF3V5pXr%2B%2BFUQZh4f%2FvOkg1DFUWDdj8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261470/capsule_231x87.jpg?t=1726821290"
-  },
-  {
-   "title": "Dark Future: Blood Red States",
-   "store": "GameBillet",
-   "sale": "2.08",
-   "normal": "24.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=EVm6p1uBUauy1bGaiYUN6VISgKMxnznIH%2FMVLed%2BPWE%3D",
-   "img": "https://sttc.gamersgate.com/images/product/dark-future-blood-red-states/cover-180-d7cd23.jpg"
   }
  ]
 }
