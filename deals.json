@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:20Z",
+ "updated": "2026-11-07T08:17Z",
  "epic": [
   {
    "title": "Idle Champions of the Forgotten Realms",
@@ -115,6 +115,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
   },
   {
+   "title": "Disco Elysium - The Final Cut",
+   "store": "WinGameStore",
+   "sale": "9.79",
+   "normal": "39.99",
+   "savings": 76,
+   "url": "https://www.cheapshark.com/redirect?dealID=aymbLiXk9HqRzVGZS%2B2cilmOHdlPAnRyWpf6%2FrdJM%2Bg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
+  },
+  {
    "title": "Sid Meier's Civilization IV",
    "store": "Steam",
    "sale": "3.99",
@@ -151,15 +160,6 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/228200/capsule_231x87.jpg?t=1777996337"
   },
   {
-   "title": "Dont Stop, Girlypop!",
-   "store": "GamersGate",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Ykakzsdhian9XVN%2Br3OCAVoXF6jedTZqM99kQuslB%2F8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
-  },
-  {
    "title": "SteamWorld Dig 2",
    "store": "GOG",
    "sale": "1.99",
@@ -167,6 +167,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=dKEChl4oge1iERtCeaxD2Pq7SCbFHVCAeNBMa341tV8%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg?t=1726132098"
+  },
+  {
+   "title": "Dont Stop, Girlypop!",
+   "store": "GamersGate",
+   "sale": "2.00",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=Ykakzsdhian9XVN%2Br3OCAVoXF6jedTZqM99kQuslB%2F8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
   },
   {
    "title": "The Next Penelope",
@@ -292,15 +301,6 @@
    "normal": "22.99",
    "savings": 75,
    "url": "https://www.cheapshark.com/redirect?dealID=GyFPndoGfmbB5eAMuoQCxRQH4A%2B5TWDewHo2%2Fy9zPAA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
-  },
-  {
-   "title": "Cross Blitz",
-   "store": "GreenManGaming",
-   "sale": "5.75",
-   "normal": "22.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=S2uE9cJS%2Fd9lV12GvnprUt0L8O5lsr7S8btaruxWK24%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
   }
  ]
