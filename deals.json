@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:13Z",
+ "updated": "2026-11-08T08:17Z",
  "epic": [
   {
    "title": "Idle Champions of the Forgotten Realms",
@@ -97,15 +97,6 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
   },
   {
-   "title": "Disco Elysium - The Final Cut",
-   "store": "IndieGala",
-   "sale": "7.89",
-   "normal": "39.99",
-   "savings": 80,
-   "url": "https://www.cheapshark.com/redirect?dealID=3Y%2Fp3MbsSuCo%2FLOFoOL7cnlYwZl1qBKQCMsAaqZHRl8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
-  },
-  {
    "title": "Hitman 2: Silent Assassin",
    "store": "GOG",
    "sale": "0.89",
@@ -115,15 +106,6 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
   },
   {
-   "title": "Disco Elysium - The Final Cut",
-   "store": "WinGameStore",
-   "sale": "9.79",
-   "normal": "39.99",
-   "savings": 76,
-   "url": "https://www.cheapshark.com/redirect?dealID=aymbLiXk9HqRzVGZS%2B2cilmOHdlPAnRyWpf6%2FrdJM%2Bg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
-  },
-  {
    "title": "Sid Meier's Civilization IV",
    "store": "Steam",
    "sale": "3.99",
@@ -131,6 +113,15 @@
    "savings": 80,
    "url": "https://www.cheapshark.com/redirect?dealID=khSrhkgpaxgOWWEYV9MdKid%2FcDzIGa0zHzvh5j73lLo%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900/capsule_231x87.jpg?t=1724341287"
+  },
+  {
+   "title": "Quern - Undying Thoughts",
+   "store": "Steam",
+   "sale": "2.49",
+   "normal": "24.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=pmoPndF2%2BFlQCFjAHYDZ6MyyyJI57LxGNxAxEC1xqfw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/512790/capsule_231x87.jpg?t=1790011335"
   },
   {
    "title": "Dont Stop, Girlypop!",
@@ -187,15 +178,6 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
   },
   {
-   "title": "Disco Elysium - The Final Cut",
-   "store": "Gamesplanet",
-   "sale": "9.47",
-   "normal": "39.99",
-   "savings": 76,
-   "url": "https://www.cheapshark.com/redirect?dealID=AUvSqG%2BjgjZBM4JGg0dEDho7mk8Sxn2CpCvml8OEW40%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
-  },
-  {
    "title": "Borderlands 2",
    "store": "Steam",
    "sale": "1.99",
@@ -230,15 +212,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=hz69tD7igaue5tPP9YlHRZTYhYSKEIubJSTVR3Sa2NA%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6860/capsule_231x87.jpg?t=1732283123"
-  },
-  {
-   "title": "Disco Elysium - The Final Cut",
-   "store": "GamersGate",
-   "sale": "10.00",
-   "normal": "39.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=qC4WrLpAECdOAkMdFbFR6v1enxAovFyS9bUIR41KGmQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
   },
   {
    "title": "Shadowgrounds Survivor",
@@ -302,6 +275,33 @@
    "savings": 75,
    "url": "https://www.cheapshark.com/redirect?dealID=GyFPndoGfmbB5eAMuoQCxRQH4A%2B5TWDewHo2%2Fy9zPAA%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
+  },
+  {
+   "title": "Cross Blitz",
+   "store": "GreenManGaming",
+   "sale": "5.75",
+   "normal": "22.99",
+   "savings": 75,
+   "url": "https://www.cheapshark.com/redirect?dealID=S2uE9cJS%2Fd9lV12GvnprUt0L8O5lsr7S8btaruxWK24%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
+  },
+  {
+   "title": "Cross Blitz",
+   "store": "GameBillet",
+   "sale": "5.75",
+   "normal": "22.99",
+   "savings": 75,
+   "url": "https://www.cheapshark.com/redirect?dealID=l%2F1GqzvIxxOC0jR8uKY0gWpI%2Fm8vpaHSiBZ%2BJdED3zs%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
+  },
+  {
+   "title": "Owlboy",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=h7jKI1jBdFpskbaDQbVYa1jLlCzAjUary37jBfaVOVw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115800/912f1083dbb1e38a24aee39409fc05102636509a/capsule_231x87_alt_assets_0.jpg?t=1793528438"
   }
  ]
 }
