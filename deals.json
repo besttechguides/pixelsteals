@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T08:17Z",
+ "updated": "2026-11-09T19:12Z",
  "epic": [
   {
    "title": "Idle Champions of the Forgotten Realms",
@@ -205,6 +205,33 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/512790/capsule_231x87.jpg?t=1790011335"
   },
   {
+   "title": "King's Bounty: Armored Princess",
+   "store": "Gamesplanet",
+   "sale": "1.38",
+   "normal": "9.99",
+   "savings": 86,
+   "url": "https://www.cheapshark.com/redirect?dealID=cGGK90IKptEt6VY%2FVThcD9VXcXAOM44T5f5NFJl7FAI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3170/3743302f7350d1fc53f377a6cf6fe7d1b59b7849/capsule_231x87.jpg?t=1786626361"
+  },
+  {
+   "title": "Tails of Iron",
+   "store": "GOG",
+   "sale": "2.99",
+   "normal": "24.99",
+   "savings": 88,
+   "url": "https://www.cheapshark.com/redirect?dealID=qNh5Wn8OD1c%2FKh8kbDNEl99qFYIj%2BqGUzWMWYgCZdpc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1283410/capsule_231x87.jpg?t=1737877432"
+  },
+  {
+   "title": "Yesterday Origins",
+   "store": "Gamesplanet",
+   "sale": "0.88",
+   "normal": "9.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=025j6OvI7u8r99BwgcrAD5ibGDNLuFCHK7ELU7rnbVA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/465280/capsule_231x87.jpg?t=1683877469"
+  },
+  {
    "title": "Anarcute",
    "store": "GamersGate",
    "sale": "1.50",
@@ -268,40 +295,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1546710/capsule_231x87.jpg?t=1748596507"
   },
   {
-   "title": "Souldiers",
-   "store": "IndieGala",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=xWHtOdCqjcSoF7JbckKbM54mCa%2BMJiZcYRAsjvon5TY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1419160/capsule_231x87.jpg?t=1720187905"
-  },
-  {
-   "title": "SteamWorld Dig 2",
+   "title": "Eldest Souls",
    "store": "GOG",
    "sale": "1.99",
    "normal": "19.99",
    "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=dKEChl4oge1iERtCeaxD2Pq7SCbFHVCAeNBMa341tV8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg?t=1726132098"
-  },
-  {
-   "title": "Dont Stop, Girlypop!",
-   "store": "GamersGate",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Ykakzsdhian9XVN%2Br3OCAVoXF6jedTZqM99kQuslB%2F8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
-  },
-  {
-   "title": "Saviorless",
-   "store": "IndieGala",
-   "sale": "1.29",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=wRcasa0%2BnOzWEJC7qSd1Yy15EZu7p%2Fl%2FCAjNhctm8IY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1438480/capsule_231x87.jpg?t=1760471563"
+   "url": "https://www.cheapshark.com/redirect?dealID=06M9lqATB8iw4FBt%2FZxQBOzovadmBN5Hz%2BSflsbKZ9I%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1108590/capsule_231x87.jpg?t=1728376679"
   }
  ]
 }
