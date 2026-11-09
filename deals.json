@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:36Z",
+ "updated": "2026-11-09T08:17Z",
  "epic": [
   {
    "title": "Idle Champions of the Forgotten Realms",
@@ -88,6 +88,15 @@
  ],
  "deals": [
   {
+   "title": "Mindcop",
+   "store": "IndieGala",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=bcpGnU4MAWFVoJKt5vIwyMCHVQYl3QNEFxvUz0kGHrU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517180/capsule_231x87.jpg?t=1744981735"
+  },
+  {
    "title": "Dont Stop, Girlypop!",
    "store": "GameBillet",
    "sale": "1.65",
@@ -95,6 +104,33 @@
    "savings": 92,
    "url": "https://www.cheapshark.com/redirect?dealID=4TB%2FNlmgfAW%2F82vNFihbz3H92Ax7dZB5yBV4dXbaaw8%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
+  },
+  {
+   "title": "Bury me, my Love",
+   "store": "IndieGala",
+   "sale": "0.49",
+   "normal": "4.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=e%2Fjd1kSBHyZXwsusdWTyaEyscpACkEGvwt0iJJOrn1I%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/808090/capsule_231x87.jpg?t=1781885052"
+  },
+  {
+   "title": "Nocturnal",
+   "store": "IndieGala",
+   "sale": "1.69",
+   "normal": "16.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=Mih%2BMFGYCiSm8%2FqQ0fcOEKiF8Nbkax3KwR3%2FVye4kKg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1634080/b3a7303807116f47e723267e3fd4b8fa7e00a5b5/capsule_231x87.jpg?t=1782833654"
+  },
+  {
+   "title": "The Next Penelope",
+   "store": "GamersGate",
+   "sale": "1.30",
+   "normal": "12.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=Dkxi%2Fn68h6TnTvHwZleTrh37i4ysTgvMIK%2FQEvsc4bc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
   },
   {
    "title": "Hitman 2: Silent Assassin",
@@ -106,6 +142,33 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
   },
   {
+   "title": "Shadowgrounds Survivor",
+   "store": "GamersGate",
+   "sale": "1.00",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2BZ0Ak%2FQjLpckjfRvbsgCsc2HPxovZdsOObHq32wNaWA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
+  },
+  {
+   "title": "Impulsion",
+   "store": "IndieGala",
+   "sale": "1.29",
+   "normal": "12.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=PhedlEeBzgZ6eV%2FpSbfoZxcdGoT1ZOoUxRZje%2FU5HSg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
+  },
+  {
+   "title": "Splasher",
+   "store": "IndieGala",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=qREbAx4azQsKuOW124qXoBnkhNE9NVvoneRlMmU%2Fo3w%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950"
+  },
+  {
    "title": "Sid Meier's Civilization IV",
    "store": "Steam",
    "sale": "3.99",
@@ -113,6 +176,24 @@
    "savings": 80,
    "url": "https://www.cheapshark.com/redirect?dealID=khSrhkgpaxgOWWEYV9MdKid%2FcDzIGa0zHzvh5j73lLo%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900/capsule_231x87.jpg?t=1724341287"
+  },
+  {
+   "title": "Revita",
+   "store": "IndieGala",
+   "sale": "1.69",
+   "normal": "16.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=LDqthccwppQ23LuGlVt3CMJfMj7FRxTGxQDb6nZ7GkU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1175460/capsule_231x87.jpg?t=1744981718"
+  },
+  {
+   "title": "Fly'N",
+   "store": "GamersGate",
+   "sale": "1.00",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=d3Q8yrkjh1ycVzqnno8svDbbz1ToRxgnpVdVRXoBMlA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223730/capsule_231x87.jpg?t=1753954633"
   },
   {
    "title": "Quern - Undying Thoughts",
@@ -124,6 +205,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/512790/capsule_231x87.jpg?t=1790011335"
   },
   {
+   "title": "Anarcute",
+   "store": "GamersGate",
+   "sale": "1.50",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=7gMaGKat0WxcaKBlOKN8o2%2BVmEPrUwuh0G3r3kJS%2F%2Fg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
+  },
+  {
+   "title": "Wanderlust Travel Stories",
+   "store": "GamersGate",
+   "sale": "1.50",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=c8050qYtyFn4LkO8a0yYhmMs5%2B%2FHtLwKHnEUkOFDiNE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1051410/capsule_231x87.jpg?t=1724948951"
+  },
+  {
    "title": "Dont Stop, Girlypop!",
    "store": "Gamesplanet",
    "sale": "1.88",
@@ -131,6 +230,15 @@
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=msu0%2BanMJrKmgos%2B7EdlTPNxEOdWKD2pDlBlwFeKzJ0%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
+  },
+  {
+   "title": "Company of Heroes",
+   "store": "Steam",
+   "sale": "2.99",
+   "normal": "14.99",
+   "savings": 80,
+   "url": "https://www.cheapshark.com/redirect?dealID=jMk%2BhjGpIo9Go5VfAYi1PHYlp%2FFpcax2ABPgj4Gj%2FPo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/228200/capsule_231x87.jpg?t=1777996337"
   },
   {
    "title": "Dont Stop, Girlypop!",
@@ -142,13 +250,31 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
   },
   {
-   "title": "Company of Heroes",
-   "store": "Steam",
-   "sale": "2.99",
-   "normal": "14.99",
-   "savings": 80,
-   "url": "https://www.cheapshark.com/redirect?dealID=jMk%2BhjGpIo9Go5VfAYi1PHYlp%2FFpcax2ABPgj4Gj%2FPo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/228200/capsule_231x87.jpg?t=1777996337"
+   "title": "ScourgeBringer",
+   "store": "IndieGala",
+   "sale": "1.69",
+   "normal": "16.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=yuCsIcwsk5l0JUK3j327G8dxZz7OAwbnGv5MWeDmcn4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1037020/capsule_231x87.jpg?t=1745582111"
+  },
+  {
+   "title": "Vernal Edge",
+   "store": "IndieGala",
+   "sale": "1.69",
+   "normal": "16.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=ugK%2BHLTlaxSBwymMJ9i62RScUvLdLePs3s1CPAEyOcw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1546710/capsule_231x87.jpg?t=1748596507"
+  },
+  {
+   "title": "Souldiers",
+   "store": "IndieGala",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=xWHtOdCqjcSoF7JbckKbM54mCa%2BMJiZcYRAsjvon5TY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1419160/capsule_231x87.jpg?t=1720187905"
   },
   {
    "title": "SteamWorld Dig 2",
@@ -169,139 +295,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
   },
   {
-   "title": "The Next Penelope",
-   "store": "WinGameStore",
+   "title": "Saviorless",
+   "store": "IndieGala",
    "sale": "1.29",
    "normal": "12.99",
    "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2Fhe91FSS5h33%2BEjY0G5IMyEKMZPHz%2FVBmQRe7C9ropk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
-  },
-  {
-   "title": "Borderlands 2",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=y9vH5Xf2O3lmQzX8IprLnYJ8PT7C2MafD4gPIMz7y%2Fs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49520/capsule_231x87.jpg?t=1793288352"
-  },
-  {
-   "title": "Fly'N",
-   "store": "WinGameStore",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=CygdT1AXmlrr%2BHbzYkDGm%2Fhy7JRITQa0nOjPyI0Yafs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223730/capsule_231x87.jpg?t=1753954633"
-  },
-  {
-   "title": "Owlboy",
-   "store": "Humble Store",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=BLUSGAFHiLPLw2GJ%2FHXE5DQA3cmsiiqQRT%2BS6Ltbvg8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115800/912f1083dbb1e38a24aee39409fc05102636509a/capsule_231x87_alt_assets_0.jpg?t=1793528438"
-  },
-  {
-   "title": "Hitman: Blood Money",
-   "store": "GOG",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=hz69tD7igaue5tPP9YlHRZTYhYSKEIubJSTVR3Sa2NA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6860/capsule_231x87.jpg?t=1732283123"
-  },
-  {
-   "title": "Shadowgrounds Survivor",
-   "store": "WinGameStore",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=GxCeQHH57JE%2F68Ax5BV6qp%2FZ6g34MWSR4gzZo6Smc3g%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
-  },
-  {
-   "title": "Impulsion",
-   "store": "WinGameStore",
-   "sale": "1.29",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=auEVb3bEX7%2FjWDmqpidQpnzNJHW%2Fv46xY6frFdqPewg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
-  },
-  {
-   "title": "Anarcute",
-   "store": "WinGameStore",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Z6B9rNulf2q4pK5zlcMqToNjm0PO%2FhB50SWITCDK0%2Bw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
-  },
-  {
-   "title": "Splasher",
-   "store": "WinGameStore",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=ZzODs6ZHpBTPj2xJT29dVBcgue55w4k5TSEYWWy8TXw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950"
-  },
-  {
-   "title": "WRC 9 FIA World Rally Championship",
-   "store": "WinGameStore",
-   "sale": "2.99",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=VdzRtXjt%2Bu5HhBe4AyzQQE0LVEU3lezbzkbItntFcpQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1267540/capsule_231x87.jpg?t=1725354407"
-  },
-  {
-   "title": "Metro Exodus",
-   "store": "GOG",
-   "sale": "2.99",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=wU0Nb%2B%2BYjnl3Q8mWou48wfy4kCTgJa4VuMUmASC4af0%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/412020/capsule_231x87.jpg?t=1750772804"
-  },
-  {
-   "title": "Cross Blitz",
-   "store": "Steam",
-   "sale": "5.74",
-   "normal": "22.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=GyFPndoGfmbB5eAMuoQCxRQH4A%2B5TWDewHo2%2Fy9zPAA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
-  },
-  {
-   "title": "Cross Blitz",
-   "store": "GreenManGaming",
-   "sale": "5.75",
-   "normal": "22.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=S2uE9cJS%2Fd9lV12GvnprUt0L8O5lsr7S8btaruxWK24%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
-  },
-  {
-   "title": "Cross Blitz",
-   "store": "GameBillet",
-   "sale": "5.75",
-   "normal": "22.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=l%2F1GqzvIxxOC0jR8uKY0gWpI%2Fm8vpaHSiBZ%2BJdED3zs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1619520/3fb6f03251e2fd888711664451a17c6adb7fc72f/capsule_231x87.jpg?t=1764925994"
-  },
-  {
-   "title": "Owlboy",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=h7jKI1jBdFpskbaDQbVYa1jLlCzAjUary37jBfaVOVw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115800/912f1083dbb1e38a24aee39409fc05102636509a/capsule_231x87_alt_assets_0.jpg?t=1793528438"
+   "url": "https://www.cheapshark.com/redirect?dealID=wRcasa0%2BnOzWEJC7qSd1Yy15EZu7p%2Fl%2FCAjNhctm8IY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1438480/capsule_231x87.jpg?t=1760471563"
   }
  ]
 }
