@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T08:17Z",
+ "updated": "2026-11-10T16:37Z",
  "epic": [
   {
    "title": "Idle Champions of the Forgotten Realms",
@@ -107,12 +107,39 @@
   },
   {
    "title": "Joe Danger 2: The Movie",
+   "store": "GameBillet",
+   "sale": "1.19",
+   "normal": "14.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=V5ZXzLwey%2F7XsvJF%2Bj6W6p2u06my42zmVrgE6RKFPAM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
+  },
+  {
+   "title": "When Ski Lifts Go Wrong",
+   "store": "GameBillet",
+   "sale": "1.08",
+   "normal": "14.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=IhmJLXn3LYHKf0AOhW6skqrMGvaVkIiQdiurM5e97Oo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
+  },
+  {
+   "title": "Joe Danger 2: The Movie",
    "store": "Gamesplanet",
    "sale": "1.35",
    "normal": "14.99",
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=wXu0pRdf5tfJsEM3z3%2ByuY5ConELwazXx1BewlVmqSU%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
+  },
+  {
+   "title": "The Last Campfire",
+   "store": "GameBillet",
+   "sale": "1.17",
+   "normal": "14.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=83lhkJxUABI%2Fnt9%2B9TrafmdKfGQ0VNWE%2Fo2CHS%2BKLSs%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
   },
   {
    "title": "Dont Stop, Girlypop!",
@@ -134,6 +161,15 @@
   },
   {
    "title": "Joe Danger 2: The Movie",
+   "store": "IndieGala",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=ih6ZMi6QQVMOj5%2F4dcy7eocX2YRbdpQONEKY7%2BUGCmY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
+  },
+  {
+   "title": "Joe Danger 2: The Movie",
    "store": "GamersGate",
    "sale": "1.50",
    "normal": "14.99",
@@ -142,12 +178,57 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
   },
   {
+   "title": "Torchlight II",
+   "store": "GameBillet",
+   "sale": "3.16",
+   "normal": "19.99",
+   "savings": 84,
+   "url": "https://www.cheapshark.com/redirect?dealID=Jgbh2tGYA120WFXCLSaYH%2BWwqobcFelAFGg5Ejblfok%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200710/capsule_231x87.jpg?t=1792118316"
+  },
+  {
    "title": "The Last Campfire",
    "store": "Gamesplanet",
    "sale": "1.35",
    "normal": "14.99",
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=isZhIwWjwpFtd8u52Dw9f9OzgVR4zcVvTcunClVu0Q0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
+  },
+  {
+   "title": "Everspace",
+   "store": "GameBillet",
+   "sale": "1.71",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=EYPtw%2BvPsLZhk%2BukzJ%2BobkBf3kElKbZ0PgFTqDcDfn4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
+  },
+  {
+   "title": "Darkest Dungeon",
+   "store": "IndieGala",
+   "sale": "3.08",
+   "normal": "24.99",
+   "savings": 88,
+   "url": "https://www.cheapshark.com/redirect?dealID=XW7ozwdoaFrkIgMPhgwImzAArfVysJtbSVQt53TIxLE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262060/ab08721cad650a1a7aa2e57f9bdf318b71c43c38/capsule_231x87.jpg?t=1789168187"
+  },
+  {
+   "title": "When Ski Lifts Go Wrong",
+   "store": "IndieGala",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=MeaKg6oeCmifnebKPhD5QGqAohkwaNlJNY111zQzhIc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
+  },
+  {
+   "title": "The Last Campfire",
+   "store": "IndieGala",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=EAncLXxxDsVE2hrh%2BFFgDckxLVAUBLKQTY7D%2BdKh8gM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
   },
   {
@@ -167,6 +248,24 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=zDQPkXVddeOg8zloTVckTrAoOynDatGfcum504jbIrk%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
+  },
+  {
+   "title": "Darkest Dungeon",
+   "store": "GreenManGaming",
+   "sale": "3.19",
+   "normal": "24.99",
+   "savings": 87,
+   "url": "https://www.cheapshark.com/redirect?dealID=UhbDGKbk5jRI%2BbD%2FBG9y2%2BJCXLycrSiUZIkOzlgqris%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262060/ab08721cad650a1a7aa2e57f9bdf318b71c43c38/capsule_231x87.jpg?t=1789168187"
+  },
+  {
+   "title": "Frostpunk",
+   "store": "GreenManGaming",
+   "sale": "3.87",
+   "normal": "29.99",
+   "savings": 87,
+   "url": "https://www.cheapshark.com/redirect?dealID=ogynl0kj03EmwHo888MPU9fz%2BghNDZ8AuJl6BVzonUc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323190/45bfdc7f6b60b2acab44cc96c488f938219c42fd/capsule_231x87.jpg?t=1793633192"
   },
   {
    "title": "Everspace",
@@ -203,105 +302,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=e%2Fjd1kSBHyZXwsusdWTyaEyscpACkEGvwt0iJJOrn1I%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/808090/capsule_231x87.jpg?t=1781885052"
-  },
-  {
-   "title": "Nocturnal",
-   "store": "IndieGala",
-   "sale": "1.69",
-   "normal": "16.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Mih%2BMFGYCiSm8%2FqQ0fcOEKiF8Nbkax3KwR3%2FVye4kKg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1634080/b3a7303807116f47e723267e3fd4b8fa7e00a5b5/capsule_231x87.jpg?t=1782833654"
-  },
-  {
-   "title": "The Next Penelope",
-   "store": "GamersGate",
-   "sale": "1.30",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Dkxi%2Fn68h6TnTvHwZleTrh37i4ysTgvMIK%2FQEvsc4bc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
-  },
-  {
-   "title": "Hitman 2: Silent Assassin",
-   "store": "GOG",
-   "sale": "0.89",
-   "normal": "8.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=02BngC2eerCKDu6td3LDoognymPLwY5pWbigLzanh5I%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
-  },
-  {
-   "title": "Shadowgrounds Survivor",
-   "store": "GamersGate",
-   "sale": "1.00",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2BZ0Ak%2FQjLpckjfRvbsgCsc2HPxovZdsOObHq32wNaWA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
-  },
-  {
-   "title": "Impulsion",
-   "store": "IndieGala",
-   "sale": "1.29",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=PhedlEeBzgZ6eV%2FpSbfoZxcdGoT1ZOoUxRZje%2FU5HSg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
-  },
-  {
-   "title": "Darkest Dungeon",
-   "store": "WinGameStore",
-   "sale": "3.74",
-   "normal": "24.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=uumXK3X2JE0OMPU9FP6k191A8if8VRNaCFW6aVCgDSs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262060/ab08721cad650a1a7aa2e57f9bdf318b71c43c38/capsule_231x87.jpg?t=1789168187"
-  },
-  {
-   "title": "Splasher",
-   "store": "IndieGala",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=qREbAx4azQsKuOW124qXoBnkhNE9NVvoneRlMmU%2Fo3w%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950"
-  },
-  {
-   "title": "Darkest Dungeon",
-   "store": "GamersGate",
-   "sale": "3.75",
-   "normal": "24.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=bGEOThA0wfQRthCSIY0ST%2B5USLyFRk6UWTamPSyjb2U%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262060/ab08721cad650a1a7aa2e57f9bdf318b71c43c38/capsule_231x87.jpg?t=1789168187"
-  },
-  {
-   "title": "Hitman Absolution",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Zte5n3zZh%2B5tPGsft1uImQFLacD%2BFv2zdunTXA0I9fk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/203140/capsule_231x87.jpg?t=1734461136"
-  },
-  {
-   "title": "Frostpunk",
-   "store": "GamersGate",
-   "sale": "4.50",
-   "normal": "29.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=HxI0Pp31DVKtI%2FSVXqOI8afUZWqMsJCFNcbL7dF%2BUUQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323190/45bfdc7f6b60b2acab44cc96c488f938219c42fd/capsule_231x87.jpg?t=1793633192"
-  },
-  {
-   "title": "This War of Mine",
-   "store": "GamersGate",
-   "sale": "3.00",
-   "normal": "19.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=PlGC%2FOJipeSjdgI%2BK8wSwyGGRdGY2%2BQfKPhP3OQdxtI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/282070/2d8bb6908a236a5b129a2445dcc1cab37d0f7a47/capsule_231x87.jpg?t=1793632890"
   }
  ]
 }
