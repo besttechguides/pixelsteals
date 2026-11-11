@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:37Z",
+ "updated": "2026-11-11T08:17Z",
  "epic": [
   {
    "title": "Idle Champions of the Forgotten Realms",
@@ -106,6 +106,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517180/capsule_231x87.jpg?t=1744981735"
   },
   {
+   "title": "SteamWorld Dig 2",
+   "store": "Humble Store",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=4tdro9GLWTlvxvt%2FA0X0YuA3eoazATQZh2cJRdg7l5w%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg?t=1726132098"
+  },
+  {
    "title": "Joe Danger 2: The Movie",
    "store": "GameBillet",
    "sale": "1.19",
@@ -142,15 +151,6 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
   },
   {
-   "title": "Dont Stop, Girlypop!",
-   "store": "GameBillet",
-   "sale": "1.65",
-   "normal": "19.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=4TB%2FNlmgfAW%2F82vNFihbz3H92Ax7dZB5yBV4dXbaaw8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2610650/57a9f10795c7e7c439c8bc57c3bddcdfa91d9bbc/capsule_231x87.jpg?t=1789141970"
-  },
-  {
    "title": "Joe Danger 2: The Movie",
    "store": "WinGameStore",
    "sale": "1.49",
@@ -178,6 +178,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
   },
   {
+   "title": "Danganronpa: Trigger Happy Havoc",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=lMtY0R6kMmi9fptR%2BpxqdNSfQrawvkrTjt04NcwU6uo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413410/capsule_231x87.jpg?t=1781085607"
+  },
+  {
    "title": "Torchlight II",
    "store": "GameBillet",
    "sale": "3.16",
@@ -196,6 +205,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
   },
   {
+   "title": "SteamWorld Heist",
+   "store": "Humble Store",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=HbK%2Bl2V9%2F9%2BZOMKhANEeDQ6bbdESAEH6%2FfYwWNUZqS0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322190/capsule_231x87.jpg?t=1726132166"
+  },
+  {
+   "title": "AI: THE SOMNIUM FILES - nirvanA Initiative",
+   "store": "Steam",
+   "sale": "5.99",
+   "normal": "39.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=DGxdu00eBj7NmHmpUFo3r2kmwlzeYN%2BFpn9zf0jXpOw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449200/capsule_231x87.jpg?t=1715701149"
+  },
+  {
    "title": "Everspace",
    "store": "GameBillet",
    "sale": "1.71",
@@ -203,6 +230,15 @@
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=EYPtw%2BvPsLZhk%2BukzJ%2BobkBf3kElKbZ0PgFTqDcDfn4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
+  },
+  {
+   "title": "Anomaly: Warzone Earth",
+   "store": "Humble Store",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=eaNvr4xYXSB%2BkVxZWgEO8Xvi%2F33YySIKHbcz8%2BBoB6w%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91200/capsule_231x87.jpg?t=1634818526"
   },
   {
    "title": "Darkest Dungeon",
@@ -259,49 +295,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262060/ab08721cad650a1a7aa2e57f9bdf318b71c43c38/capsule_231x87.jpg?t=1789168187"
   },
   {
-   "title": "Frostpunk",
-   "store": "GreenManGaming",
-   "sale": "3.87",
-   "normal": "29.99",
-   "savings": 87,
-   "url": "https://www.cheapshark.com/redirect?dealID=ogynl0kj03EmwHo888MPU9fz%2BghNDZ8AuJl6BVzonUc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/323190/45bfdc7f6b60b2acab44cc96c488f938219c42fd/capsule_231x87.jpg?t=1793633192"
-  },
-  {
-   "title": "Everspace",
-   "store": "Gamesplanet",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=pbrlr8m5EeYKtmmHkAXWW8pGWkbCCXqLmLSZSmJ3pq0%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
-  },
-  {
-   "title": "Everspace",
-   "store": "WinGameStore",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=AEV5AlEuA2enugoX8%2Fa0iaW3YPFijaNvXY%2BLhOM3wNw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
-  },
-  {
-   "title": "Everspace",
-   "store": "GamersGate",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=EVrKEzoTK77HjSdIgAIuvoGwJXX6Br%2FFjODxHPA1nu8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
-  },
-  {
-   "title": "Bury me, my Love",
-   "store": "IndieGala",
-   "sale": "0.49",
-   "normal": "4.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=e%2Fjd1kSBHyZXwsusdWTyaEyscpACkEGvwt0iJJOrn1I%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/808090/capsule_231x87.jpg?t=1781885052"
+   "title": "Wizardry 8",
+   "store": "GOG",
+   "sale": "1.49",
+   "normal": "9.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=4RF6LEHZSMLFWuID2BzY1i8v2RdEkic4sRqpXfPOHqM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245450/capsule_231x87.jpg?t=1774276664"
   }
  ]
 }
