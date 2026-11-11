@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T08:17Z",
+ "updated": "2026-11-11T16:38Z",
  "epic": [
   {
    "title": "Idle Champions of the Forgotten Realms",
@@ -151,6 +151,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
   },
   {
+   "title": "Rising Storm 2: Vietnam",
+   "store": "Steam",
+   "sale": "2.49",
+   "normal": "24.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=zyGVQe8lhbM3BcfjZLODkZm4KQCRHoyiKuQ8XS1wVF4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418460/capsule_231x87.jpg?t=1789745392"
+  },
+  {
+   "title": "Everspace",
+   "store": "GreenManGaming",
+   "sale": "1.80",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=MQmGYPIkdNXGxv%2FjTb5NSfexq%2BjWUwstNxd2QsEZWxE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
+  },
+  {
    "title": "Joe Danger 2: The Movie",
    "store": "WinGameStore",
    "sale": "1.49",
@@ -284,24 +302,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=zDQPkXVddeOg8zloTVckTrAoOynDatGfcum504jbIrk%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
-  },
-  {
-   "title": "Darkest Dungeon",
-   "store": "GreenManGaming",
-   "sale": "3.19",
-   "normal": "24.99",
-   "savings": 87,
-   "url": "https://www.cheapshark.com/redirect?dealID=UhbDGKbk5jRI%2BbD%2FBG9y2%2BJCXLycrSiUZIkOzlgqris%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/262060/ab08721cad650a1a7aa2e57f9bdf318b71c43c38/capsule_231x87.jpg?t=1789168187"
-  },
-  {
-   "title": "Wizardry 8",
-   "store": "GOG",
-   "sale": "1.49",
-   "normal": "9.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=4RF6LEHZSMLFWuID2BzY1i8v2RdEkic4sRqpXfPOHqM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/245450/capsule_231x87.jpg?t=1774276664"
   }
  ]
 }
