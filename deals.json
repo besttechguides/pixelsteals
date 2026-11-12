@@ -1,24 +1,23 @@
 {
- "updated": "2026-11-12T08:17Z",
+ "updated": "2026-11-12T17:07Z",
  "epic": [
   {
-   "title": "Idle Champions of the Forgotten Realms",
-   "ends": "2026-11-12T16:00:00.000Z",
-   "url": "https://store.epicgames.com/en-GB/p/idle-champions-of-the-forgotten-realms",
-   "img": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg"
-  },
-  {
-   "title": "Flotsam",
-   "ends": "2026-11-12T16:00:00.000Z",
-   "url": "https://store.epicgames.com/en-GB/p/flotsam-266287",
-   "img": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg"
+   "title": "Knightica",
+   "ends": "2026-11-19T16:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/knightica-3be45c",
+   "img": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png"
   }
  ],
  "epic_upcoming": [
   {
-   "title": "Knightica",
-   "starts": "2026-11-12T16:00:00.000Z",
-   "ends": "2026-11-19T16:00:00.000Z"
+   "title": "Alien: Isolation",
+   "starts": "2026-11-19T16:00:00.000Z",
+   "ends": "2026-11-26T16:00:00.000Z"
+  },
+  {
+   "title": "Mark of the Deep",
+   "starts": "2026-11-19T16:00:00.000Z",
+   "ends": "2026-11-26T16:00:00.000Z"
   }
  ],
  "free_other": [
@@ -124,6 +123,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
   },
   {
+   "title": "Homeworld: Deserts of Kharak",
+   "store": "GameBillet",
+   "sale": "3.87",
+   "normal": "49.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=BHwNaROcBy4C0YKWQOTf98HIn1NO3d54LzAyomPcTYU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281610/capsule_231x87.jpg?t=1781819254"
+  },
+  {
+   "title": "Homeworld Remastered Collection",
+   "store": "GameBillet",
+   "sale": "5.04",
+   "normal": "34.99",
+   "savings": 86,
+   "url": "https://www.cheapshark.com/redirect?dealID=P8NEU0ISQgnFpnlemYyFIYhfSLk8HMicmFS4lZrTlqE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
+  },
+  {
    "title": "When Ski Lifts Go Wrong",
    "store": "GameBillet",
    "sale": "1.08",
@@ -160,6 +177,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2132890/7aec32ef73e2eb46ea6e5be14740695148d9f000/capsule_231x87.jpg?t=1766931447"
   },
   {
+   "title": "Homeworld Remastered Collection",
+   "store": "IndieGala",
+   "sale": "5.24",
+   "normal": "34.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2FPRo49puJ4MiL5jfPbDaCA4np1G%2BgT%2BF9NTKGQe5FaM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
+  },
+  {
    "title": "The Last Campfire",
    "store": "GameBillet",
    "sale": "1.17",
@@ -170,12 +196,30 @@
   },
   {
    "title": "Homeworld Remastered Collection",
+   "store": "GreenManGaming",
+   "sale": "5.25",
+   "normal": "34.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=qoBo6t9byCwZRAskh33LdAGQWDSmktVjJUBPf%2FJ%2Fbwc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
+  },
+  {
+   "title": "Homeworld Remastered Collection",
    "store": "GamersGate",
    "sale": "5.25",
    "normal": "34.99",
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=gdNVzgl4HNXZ%2BUFRGpUGtaKHxjG8L3ZN2gz2xcvrINM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
+  },
+  {
+   "title": "Tom Clancy's Splinter Cell Chaos Theory",
+   "store": "Uplay",
+   "sale": "2.50",
+   "normal": "9.99",
+   "savings": 75,
+   "url": "https://www.cheapshark.com/redirect?dealID=HaNk2h%2BTU41EKW%2B%2BSHXB1lW9dhvp5I9x7ZTHaGiDpzM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13570/capsule_231x87.jpg?t=1764776065"
   },
   {
    "title": "Rising Storm 2: Vietnam",
@@ -188,12 +232,48 @@
   },
   {
    "title": "Borderlands 3",
+   "store": "GameBillet",
+   "sale": "5.95",
+   "normal": "59.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=qiReSB%2FpNhyqXpTCaLwjQlfGqUpA%2FeqZPXWNDpvFLzY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
+  },
+  {
+   "title": "Borderlands 3",
+   "store": "IndieGala",
+   "sale": "5.99",
+   "normal": "59.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=aG3WzBImxAlUq1P%2FJoi33KjPYuisptyI5T60CKi5dPI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
+  },
+  {
+   "title": "Borderlands 3",
+   "store": "GreenManGaming",
+   "sale": "6.00",
+   "normal": "59.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=U%2Bf0VQyiojbRrGJSe6GHdjbUm2GvPq4l7QDv0TMzDak%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
+  },
+  {
+   "title": "Borderlands 3",
    "store": "GamersGate",
    "sale": "6.00",
    "normal": "59.99",
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=kT4av3wSiTrpvjMbizd%2Bqcxdz4j%2BTBQtV7Nf1WPHVOc%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
+  },
+  {
+   "title": "Borderlands: The Pre-Sequel",
+   "store": "GameBillet",
+   "sale": "2.95",
+   "normal": "39.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=SCxRCDIdusklLbBDbyj1wyPeWgUfxVTnm2m4MZTXZag%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261640/capsule_231x87.jpg?t=1750081341"
   },
   {
    "title": "Everspace",
@@ -221,87 +301,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=ih6ZMi6QQVMOj5%2F4dcy7eocX2YRbdpQONEKY7%2BUGCmY%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
-  },
-  {
-   "title": "Joe Danger 2: The Movie",
-   "store": "GamersGate",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=B0ejVy1cY3y74eUICxyYs7QS%2Fe75GVAOPw2e44TcWrE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
-  },
-  {
-   "title": "Danganronpa: Trigger Happy Havoc",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=lMtY0R6kMmi9fptR%2BpxqdNSfQrawvkrTjt04NcwU6uo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/413410/capsule_231x87.jpg?t=1781085607"
-  },
-  {
-   "title": "Torchlight II",
-   "store": "GameBillet",
-   "sale": "3.16",
-   "normal": "19.99",
-   "savings": 84,
-   "url": "https://www.cheapshark.com/redirect?dealID=Jgbh2tGYA120WFXCLSaYH%2BWwqobcFelAFGg5Ejblfok%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/200710/capsule_231x87.jpg?t=1792118316"
-  },
-  {
-   "title": "Homeworld: Deserts of Kharak",
-   "store": "Gamesplanet",
-   "sale": "4.85",
-   "normal": "49.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=p5cTI6BgNh2J6WsA2JdGLk5AP8TWk2tjUD8xar2dVhw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281610/capsule_231x87.jpg?t=1781819254"
-  },
-  {
-   "title": "The Last Campfire",
-   "store": "Gamesplanet",
-   "sale": "1.35",
-   "normal": "14.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=isZhIwWjwpFtd8u52Dw9f9OzgVR4zcVvTcunClVu0Q0%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
-  },
-  {
-   "title": "SteamWorld Heist",
-   "store": "Humble Store",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=HbK%2Bl2V9%2F9%2BZOMKhANEeDQ6bbdESAEH6%2FfYwWNUZqS0%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/322190/capsule_231x87.jpg?t=1726132166"
-  },
-  {
-   "title": "AI: THE SOMNIUM FILES - nirvanA Initiative",
-   "store": "Steam",
-   "sale": "5.99",
-   "normal": "39.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=DGxdu00eBj7NmHmpUFo3r2kmwlzeYN%2BFpn9zf0jXpOw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1449200/capsule_231x87.jpg?t=1715701149"
-  },
-  {
-   "title": "Everspace",
-   "store": "GameBillet",
-   "sale": "1.71",
-   "normal": "19.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=EYPtw%2BvPsLZhk%2BukzJ%2BobkBf3kElKbZ0PgFTqDcDfn4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
-  },
-  {
-   "title": "Anomaly: Warzone Earth",
-   "store": "Humble Store",
-   "sale": "0.99",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=eaNvr4xYXSB%2BkVxZWgEO8Xvi%2F33YySIKHbcz8%2BBoB6w%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/91200/capsule_231x87.jpg?t=1634818526"
   }
  ]
 }
