@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:07Z",
+ "updated": "2026-11-12T21:50Z",
  "epic": [
   {
    "title": "Knightica",
@@ -114,6 +114,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg?t=1726132098"
   },
   {
+   "title": "Atari 50: The Anniversary Celebration",
+   "store": "WinGameStore",
+   "sale": "3.89",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=W7k2a6ggjcftaRE9dyK1FRNqBUL27sD1HxuDBsPYhNI%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1919470/a3d0ce0907a9a09d0601b1536bcb054a1f833586/capsule_231x87.jpg?t=1781273808"
+  },
+  {
    "title": "Joe Danger 2: The Movie",
    "store": "GameBillet",
    "sale": "1.19",
@@ -130,6 +139,15 @@
    "savings": 92,
    "url": "https://www.cheapshark.com/redirect?dealID=BHwNaROcBy4C0YKWQOTf98HIn1NO3d54LzAyomPcTYU%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281610/capsule_231x87.jpg?t=1781819254"
+  },
+  {
+   "title": "The Making of Karateka",
+   "store": "WinGameStore",
+   "sale": "3.89",
+   "normal": "19.99",
+   "savings": 81,
+   "url": "https://www.cheapshark.com/redirect?dealID=gqQTXIZc%2FVPxvwnhrGs%2BD5F4Tt2kHgXg7khrGi9rb4I%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1163060/capsule_231x87.jpg?t=1773073858"
   },
   {
    "title": "Homeworld Remastered Collection",
@@ -193,6 +211,15 @@
    "savings": 92,
    "url": "https://www.cheapshark.com/redirect?dealID=83lhkJxUABI%2Fnt9%2B9TrafmdKfGQ0VNWE%2Fo2CHS%2BKLSs%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
+  },
+  {
+   "title": "Homeworld Remastered Collection",
+   "store": "GOG",
+   "sale": "5.25",
+   "normal": "34.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=skE16m6d%2FlvPGahH%2Fpmu1nogLtWGk9yZufNNEzESn50%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
   },
   {
    "title": "Homeworld Remastered Collection",
@@ -274,33 +301,6 @@
    "savings": 93,
    "url": "https://www.cheapshark.com/redirect?dealID=SCxRCDIdusklLbBDbyj1wyPeWgUfxVTnm2m4MZTXZag%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261640/capsule_231x87.jpg?t=1750081341"
-  },
-  {
-   "title": "Everspace",
-   "store": "GreenManGaming",
-   "sale": "1.80",
-   "normal": "19.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=MQmGYPIkdNXGxv%2FjTb5NSfexq%2BjWUwstNxd2QsEZWxE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/396750/capsule_231x87.jpg?t=1784066303"
-  },
-  {
-   "title": "Joe Danger 2: The Movie",
-   "store": "WinGameStore",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=QnI79INhhm9MhS53%2FNxMNfNg8JM3elW4u1MH5W9VnTg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
-  },
-  {
-   "title": "Joe Danger 2: The Movie",
-   "store": "IndieGala",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=ih6ZMi6QQVMOj5%2F4dcy7eocX2YRbdpQONEKY7%2BUGCmY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
   }
  ]
 }
