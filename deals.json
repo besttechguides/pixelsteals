@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T08:17Z",
+ "updated": "2026-11-13T16:45Z",
  "epic": [
   {
    "title": "Knightica",
@@ -105,6 +105,33 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794334597"
   },
   {
+   "title": "Lair of the Clockwork God",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=ebEo%2FlhXRjW44hk5Xv51cvGo6a%2BwsRg1QKvrPjZZFXY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1060600/capsule_231x87.jpg?t=1769537301"
+  },
+  {
+   "title": "Shadow Tactics: Blades of the Shogun",
+   "store": "GOG",
+   "sale": "3.99",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=evPHVt7ofnWKB48WqFd8YaqH6sGGEZO6%2FaJ5%2F80L1YU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
+   "title": "Tomb Raider: Anniversary",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "8.99",
+   "savings": 89,
+   "url": "https://www.cheapshark.com/redirect?dealID=3zucYvHbJS202YS97ITT1PU%2BA%2Fl2RdF52OChuSszomU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8000/capsule_231x87.jpg?t=1729009457"
+  },
+  {
    "title": "Lacuna  A Sci-Fi Noir Adventure",
    "store": "GamersGate",
    "sale": "1.60",
@@ -114,6 +141,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1794218067"
   },
   {
+   "title": "Semblance",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2BhIe51fqt40VxsF47rhvcnf%2BQh%2BP5CSA2lp39sEo3Mw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/700160/capsule_231x87.jpg?t=1680797529"
+  },
+  {
    "title": "Mindcop",
    "store": "IndieGala",
    "sale": "1.49",
@@ -121,6 +157,33 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=bcpGnU4MAWFVoJKt5vIwyMCHVQYl3QNEFxvUz0kGHrU%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517180/capsule_231x87.jpg?t=1744981735"
+  },
+  {
+   "title": "Prince of Persia: The Sands of Time",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "9.99",
+   "savings": 80,
+   "url": "https://www.cheapshark.com/redirect?dealID=O8MIc00gBccqUrm9Wv0XOwd3rqYPa7qC9cY2J5fvcqY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13600/capsule_231x87.jpg?t=1720535333"
+  },
+  {
+   "title": "Tomb Raider: Underworld",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "8.99",
+   "savings": 89,
+   "url": "https://www.cheapshark.com/redirect?dealID=TWuNOlsFJM2gN42GycbcaAcOz06DkD7MNQbhQYBcGmM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8140/capsule_231x87.jpg?t=1729009496"
+  },
+  {
+   "title": "Bears in Space",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=DQ13SUlD9m7GzWhNRVdxrDNdZ4OfY4c8er0TAuMk9P4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1309620/capsule_231x87.jpg?t=1758953155"
   },
   {
    "title": "SteamWorld Dig 2",
@@ -166,6 +229,15 @@
    "savings": 81,
    "url": "https://www.cheapshark.com/redirect?dealID=gqQTXIZc%2FVPxvwnhrGs%2BD5F4Tt2kHgXg7khrGi9rb4I%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1163060/capsule_231x87.jpg?t=1773073858"
+  },
+  {
+   "title": "Tomb Raider: Legend",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "6.99",
+   "savings": 86,
+   "url": "https://www.cheapshark.com/redirect?dealID=8iHj5d16z9lAR3ts21XTSPFvGrQM5FPiAiqotWZ29Gc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7000/capsule_231x87.jpg?t=1729009388"
   },
   {
    "title": "Beyond: Two Souls",
@@ -222,85 +294,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
   },
   {
-   "title": "Possessor(s)",
-   "store": "Steam",
-   "sale": "1.49",
-   "normal": "9.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=bj%2B5z967kX%2FPGICjEnf0DZNvfJ%2FgKx8kXaqJjV4Wtms%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2132890/7aec32ef73e2eb46ea6e5be14740695148d9f000/capsule_231x87.jpg?t=1766931447"
-  },
-  {
-   "title": "Beyond: Two Souls",
-   "store": "DreamGame",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=9j%2B4%2FGS0YpBe2R0QIFYkdXc07r8XYyR9%2FpsHD%2BMp7SE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960990/capsule_231x87.jpg?t=1667468566"
-  },
-  {
-   "title": "Homeworld Remastered Collection",
-   "store": "IndieGala",
-   "sale": "5.24",
-   "normal": "34.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2FPRo49puJ4MiL5jfPbDaCA4np1G%2BgT%2BF9NTKGQe5FaM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
-  },
-  {
-   "title": "Under The Waves",
-   "store": "Gamesplanet",
-   "sale": "2.70",
-   "normal": "29.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=QL9zfpFxr0pYNCMlH2LFKqdCKL2zmHuEKTn7vIA5h0E%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1975440/fb77a40f8d73f2df0ab7b8902ab0fa910e861ea0/capsule_231x87.jpg?t=1725963350"
-  },
-  {
-   "title": "The Last Campfire",
-   "store": "GameBillet",
-   "sale": "1.17",
-   "normal": "14.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=83lhkJxUABI%2Fnt9%2B9TrafmdKfGQ0VNWE%2Fo2CHS%2BKLSs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990630/capsule_231x87.jpg?t=1725272727"
-  },
-  {
-   "title": "Homeworld Remastered Collection",
+   "title": "Reventure",
    "store": "GOG",
-   "sale": "5.25",
-   "normal": "34.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=skE16m6d%2FlvPGahH%2Fpmu1nogLtWGk9yZufNNEzESn50%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
-  },
-  {
-   "title": "Homeworld Remastered Collection",
-   "store": "GreenManGaming",
-   "sale": "5.25",
-   "normal": "34.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=qoBo6t9byCwZRAskh33LdAGQWDSmktVjJUBPf%2FJ%2Fbwc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
-  },
-  {
-   "title": "Homeworld Remastered Collection",
-   "store": "GamersGate",
-   "sale": "5.25",
-   "normal": "34.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=gdNVzgl4HNXZ%2BUFRGpUGtaKHxjG8L3ZN2gz2xcvrINM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
-  },
-  {
-   "title": "Tom Clancy's Splinter Cell Chaos Theory",
-   "store": "Uplay",
-   "sale": "2.50",
-   "normal": "9.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=HaNk2h%2BTU41EKW%2B%2BSHXB1lW9dhvp5I9x7ZTHaGiDpzM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13570/capsule_231x87.jpg?t=1764776065"
+   "sale": "0.85",
+   "normal": "4.99",
+   "savings": 83,
+   "url": "https://www.cheapshark.com/redirect?dealID=ggMIyHCV2Tn%2BBGfzxRFGuVfYoB05kJFK59M7BnvvLX4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/900270/capsule_231x87.jpg?t=1726659631"
   }
  ]
 }
