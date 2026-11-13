@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T22:13Z",
+ "updated": "2026-11-13T08:17Z",
  "epic": [
   {
    "title": "Knightica",
@@ -87,6 +87,24 @@
  ],
  "deals": [
   {
+   "title": "Ashes of the Singularity II",
+   "store": "WinGameStore",
+   "sale": "25.79",
+   "normal": "39.99",
+   "savings": 36,
+   "url": "https://www.cheapshark.com/redirect?dealID=YvAFpcSCX0mcIaSgSoqvpeGuQ4tBYGUIrfJiI8maGQ8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794334597"
+  },
+  {
+   "title": "Ashes of the Singularity II",
+   "store": "GreenManGaming",
+   "sale": "25.91",
+   "normal": "39.99",
+   "savings": 35,
+   "url": "https://www.cheapshark.com/redirect?dealID=bB3LIPi1TbVmxJ0oe6mQawHpMzxTsHlVgmOTwPlxq%2BA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794334597"
+  },
+  {
    "title": "Lacuna  A Sci-Fi Noir Adventure",
    "store": "GamersGate",
    "sale": "1.60",
@@ -150,6 +168,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1163060/capsule_231x87.jpg?t=1773073858"
   },
   {
+   "title": "Beyond: Two Souls",
+   "store": "Gamesplanet",
+   "sale": "1.82",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=dqtVyRmFkQq2BkE8eXiBl%2FUFxpEfGyy%2F0FWyRgmRds4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960990/capsule_231x87.jpg?t=1667468566"
+  },
+  {
    "title": "Homeworld Remastered Collection",
    "store": "GameBillet",
    "sale": "5.04",
@@ -177,6 +204,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
   },
   {
+   "title": "Heavy Rain",
+   "store": "Gamesplanet",
+   "sale": "1.82",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=ikr9BxS3BmBJbswcGxueMqmAIgwK4WampQIVLY5whhE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960910/capsule_231x87.jpg?t=1675271942"
+  },
+  {
    "title": "Joe Danger 2: The Movie",
    "store": "Gamesplanet",
    "sale": "1.35",
@@ -195,6 +231,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2132890/7aec32ef73e2eb46ea6e5be14740695148d9f000/capsule_231x87.jpg?t=1766931447"
   },
   {
+   "title": "Beyond: Two Souls",
+   "store": "DreamGame",
+   "sale": "2.00",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=9j%2B4%2FGS0YpBe2R0QIFYkdXc07r8XYyR9%2FpsHD%2BMp7SE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960990/capsule_231x87.jpg?t=1667468566"
+  },
+  {
    "title": "Homeworld Remastered Collection",
    "store": "IndieGala",
    "sale": "5.24",
@@ -202,6 +247,15 @@
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=%2FPRo49puJ4MiL5jfPbDaCA4np1G%2BgT%2BF9NTKGQe5FaM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
+  },
+  {
+   "title": "Under The Waves",
+   "store": "Gamesplanet",
+   "sale": "2.70",
+   "normal": "29.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=QL9zfpFxr0pYNCMlH2LFKqdCKL2zmHuEKTn7vIA5h0E%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1975440/fb77a40f8d73f2df0ab7b8902ab0fa910e861ea0/capsule_231x87.jpg?t=1725963350"
   },
   {
    "title": "The Last Campfire",
@@ -247,60 +301,6 @@
    "savings": 75,
    "url": "https://www.cheapshark.com/redirect?dealID=HaNk2h%2BTU41EKW%2B%2BSHXB1lW9dhvp5I9x7ZTHaGiDpzM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13570/capsule_231x87.jpg?t=1764776065"
-  },
-  {
-   "title": "Rising Storm 2: Vietnam",
-   "store": "Steam",
-   "sale": "2.49",
-   "normal": "24.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=zyGVQe8lhbM3BcfjZLODkZm4KQCRHoyiKuQ8XS1wVF4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418460/capsule_231x87.jpg?t=1789745392"
-  },
-  {
-   "title": "Borderlands 3",
-   "store": "GameBillet",
-   "sale": "5.95",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=qiReSB%2FpNhyqXpTCaLwjQlfGqUpA%2FeqZPXWNDpvFLzY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
-  },
-  {
-   "title": "Borderlands 3",
-   "store": "IndieGala",
-   "sale": "5.99",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=aG3WzBImxAlUq1P%2FJoi33KjPYuisptyI5T60CKi5dPI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
-  },
-  {
-   "title": "Borderlands 3",
-   "store": "GreenManGaming",
-   "sale": "6.00",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=U%2Bf0VQyiojbRrGJSe6GHdjbUm2GvPq4l7QDv0TMzDak%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
-  },
-  {
-   "title": "Borderlands 3",
-   "store": "GamersGate",
-   "sale": "6.00",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=kT4av3wSiTrpvjMbizd%2Bqcxdz4j%2BTBQtV7Nf1WPHVOc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/397540/capsule_231x87.jpg?t=1793288452"
-  },
-  {
-   "title": "Borderlands: The Pre-Sequel",
-   "store": "GameBillet",
-   "sale": "2.95",
-   "normal": "39.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=SCxRCDIdusklLbBDbyj1wyPeWgUfxVTnm2m4MZTXZag%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261640/capsule_231x87.jpg?t=1750081341"
   }
  ]
 }
