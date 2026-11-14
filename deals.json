@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:17Z",
+ "updated": "2026-11-14T15:22Z",
  "epic": [
   {
    "title": "Knightica",
@@ -195,6 +195,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8140/capsule_231x87.jpg?t=1729009496"
   },
   {
+   "title": "RoboCop: Rogue City",
+   "store": "GameBillet",
+   "sale": "3.41",
+   "normal": "39.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=yWYF%2B7AvgfvHS6Cx4Py%2F%2BCSVlc%2B6ffU7WNyz5tVuqOo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/capsule_231x87.jpg?t=1778174302"
+  },
+  {
    "title": "Bears in Space",
    "store": "GOG",
    "sale": "1.99",
@@ -202,15 +211,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=DQ13SUlD9m7GzWhNRVdxrDNdZ4OfY4c8er0TAuMk9P4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1309620/capsule_231x87.jpg?t=1758953155"
-  },
-  {
-   "title": "RoboCop: Rogue City",
-   "store": "GameBillet",
-   "sale": "3.56",
-   "normal": "39.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=yWYF%2B7AvgfvHS6Cx4Py%2F%2BCSVlc%2B6ffU7WNyz5tVuqOo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/capsule_231x87.jpg?t=1778174302"
   },
   {
    "title": "SteamWorld Dig 2",
