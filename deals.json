@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:45Z",
+ "updated": "2026-11-14T08:17Z",
  "epic": [
   {
    "title": "Knightica",
@@ -93,7 +93,7 @@
    "normal": "39.99",
    "savings": 36,
    "url": "https://www.cheapshark.com/redirect?dealID=YvAFpcSCX0mcIaSgSoqvpeGuQ4tBYGUIrfJiI8maGQ8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794334597"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794576706"
   },
   {
    "title": "Ashes of the Singularity II",
@@ -102,7 +102,7 @@
    "normal": "39.99",
    "savings": 35,
    "url": "https://www.cheapshark.com/redirect?dealID=bB3LIPi1TbVmxJ0oe6mQawHpMzxTsHlVgmOTwPlxq%2BA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794334597"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794576706"
   },
   {
    "title": "Lair of the Clockwork God",
@@ -130,6 +130,24 @@
    "savings": 89,
    "url": "https://www.cheapshark.com/redirect?dealID=3zucYvHbJS202YS97ITT1PU%2BA%2Fl2RdF52OChuSszomU%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8000/capsule_231x87.jpg?t=1729009457"
+  },
+  {
+   "title": "Dropsy",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=KyVVy%2BjxIufO83d8DD5x2xs1KIzEmrEbFQ2x%2BHT%2FXe4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274350/capsule_231x87.jpg?t=1725396094"
+  },
+  {
+   "title": "FAR: Lone Sails",
+   "store": "GOG",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=fNuys0Xd5yjdwDc9DLFY0VWvb0Dc6pv3dgeoswYBbBA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/609320/capsule_231x87.jpg?t=1769095038"
   },
   {
    "title": "Lacuna  A Sci-Fi Noir Adventure",
@@ -184,6 +202,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=DQ13SUlD9m7GzWhNRVdxrDNdZ4OfY4c8er0TAuMk9P4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1309620/capsule_231x87.jpg?t=1758953155"
+  },
+  {
+   "title": "RoboCop: Rogue City",
+   "store": "GameBillet",
+   "sale": "3.56",
+   "normal": "39.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=yWYF%2B7AvgfvHS6Cx4Py%2F%2BCSVlc%2B6ffU7WNyz5tVuqOo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/capsule_231x87.jpg?t=1778174302"
   },
   {
    "title": "SteamWorld Dig 2",
@@ -267,40 +294,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
   },
   {
-   "title": "Homeworld Remastered Collection",
-   "store": "Gamesplanet",
-   "sale": "5.08",
-   "normal": "34.99",
+   "title": "Exo One",
+   "store": "Steam",
+   "sale": "2.54",
+   "normal": "16.99",
    "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=F5TKI8EprYG4tQLTuFrai5YN8hCh6d5hMIOFNR7MPfE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
-  },
-  {
-   "title": "Heavy Rain",
-   "store": "Gamesplanet",
-   "sale": "1.82",
-   "normal": "19.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=ikr9BxS3BmBJbswcGxueMqmAIgwK4WampQIVLY5whhE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960910/capsule_231x87.jpg?t=1675271942"
-  },
-  {
-   "title": "Joe Danger 2: The Movie",
-   "store": "Gamesplanet",
-   "sale": "1.35",
-   "normal": "14.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=wXu0pRdf5tfJsEM3z3%2ByuY5ConELwazXx1BewlVmqSU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
-  },
-  {
-   "title": "Reventure",
-   "store": "GOG",
-   "sale": "0.85",
-   "normal": "4.99",
-   "savings": 83,
-   "url": "https://www.cheapshark.com/redirect?dealID=ggMIyHCV2Tn%2BBGfzxRFGuVfYoB05kJFK59M7BnvvLX4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/900270/capsule_231x87.jpg?t=1726659631"
+   "url": "https://www.cheapshark.com/redirect?dealID=KsFSSu2MepLMnhuWQ1yQ0lHcLzsO7sbNn6uv%2FdXJILM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/773370/capsule_231x87.jpg?t=1786705563"
   }
  ]
 }
