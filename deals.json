@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T08:17Z",
+ "updated": "2026-11-15T15:53Z",
  "epic": [
   {
    "title": "Knightica",
@@ -123,6 +123,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
   },
   {
+   "title": "Old World",
+   "store": "GOG",
+   "sale": "3.99",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=IwfCjJcq9GWemFWLL5T4V3bc%2FBk7hcAxDntDrtcV0v0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/597180/283817ee3881aaf6af93ee7c08b0bc5412e3b4fa/capsule_231x87.jpg?t=1793270361"
+  },
+  {
    "title": "Tomb Raider: Anniversary",
    "store": "GOG",
    "sale": "0.99",
@@ -132,6 +141,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8000/capsule_231x87.jpg?t=1729009457"
   },
   {
+   "title": "Dark Future: Blood Red States",
+   "store": "GOG",
+   "sale": "2.49",
+   "normal": "24.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=wW8VsyNRvguK9JJxgPKZEycltIqNUqnCVXjbn9DmSlI%3D",
+   "img": "https://sttc.gamersgate.com/images/product/dark-future-blood-red-states/cover-180-d7cd23.jpg"
+  },
+  {
+   "title": "Onde",
+   "store": "GOG",
+   "sale": "1.39",
+   "normal": "13.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=80t6z1qn7wp2zs5WwmOYp9FEHXZ12NfJmGRIhXpZhi8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1676910/capsule_231x87.jpg?t=1777453459"
+  },
+  {
    "title": "Dropsy",
    "store": "GOG",
    "sale": "0.99",
@@ -139,6 +166,24 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=KyVVy%2BjxIufO83d8DD5x2xs1KIzEmrEbFQ2x%2BHT%2FXe4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/274350/capsule_231x87.jpg?t=1725396094"
+  },
+  {
+   "title": "Chorus",
+   "store": "GOG",
+   "sale": "2.49",
+   "normal": "24.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=rTrn1iSOMCnkyygXRTZAHV2L4dudlhwNThvdcP%2BNrGw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1153640/capsule_231x87.jpg?t=1730478689"
+  },
+  {
+   "title": "Endzone - A World Apart",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "24.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=2JpaBwPrNWdoui2CZxNd17VEO7s4duAt%2B1%2FX6ciPBcc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/933820/capsule_231x87.jpg?t=1793719254"
   },
   {
    "title": "FAR: Lone Sails",
@@ -157,6 +202,24 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=%2BhIe51fqt40VxsF47rhvcnf%2BQh%2BP5CSA2lp39sEo3Mw%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/700160/capsule_231x87.jpg?t=1680797529"
+  },
+  {
+   "title": "A Jugglers Tale",
+   "store": "GOG",
+   "sale": "1.79",
+   "normal": "17.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=CTjqfM4kkOIT9YNUh3dwh11qwCFq0G%2FKRDfRIX9G2Yg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1252830/capsule_231x87.jpg?t=1785148149"
+  },
+  {
+   "title": "Relicta",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=zST25%2FWVh3sPb1FI2w9nduDKLuvdy9lBi4Lz0Tp9NrQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/941570/capsule_231x87.jpg?t=1709556945"
   },
   {
    "title": "Mindcop",
@@ -186,6 +249,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8140/capsule_231x87.jpg?t=1729009496"
   },
   {
+   "title": "Insurmountable",
+   "store": "GOG",
+   "sale": "2.49",
+   "normal": "24.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=zRK%2BI7LeN68yfkdcjvE9fKR%2BuUlYpkeMNbjuHwFy32A%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1385100/capsule_231x87.jpg?t=1793983298"
+  },
+  {
    "title": "Bears in Space",
    "store": "GOG",
    "sale": "1.99",
@@ -193,6 +265,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=DQ13SUlD9m7GzWhNRVdxrDNdZ4OfY4c8er0TAuMk9P4%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1309620/capsule_231x87.jpg?t=1758953155"
+  },
+  {
+   "title": "Bridge Constructor The Walking Dead",
+   "store": "GOG",
+   "sale": "0.99",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=bDyN56FSTcmP8UZ0kXOSu5J0HNVkMf5%2FBsvskYSv%2BN8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1336120/capsule_231x87.jpg?t=1717675056"
   },
   {
    "title": "SteamWorld Dig 2",
@@ -220,87 +301,6 @@
    "savings": 92,
    "url": "https://www.cheapshark.com/redirect?dealID=V5ZXzLwey%2F7XsvJF%2Bj6W6p2u06my42zmVrgE6RKFPAM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
-  },
-  {
-   "title": "Homeworld: Deserts of Kharak",
-   "store": "GameBillet",
-   "sale": "3.87",
-   "normal": "49.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=BHwNaROcBy4C0YKWQOTf98HIn1NO3d54LzAyomPcTYU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/281610/capsule_231x87.jpg?t=1781819254"
-  },
-  {
-   "title": "The Making of Karateka",
-   "store": "WinGameStore",
-   "sale": "3.89",
-   "normal": "19.99",
-   "savings": 81,
-   "url": "https://www.cheapshark.com/redirect?dealID=gqQTXIZc%2FVPxvwnhrGs%2BD5F4Tt2kHgXg7khrGi9rb4I%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1163060/capsule_231x87.jpg?t=1773073858"
-  },
-  {
-   "title": "Tomb Raider: Legend",
-   "store": "GOG",
-   "sale": "0.99",
-   "normal": "6.99",
-   "savings": 86,
-   "url": "https://www.cheapshark.com/redirect?dealID=8iHj5d16z9lAR3ts21XTSPFvGrQM5FPiAiqotWZ29Gc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7000/capsule_231x87.jpg?t=1729009388"
-  },
-  {
-   "title": "Beyond: Two Souls",
-   "store": "Gamesplanet",
-   "sale": "1.82",
-   "normal": "19.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=dqtVyRmFkQq2BkE8eXiBl%2FUFxpEfGyy%2F0FWyRgmRds4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960990/capsule_231x87.jpg?t=1667468566"
-  },
-  {
-   "title": "Homeworld Remastered Collection",
-   "store": "GameBillet",
-   "sale": "5.04",
-   "normal": "34.99",
-   "savings": 86,
-   "url": "https://www.cheapshark.com/redirect?dealID=P8NEU0ISQgnFpnlemYyFIYhfSLk8HMicmFS4lZrTlqE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
-  },
-  {
-   "title": "When Ski Lifts Go Wrong",
-   "store": "GameBillet",
-   "sale": "1.08",
-   "normal": "14.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=IhmJLXn3LYHKf0AOhW6skqrMGvaVkIiQdiurM5e97Oo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/638000/capsule_231x87.jpg?t=1743421609"
-  },
-  {
-   "title": "Exo One",
-   "store": "Steam",
-   "sale": "2.54",
-   "normal": "16.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=KsFSSu2MepLMnhuWQ1yQ0lHcLzsO7sbNn6uv%2FdXJILM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/773370/capsule_231x87.jpg?t=1786705563"
-  },
-  {
-   "title": "Homeworld Remastered Collection",
-   "store": "Gamesplanet",
-   "sale": "5.08",
-   "normal": "34.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=F5TKI8EprYG4tQLTuFrai5YN8hCh6d5hMIOFNR7MPfE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
-  },
-  {
-   "title": "Heavy Rain",
-   "store": "Gamesplanet",
-   "sale": "1.82",
-   "normal": "19.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=ikr9BxS3BmBJbswcGxueMqmAIgwK4WampQIVLY5whhE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960910/capsule_231x87.jpg?t=1675271942"
   }
  ]
 }
