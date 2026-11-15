@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:22Z",
+ "updated": "2026-11-15T08:17Z",
  "epic": [
   {
    "title": "Knightica",
@@ -150,15 +150,6 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/609320/capsule_231x87.jpg?t=1769095038"
   },
   {
-   "title": "Lacuna  A Sci-Fi Noir Adventure",
-   "store": "GamersGate",
-   "sale": "1.60",
-   "normal": "15.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=o1Drls4ocCclDJ9i4HqAW78dXp0kAaza1pXjEY5RnNE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1794218067"
-  },
-  {
    "title": "Semblance",
    "store": "GOG",
    "sale": "0.99",
@@ -193,15 +184,6 @@
    "savings": 89,
    "url": "https://www.cheapshark.com/redirect?dealID=TWuNOlsFJM2gN42GycbcaAcOz06DkD7MNQbhQYBcGmM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8140/capsule_231x87.jpg?t=1729009496"
-  },
-  {
-   "title": "RoboCop: Rogue City",
-   "store": "GameBillet",
-   "sale": "3.41",
-   "normal": "39.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=yWYF%2B7AvgfvHS6Cx4Py%2F%2BCSVlc%2B6ffU7WNyz5tVuqOo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1681430/capsule_231x87.jpg?t=1778174302"
   },
   {
    "title": "Bears in Space",
@@ -301,6 +283,24 @@
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=KsFSSu2MepLMnhuWQ1yQ0lHcLzsO7sbNn6uv%2FdXJILM%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/773370/capsule_231x87.jpg?t=1786705563"
+  },
+  {
+   "title": "Homeworld Remastered Collection",
+   "store": "Gamesplanet",
+   "sale": "5.08",
+   "normal": "34.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=F5TKI8EprYG4tQLTuFrai5YN8hCh6d5hMIOFNR7MPfE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/244160/capsule_231x87.jpg?t=1781819205"
+  },
+  {
+   "title": "Heavy Rain",
+   "store": "Gamesplanet",
+   "sale": "1.82",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=ikr9BxS3BmBJbswcGxueMqmAIgwK4WampQIVLY5whhE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960910/capsule_231x87.jpg?t=1675271942"
   }
  ]
 }
