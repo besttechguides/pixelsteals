@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:56Z",
+ "updated": "2026-11-17T08:17Z",
  "epic": [
   {
    "title": "Knightica",
@@ -82,24 +82,6 @@
  ],
  "deals": [
   {
-   "title": "Ashes of the Singularity II",
-   "store": "WinGameStore",
-   "sale": "25.79",
-   "normal": "39.99",
-   "savings": 36,
-   "url": "https://www.cheapshark.com/redirect?dealID=YvAFpcSCX0mcIaSgSoqvpeGuQ4tBYGUIrfJiI8maGQ8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794576706"
-  },
-  {
-   "title": "Ashes of the Singularity II",
-   "store": "GreenManGaming",
-   "sale": "25.91",
-   "normal": "39.99",
-   "savings": 35,
-   "url": "https://www.cheapshark.com/redirect?dealID=bB3LIPi1TbVmxJ0oe6mQawHpMzxTsHlVgmOTwPlxq%2BA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794576706"
-  },
-  {
    "title": "Deus Ex: Human Revolution - Director's Cut",
    "store": "DreamGame",
    "sale": "3.00",
@@ -118,6 +100,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1794218067"
   },
   {
+   "title": "The Next Penelope",
+   "store": "Gamesplanet",
+   "sale": "1.16",
+   "normal": "12.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=UcN3Ob27BNr%2FfGLh%2Buhd8tNyh5DW%2BrZs%2BHecbjrANQs%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
+  },
+  {
+   "title": "Bury me, my Love",
+   "store": "Gamesplanet",
+   "sale": "0.47",
+   "normal": "4.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=81B0PWjul%2Bp9GXoQdVNzHclvYwHRePDzCahlEEiFD0s%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/808090/capsule_231x87.jpg?t=1781885052"
+  },
+  {
    "title": "Rogue Legacy",
    "store": "GOG",
    "sale": "1.49",
@@ -125,6 +125,33 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=wNjuHxmHnC40ibZzD%2BZ8DGxniOylfO3jy9rXt3Y8Rt8%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241600/capsule_231x87.jpg?t=1743078622"
+  },
+  {
+   "title": "Impulsion",
+   "store": "Gamesplanet",
+   "sale": "1.13",
+   "normal": "12.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=2oyvj72TWf3AQeCpl9Jan%2FCTOprrVn8Tau%2FgavIFaGc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
+  },
+  {
+   "title": "Splasher",
+   "store": "Gamesplanet",
+   "sale": "1.29",
+   "normal": "14.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=4QXYiH6ahnbecoEyQBJb3o6f7wawXjpVvKKiNzvKzFo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950"
+  },
+  {
+   "title": "Anarcute",
+   "store": "Gamesplanet",
+   "sale": "1.33",
+   "normal": "14.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=yvQXypbekCPhqa0MroUCRj2byYJr8RsTdubBOI0F6cY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
   },
   {
    "title": "Bzzzt",
@@ -136,6 +163,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1293170/cc5bb40fb30abc202f00500a972470af63df6937/capsule_231x87.jpg?t=1750557220"
   },
   {
+   "title": "Bzzzt",
+   "store": "Steam",
+   "sale": "2.39",
+   "normal": "11.99",
+   "savings": 80,
+   "url": "https://www.cheapshark.com/redirect?dealID=3Pckm6SdlacLnzyFl3i1nVlcg20apQ38NGDiLOWgyJY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1293170/cc5bb40fb30abc202f00500a972470af63df6937/capsule_231x87.jpg?t=1750557220"
+  },
+  {
    "title": "The Next Penelope",
    "store": "IndieGala",
    "sale": "1.29",
@@ -143,6 +179,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=T34TShDWMbSgDfcqiX8prXIkeeN9%2FHq2FlIVjP1dwjY%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
+  },
+  {
+   "title": "Distant Worlds: Universe",
+   "store": "Steam",
+   "sale": "2.99",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=CoyryML0LMR039mrHIRiquMVW%2FpRm6zbecdtqhyL1L0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/261470/capsule_231x87.jpg?t=1726821290"
   },
   {
    "title": "The Next Penelope",
@@ -163,6 +208,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
   },
   {
+   "title": "Dark Future: Blood Red States",
+   "store": "Gamesplanet",
+   "sale": "2.18",
+   "normal": "24.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=DQSnobCKUFOuPgJmfpbaPrD%2FR1uzE7sJKIf0J1vidqQ%3D",
+   "img": "https://sttc.gamersgate.com/images/product/dark-future-blood-red-states/cover-180-d7cd23.jpg"
+  },
+  {
+   "title": "Figment",
+   "store": "Gamesplanet",
+   "sale": "1.75",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=hAhGqGQgpgqGANno94Ts0C66qjBvstFBpru6Exrvf4c%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/493540/capsule_231x87.jpg?t=1729500541"
+  },
+  {
    "title": "Bury me, my Love",
    "store": "GreenManGaming",
    "sale": "0.50",
@@ -179,6 +242,24 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=c5TFSCTB2oXZy3vDzOb6%2FmdBgzJ%2FsOePreOqNf4rYrw%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/808090/capsule_231x87.jpg?t=1781885052"
+  },
+  {
+   "title": "Shadowgrounds Survivor",
+   "store": "Gamesplanet",
+   "sale": "0.90",
+   "normal": "9.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2Fvy0ccrQrNQiOAJK%2FMGa5EtHQKt5dKpfv2F3FH2xvFs%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
+  },
+  {
+   "title": "Wanderlust Travel Stories",
+   "store": "Gamesplanet",
+   "sale": "1.33",
+   "normal": "14.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=IX25ac%2BjkIEYHERdeP3RBtDciBFJhpUJ%2BEWtZFi0g8Y%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1051410/capsule_231x87.jpg?t=1724948951"
   },
   {
    "title": "Fly'N",
@@ -208,94 +289,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/223730/capsule_231x87.jpg?t=1753954633"
   },
   {
-   "title": "Mindcop",
-   "store": "GreenManGaming",
-   "sale": "2.46",
-   "normal": "14.99",
-   "savings": 84,
-   "url": "https://www.cheapshark.com/redirect?dealID=jUGbwEi%2BMna6o0kiEUgMuloI5KSHm18UGeTM4ZpxmnA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1517180/capsule_231x87.jpg?t=1744981735"
-  },
-  {
-   "title": "Roguebook",
+   "title": "Afterimage",
    "store": "Gamesplanet",
-   "sale": "2.12",
+   "sale": "2.18",
    "normal": "24.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=L4FV4e52YntZVWkpfQ35FHQ3NXKvi6J5oVfLNgP78uY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1076200/capsule_231x87.jpg?t=1778174412"
-  },
-  {
-   "title": "Shadowgrounds Survivor",
-   "store": "GreenManGaming",
-   "sale": "1.00",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=UwY07Nnn0bw7ckk3zz%2FZAvyt%2BMD8Irg8xG%2BvlC5W%2Bg4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
-  },
-  {
-   "title": "Shadowgrounds Survivor",
-   "store": "DreamGame",
-   "sale": "1.00",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Pj6n%2FssMnsLNzLetlW6fY7XgdwXKtvUNZqOap%2FWYfeo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/11200/capsule_231x87.jpg?t=1725011465"
-  },
-  {
-   "title": "Impulsion",
-   "store": "GreenManGaming",
-   "sale": "1.30",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=s64jLObjeXu%2FfoqPpjn1KmzG5k8pw4zgc0r5qdnpt00%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
-  },
-  {
-   "title": "Impulsion",
-   "store": "DreamGame",
-   "sale": "1.30",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Pf5FTHE6vWLrmx1D24cPGvNSjsOiEBwy8wS9itYxS%2Fg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
-  },
-  {
-   "title": "Attentat 1942",
-   "store": "GOG",
-   "sale": "0.89",
-   "normal": "10.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=OqzLc7%2Fu%2BIz3u7grxah4h4LZx4g8ShHOtjHbVsnGTOo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/676630/capsule_231x87.jpg?t=1755001470"
-  },
-  {
-   "title": "Wanderlust Travel Stories",
-   "store": "IndieGala",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=HJbMW8t1So6IW6lnVhJ%2FVsshwbf7RUHAAiSCVH9mKec%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1051410/capsule_231x87.jpg?t=1724948951"
-  },
-  {
-   "title": "Anarcute",
-   "store": "IndieGala",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Kw8RpU1%2F7aH9J0Ui3wXPmuSPzl1yj0GPdmtYhqOzyTk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
-  },
-  {
-   "title": "Anarcute",
-   "store": "GreenManGaming",
-   "sale": "1.50",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=O4wmHNvMORNctngHOOSuJkaW%2BLnn5NGQe6agsT%2FTOvM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/390720/capsule_231x87.jpg?t=1781884646"
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=tNXWFbgnv8uJrhAGDp7vWXLLpTFF875VBSN2qkg75e8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1701520/capsule_231x87.jpg?t=1787333685"
   }
  ]
 }
