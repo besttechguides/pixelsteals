@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:36Z",
+ "updated": "2026-11-19T08:17Z",
  "epic": [
   {
    "title": "Knightica",
@@ -114,6 +114,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
   },
   {
+   "title": "Just Cause 2",
+   "store": "Steam",
+   "sale": "1.49",
+   "normal": "14.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=z4El8C19yCEHrk1%2ByEedebThQVbblI7H0Z%2BAmxgZiS8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8190/e90146c1858e5d8ebd2aa1abdcc8e2895c1d2b19/capsule_231x87.jpg?t=1782912561"
+  },
+  {
+   "title": "Injustice 2",
+   "store": "WinGameStore",
+   "sale": "4.99",
+   "normal": "49.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=v49k4%2BVWfXzAzDX%2B6DxeSv%2FJPd%2BKGaFnLf%2BRXRRh15I%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/capsule_231x87.jpg?t=1793829728"
+  },
+  {
    "title": "Valfaris",
    "store": "GOG",
    "sale": "2.49",
@@ -132,6 +150,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
   },
   {
+   "title": "FINAL FANTASY VII REBIRTH",
+   "store": "Steam",
+   "sale": "7.49",
+   "normal": "49.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=gJ60np9%2FzPD6n03wLQcUNEplVIDm%2B1%2B4ndLniZZ8PqQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/61fda2e598f865ba6e985830661b98f3167e4ccc/capsule_231x87.jpg?t=1793774936"
+  },
+  {
+   "title": "Dungeon Siege",
+   "store": "Steam",
+   "sale": "0.97",
+   "normal": "6.99",
+   "savings": 86,
+   "url": "https://www.cheapshark.com/redirect?dealID=Hli8KbDatTjYjj%2BjpnfUuVKjxPwQPmblW1llCXyMMmU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/39190/capsule_231x87.jpg?t=1784217836"
+  },
+  {
    "title": "The Forgotten City",
    "store": "IndieGala",
    "sale": "2.49",
@@ -148,6 +184,24 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=w5%2Fj0I5ToPSnuQErvQ7GznyqiXeL9n4TpaObgAGl6Fg%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1794218067"
+  },
+  {
+   "title": "Hogwarts Legacy",
+   "store": "WinGameStore",
+   "sale": "5.99",
+   "normal": "59.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=6L8UehauDTlXoD85oz%2F6uhCBgN8WVhBViacfngHJmA8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/4617336bf98ab04289173328838f18303673457f/capsule_231x87.jpg?t=1790708992"
+  },
+  {
+   "title": "Mortal Kombat11",
+   "store": "WinGameStore",
+   "sale": "4.99",
+   "normal": "49.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=74OYxRMR%2FkXCk60OV267GuZ2RDIEeoMnEYo0BiupzE0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/capsule_231x87.jpg?t=1780429525"
   },
   {
    "title": "The Next Penelope",
@@ -247,60 +301,6 @@
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=aNAamitLXrQJSrXJQUA8h4gisWSJKCIiZA1uOLDXUgg%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945"
-  },
-  {
-   "title": "Codename: Panzers, Phase One",
-   "store": "WinGameStore",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=YRngz2Smyul%2Fx%2BI2nT8Ug8XJhR5f2Vczu2%2FGGACXRSY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/411310/capsule_231x87.jpg?t=1562845886"
-  },
-  {
-   "title": "Rogue Legacy",
-   "store": "GOG",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=wNjuHxmHnC40ibZzD%2BZ8DGxniOylfO3jy9rXt3Y8Rt8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241600/capsule_231x87.jpg?t=1743078622"
-  },
-  {
-   "title": "Metro Exodus",
-   "store": "GOG",
-   "sale": "2.99",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=wU0Nb%2B%2BYjnl3Q8mWou48wfy4kCTgJa4VuMUmASC4af0%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/412020/capsule_231x87.jpg?t=1750772804"
-  },
-  {
-   "title": "Impulsion",
-   "store": "Gamesplanet",
-   "sale": "1.13",
-   "normal": "12.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=2oyvj72TWf3AQeCpl9Jan%2FCTOprrVn8Tau%2FgavIFaGc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/811270/capsule_231x87.jpg?t=1722517971"
-  },
-  {
-   "title": "Splasher",
-   "store": "Gamesplanet",
-   "sale": "1.29",
-   "normal": "14.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=4QXYiH6ahnbecoEyQBJb3o6f7wawXjpVvKKiNzvKzFo%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/446840/capsule_231x87.jpg?t=1656581950"
-  },
-  {
-   "title": "Lovecraft's Untold Stories",
-   "store": "WinGameStore",
-   "sale": "1.09",
-   "normal": "14.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=CHg589vz0KZtVxlYP0HGMJ2oHYNebKjqy1LTbNHwSU8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/871420/capsule_231x87.jpg?t=1760103639"
   }
  ]
 }
