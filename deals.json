@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-19T08:17Z",
+ "updated": "2026-11-19T17:42Z",
  "epic": [
   {
-   "title": "Knightica",
-   "ends": "2026-11-19T16:00:00.000Z",
-   "url": "https://store.epicgames.com/en-GB/p/knightica-3be45c",
-   "img": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png"
+   "title": "Mark of the Deep",
+   "ends": "2026-11-26T16:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/mark-of-the-deep-f7dc08",
+   "img": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png"
   }
  ],
  "epic_upcoming": [
@@ -15,9 +15,9 @@
    "ends": "2026-12-03T16:00:00.000Z"
   },
   {
-   "title": "Mark of the Deep",
-   "starts": "2026-11-19T16:00:00.000Z",
-   "ends": "2026-11-26T16:00:00.000Z"
+   "title": "Bread and Fred",
+   "starts": "2026-11-26T16:00:00.000Z",
+   "ends": "2026-12-03T16:00:00.000Z"
   }
  ],
  "free_other": [
@@ -86,6 +86,15 @@
   }
  ],
  "deals": [
+  {
+   "title": "Mark of the Deep",
+   "store": "Epic Games Store",
+   "sale": "0.00",
+   "normal": "19.99",
+   "savings": 100,
+   "url": "https://www.cheapshark.com/redirect?dealID=J3QoV3DZfxoGHf0gnngRHd1PS4AMm%2Fuqeh6CmIov%2Fk4%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1933370/29d6d17e4e203130ce7305717343b953452be8cd/capsule_231x87.jpg?t=1788364373"
+  },
   {
    "title": "Deus Ex: Human Revolution - Director's Cut",
    "store": "WinGameStore",
@@ -292,15 +301,6 @@
    "savings": 89,
    "url": "https://www.cheapshark.com/redirect?dealID=ZSRlbgpK5L26BQfntTnS4IqMf6auAkJANPs%2F8%2B80wes%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3170/3743302f7350d1fc53f377a6cf6fe7d1b59b7849/capsule_231x87.jpg?t=1786626361"
-  },
-  {
-   "title": "IL-2 Sturmovik: 1946",
-   "store": "WinGameStore",
-   "sale": "1.48",
-   "normal": "9.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=aNAamitLXrQJSrXJQUA8h4gisWSJKCIiZA1uOLDXUgg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945"
   }
  ]
 }
