@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T23:00Z",
+ "updated": "2026-11-20T08:17Z",
  "epic": [
   {
    "title": "Mark of the Deep",
@@ -96,6 +96,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1933370/29d6d17e4e203130ce7305717343b953452be8cd/capsule_231x87.jpg?t=1788364373"
   },
   {
+   "title": "Destiny 2: The Final Shape",
+   "store": "GameBillet",
+   "sale": "1.76",
+   "normal": "49.99",
+   "savings": 96,
+   "url": "https://www.cheapshark.com/redirect?dealID=p2AOvB6%2Fr6U%2BXzz3L2Lbna4ncaHDcU9vV%2BS6gPtMHuI%3D",
+   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
+  },
+  {
    "title": "Battlefield 3",
    "store": "Steam",
    "sale": "1.99",
@@ -114,6 +123,42 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238840/capsule_231x87.jpg?t=1777324289"
   },
   {
+   "title": "Destiny 2: The Witch Queen",
+   "store": "GameBillet",
+   "sale": "1.76",
+   "normal": "29.99",
+   "savings": 94,
+   "url": "https://www.cheapshark.com/redirect?dealID=y0G2NjENED%2B%2BgaHpesSEJdnwsEBa7GuVx6nOa0bHBs8%3D",
+   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-witch-queen/cover-180-76a978.jpg"
+  },
+  {
+   "title": "Destiny 2: The Final Shape",
+   "store": "Gamesplanet",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=GdFqoOIz7vFaQwfhPv4mGus8aNzK96Wp3dl8Qum2UE0%3D",
+   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
+  },
+  {
+   "title": "Destiny 2: The Final Shape",
+   "store": "GamersGate",
+   "sale": "2.00",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=tK4MPuEZkf88dMzBD%2BDTj3f3%2B8yEEteuv8c2lCskWRg%3D",
+   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
+  },
+  {
+   "title": "Sid Meiers Civilization VI",
+   "store": "GameBillet",
+   "sale": "5.05",
+   "normal": "59.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2FcSarHtc28W00%2BabB0nYX%2FE%2FrJHBTa8OsaXqrAa9208%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
+  },
+  {
    "title": "Deus Ex: Human Revolution - Director's Cut",
    "store": "WinGameStore",
    "sale": "1.99",
@@ -121,6 +166,69 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=ZLniwdY%2BXppO6gBCgyKEBZHHPbgDOGqeHSSJOzYSTbo%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
+  },
+  {
+   "title": "Sid Meiers Civilization VI",
+   "store": "Gamesplanet",
+   "sale": "5.77",
+   "normal": "59.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=w%2B5ojedM7X0TvzRbvuxsC%2FYfJqXI2J8yH%2FwEhXlSDRg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
+  },
+  {
+   "title": "BioShock",
+   "store": "GameBillet",
+   "sale": "4.80",
+   "normal": "19.99",
+   "savings": 76,
+   "url": "https://www.cheapshark.com/redirect?dealID=et8hm7BwoAPZnyJpSAAehTMKS7M1aPlbLKSZDWmUtEo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
+  },
+  {
+   "title": "Disco Elysium - The Final Cut",
+   "store": "Gamesplanet",
+   "sale": "9.47",
+   "normal": "39.99",
+   "savings": 76,
+   "url": "https://www.cheapshark.com/redirect?dealID=AUvSqG%2BjgjZBM4JGg0dEDho7mk8Sxn2CpCvml8OEW40%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
+  },
+  {
+   "title": "BioShock",
+   "store": "Gamesplanet",
+   "sale": "4.84",
+   "normal": "19.99",
+   "savings": 76,
+   "url": "https://www.cheapshark.com/redirect?dealID=sih7CO1qZ1vUrVB%2BuKVccW82zOPd37fOjCi07Y5ip4k%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
+  },
+  {
+   "title": "Destiny 2: The Witch Queen",
+   "store": "Gamesplanet",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=pyXJv71EhJ05B7rP14XIRuCZksZqgASKbiOFWhaz9iQ%3D",
+   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-witch-queen/cover-180-76a978.jpg"
+  },
+  {
+   "title": "Sid Meiers Civilization VI",
+   "store": "GamersGate",
+   "sale": "6.00",
+   "normal": "59.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=ckx0u2bxCeKbtaweJyEGoXjAnjp9XAYGtAj83Pb6w4s%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
+  },
+  {
+   "title": "Destiny 2: The Witch Queen",
+   "store": "GamersGate",
+   "sale": "2.00",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=qkqi%2FKUR0O4hCqrILwTKcR8xS9Q8GXjHhd%2BtoV0w8qE%3D",
+   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-witch-queen/cover-180-76a978.jpg"
   },
   {
    "title": "Metro 2033 Redux",
@@ -132,6 +240,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/286690/capsule_231x87.jpg?t=1792681167"
   },
   {
+   "title": "BioShock",
+   "store": "GamersGate",
+   "sale": "5.00",
+   "normal": "19.99",
+   "savings": 75,
+   "url": "https://www.cheapshark.com/redirect?dealID=DlT5IxXbqt4KI7VAOZVcrt1u%2BS9qYZQ16IY4cory4Cg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
+  },
+  {
    "title": "Deus Ex: Human Revolution - Director's Cut",
    "store": "Steam",
    "sale": "2.99",
@@ -141,166 +258,49 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
   },
   {
-   "title": "Injustice 2",
-   "store": "GameBillet",
-   "sale": "4.21",
-   "normal": "49.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=5qNQBU%2FSeUAniebtVwrJzhQeQdlc0kyRTcV7UJSqKUk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/capsule_231x87.jpg?t=1793829728"
-  },
-  {
-   "title": "Battlefield 4",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "39.99",
-   "savings": 95,
-   "url": "https://www.cheapshark.com/redirect?dealID=jorrBw%2B6tBsGXOvIN8XZmHUu3u3GwkMbrIugL3Qo4rE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238860/capsule_231x87.jpg?t=1777391884"
-  },
-  {
-   "title": "Sid Meiers Civilization VI",
-   "store": "Steam",
-   "sale": "5.99",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=5xRuVIgFiH0TW2PTPJPlTN4NYMjAt4bg3p1CvKMMJv8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
-  },
-  {
-   "title": "Europa Universalis IV",
-   "store": "GameBillet",
-   "sale": "4.00",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=Xonoitn5pg6vfsMzfxqXcWaDT545YgjCyhjagZJR%2BYc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
-  },
-  {
-   "title": "Battlefield V",
-   "store": "Steam",
-   "sale": "2.49",
-   "normal": "49.99",
-   "savings": 95,
-   "url": "https://www.cheapshark.com/redirect?dealID=O7Yl3vwvEd6Ol0inPOrUwMbigxJLR0xB%2BnoCjQcTCP8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238810/capsule_231x87.jpg?t=1772707365"
-  },
-  {
    "title": "Aces and Adventures",
-   "store": "GameBillet",
-   "sale": "1.66",
+   "store": "Gamesplanet",
+   "sale": "1.78",
    "normal": "19.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=yXWoPbOU0lIAUrHfByAcNgDjUGy3oCM%2FKu0M%2BtHgbTM%3D",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=1K30JGQpAvM0cccJhAkjBfmPqwYybDGuksV4Ui2RIF0%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815570/capsule_231x87.jpg?t=1731955791"
   },
   {
-   "title": "Europa Universalis IV",
-   "store": "Gamesplanet",
-   "sale": "4.90",
-   "normal": "49.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=3n5AuHGzuk2%2FTSnMf%2F7lWv9zdH5g%2BuDGUMhlpr68w08%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
-  },
-  {
-   "title": "Europa Universalis IV",
-   "store": "GreenManGaming",
-   "sale": "5.00",
-   "normal": "49.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=30O9UfdFh5FRA7oaPGb57B4raLUyIHj8rRmL0u3o84Y%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
-  },
-  {
-   "title": "Dead Space",
-   "store": "Steam",
-   "sale": "5.99",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=NzJzHgicjW1oluhWnkaHFCrkXSCErxxb2C6nWU2drY8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1693980/capsule_231x87.jpg?t=1777396576"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
-   "store": "WinGameStore",
-   "sale": "2.49",
-   "normal": "39.99",
-   "savings": 94,
-   "url": "https://www.cheapshark.com/redirect?dealID=n6QCiG9FKdQSNO3qxF9g2yOdez8wpOkbnc%2FhrgVXTDw%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
-  },
-  {
-   "title": "Just Cause 2",
-   "store": "Steam",
-   "sale": "1.49",
-   "normal": "14.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=z4El8C19yCEHrk1%2ByEedebThQVbblI7H0Z%2BAmxgZiS8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8190/e90146c1858e5d8ebd2aa1abdcc8e2895c1d2b19/capsule_231x87.jpg?t=1782912561"
-  },
-  {
-   "title": "Injustice 2",
-   "store": "WinGameStore",
-   "sale": "4.99",
-   "normal": "49.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=v49k4%2BVWfXzAzDX%2B6DxeSv%2FJPd%2BKGaFnLf%2BRXRRh15I%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/capsule_231x87.jpg?t=1793829728"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
+   "title": "BioShock Infinite",
    "store": "GameBillet",
-   "sale": "4.00",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=DXR0Src5VMwu3WnG9te62i1X1bRkSxxkGdq7hHX6cRI%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+   "sale": "6.11",
+   "normal": "29.99",
+   "savings": 80,
+   "url": "https://www.cheapshark.com/redirect?dealID=vb3EqB4KpKbSyV83DXQYAZCSBS60LaOMgLCXSt8pQxw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8870/capsule_231x87.jpg?t=1728673518"
   },
   {
-   "title": "Goodbye Deponia",
+   "title": "Destiny 2: Shadowkeep",
    "store": "GameBillet",
-   "sale": "1.55",
+   "sale": "0.90",
    "normal": "19.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2BnQ%2FkoMKIfbEUDS5peDV%2Ft7CtY%2BkBf13Ra1bMkn%2B55I%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241910/capsule_231x87.jpg?t=1793896617"
+   "savings": 95,
+   "url": "https://www.cheapshark.com/redirect?dealID=O%2Blo1LaJDBY6AG2uTU2turEt2s6wp1aBttde%2B8COtlw%3D",
+   "img": "https://sttc.gamersgate.com/images/product/destiny-2-shadowkeep/cover-180-1cf22f.jpg"
   },
   {
-   "title": "Hogwarts Legacy",
+   "title": "BioShock 2",
    "store": "GameBillet",
-   "sale": "5.06",
-   "normal": "59.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=gp5D%2B6fuDZv3%2BuTyGi0DtMIwlNiMlcsK519E%2Bpa7DEA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/4617336bf98ab04289173328838f18303673457f/capsule_231x87.jpg?t=1790708992"
+   "sale": "2.68",
+   "normal": "19.99",
+   "savings": 87,
+   "url": "https://www.cheapshark.com/redirect?dealID=7BKG%2FE%2B1t%2FO%2FPO6pw0wAqXmrrYtrWAODL0urj14WMdM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/capsule_231x87.jpg?t=1730174099"
   },
   {
-   "title": "Borderlands 2",
-   "store": "Steam",
-   "sale": "5.99",
-   "normal": "39.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=y9vH5Xf2O3lmQzX8IprLnYJ8PT7C2MafD4gPIMz7y%2Fs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49520/capsule_231x87.jpg?t=1793288352"
-  },
-  {
-   "title": "Mortal Kombat11",
+   "title": "Joe Danger 2: The Movie",
    "store": "GameBillet",
-   "sale": "4.21",
-   "normal": "49.99",
+   "sale": "1.18",
+   "normal": "14.99",
    "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=qnJsoJBIATOHasMeTmYc3sb2HMbf2B4MI84rn71JYKs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/976310/capsule_231x87.jpg?t=1780429525"
-  },
-  {
-   "title": "Invincible Presents: Atom Eve",
-   "store": "GameBillet",
-   "sale": "0.81",
-   "normal": "9.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=NywEx5A6JRneJ4Z4SlGcy7%2FZsSS0PFrSECgKwI%2FGYuk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2060870/capsule_231x87.jpg?t=1731368197"
+   "url": "https://www.cheapshark.com/redirect?dealID=V5ZXzLwey%2F7XsvJF%2Bj6W6p2u06my42zmVrgE6RKFPAM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242110/capsule_231x87.jpg?t=1727078711"
   }
  ]
 }
