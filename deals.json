@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T16:24Z",
+ "updated": "2026-11-22T08:17Z",
  "epic": [
   {
    "title": "Mark of the Deep",
@@ -186,6 +186,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   },
   {
+   "title": "Valfaris",
+   "store": "Steam",
+   "sale": "2.49",
+   "normal": "24.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=1WnSkUl4HVy1GxtpZRKBJ5QaMwxwg%2Fyof1cdmMwAGbE%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
+  },
+  {
    "title": "Deus Ex: Human Revolution - Director's Cut",
    "store": "WinGameStore",
    "sale": "1.99",
@@ -291,15 +300,6 @@
    "normal": "19.99",
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=QZfYsy910uPsoXaQTF654pgEDbQ%2BMP5FVcg8LEsbfAY%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-witch-queen/cover-180-76a978.jpg"
-  },
-  {
-   "title": "Destiny 2: The Witch Queen",
-   "store": "GamersGate",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=qkqi%2FKUR0O4hCqrILwTKcR8xS9Q8GXjHhd%2BtoV0w8qE%3D",
    "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-witch-queen/cover-180-76a978.jpg"
   }
  ]
