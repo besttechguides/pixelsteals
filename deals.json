@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:40Z",
+ "updated": "2026-11-23T08:17Z",
  "epic": [
   {
    "title": "Mark of the Deep",
@@ -195,6 +195,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
   },
   {
+   "title": "Shadow Tactics: Blades of the Shogun",
+   "store": "GamersGate",
+   "sale": "4.00",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=PVRg%2FyHCMCE6vB37NrqoNsATrSJsc6bxNRAgzv8W72E%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
    "title": "Deus Ex: Human Revolution - Director's Cut",
    "store": "WinGameStore",
    "sale": "1.99",
@@ -292,15 +301,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=ckx0u2bxCeKbtaweJyEGoXjAnjp9XAYGtAj83Pb6w4s%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
-  },
-  {
-   "title": "Destiny 2: The Witch Queen",
-   "store": "GreenManGaming",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=QZfYsy910uPsoXaQTF654pgEDbQ%2BMP5FVcg8LEsbfAY%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-witch-queen/cover-180-76a978.jpg"
   }
  ]
 }
