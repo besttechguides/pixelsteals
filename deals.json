@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:17Z",
+ "updated": "2026-11-24T19:43Z",
  "epic": [
   {
    "title": "Mark of the Deep",
@@ -103,15 +103,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=vTZ81A14wUS99zrsTQ2UVPE%2BbPMgndYC%2BNJbOgQZ7Fs%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373420/capsule_231x87.jpg?t=1765505119"
-  },
-  {
-   "title": "Deus Ex: Human Revolution - Director's Cut",
-   "store": "IndieGala",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=xy%2FYGF6%2B2Wg2FQYy29UgPvqj1%2FMm%2BzSNfLp%2FKfeykE0%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
   },
   {
    "title": "Destiny 2: The Final Shape",
@@ -301,6 +292,15 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=1w0Q%2BGPAAgMe8QP8lFX5TGO8kH%2FQ%2BF5Qmb5K0MYoE%2FU%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
+  },
+  {
+   "title": "Sid Meiers Civilization VI",
+   "store": "GameBillet",
+   "sale": "5.05",
+   "normal": "59.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2FcSarHtc28W00%2BabB0nYX%2FE%2FrJHBTa8OsaXqrAa9208%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   }
  ]
 }
