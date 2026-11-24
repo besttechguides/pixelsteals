@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:36Z",
+ "updated": "2026-11-24T08:17Z",
  "epic": [
   {
    "title": "Mark of the Deep",
@@ -96,6 +96,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1933370/29d6d17e4e203130ce7305717343b953452be8cd/capsule_231x87.jpg?t=1788364373"
   },
   {
+   "title": "Divinity: Original Sin - Enhanced Edition",
+   "store": "Steam",
+   "sale": "3.99",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=vTZ81A14wUS99zrsTQ2UVPE%2BbPMgndYC%2BNJbOgQZ7Fs%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373420/capsule_231x87.jpg?t=1765505119"
+  },
+  {
    "title": "Deus Ex: Human Revolution - Director's Cut",
    "store": "IndieGala",
    "sale": "1.99",
@@ -130,6 +139,15 @@
    "savings": 95,
    "url": "https://www.cheapshark.com/redirect?dealID=FhBKK4XJ0dmqH9xN1YideiIrjTWPk6dXxgGVFlJzO7s%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238820/capsule_231x87.jpg?t=1777326004"
+  },
+  {
+   "title": "Aces and Adventures",
+   "store": "GameBillet",
+   "sale": "1.45",
+   "normal": "19.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=yXWoPbOU0lIAUrHfByAcNgDjUGy3oCM%2FKu0M%2BtHgbTM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815570/capsule_231x87.jpg?t=1731955791"
   },
   {
    "title": "Valfaris",
@@ -195,6 +213,15 @@
    "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-witch-queen/cover-180-76a978.jpg"
   },
   {
+   "title": "Injustice 2",
+   "store": "Steam",
+   "sale": "4.99",
+   "normal": "49.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=3Z4THVFnoVlZCAuD20HvK0GVRSsN0lYUx2brrp%2FgHu0%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/capsule_231x87.jpg?t=1793829728"
+  },
+  {
    "title": "Destiny 2: The Final Shape",
    "store": "IndieGala",
    "sale": "1.99",
@@ -231,6 +258,15 @@
    "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
   },
   {
+   "title": "Mortal Kombat 11 Ultimate",
+   "store": "Steam",
+   "sale": "8.99",
+   "normal": "59.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=hBzFkwXV5CCVfkjbLZexRx1fhOrxUk1Idvnte3OGtao%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/518699/capsule_231x87.jpg?t=1780429573"
+  },
+  {
    "title": "BioShock 2",
    "store": "IndieGala",
    "sale": "2.99",
@@ -265,42 +301,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=1w0Q%2BGPAAgMe8QP8lFX5TGO8kH%2FQ%2BF5Qmb5K0MYoE%2FU%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
-  },
-  {
-   "title": "Sid Meiers Civilization VI",
-   "store": "GameBillet",
-   "sale": "5.05",
-   "normal": "59.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2FcSarHtc28W00%2BabB0nYX%2FE%2FrJHBTa8OsaXqrAa9208%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
-  },
-  {
-   "title": "Deus Ex: Mankind Divided",
-   "store": "IndieGala",
-   "sale": "2.99",
-   "normal": "29.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2BA3wmhttXxY6PKDeNjRRL6qfyAebn9KdSECJZQ5GQ60%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337000/96fc2a82c1820c77aae26304c62388841c2a93be/capsule_231x87.jpg?t=1780670420"
-  },
-  {
-   "title": "Valfaris",
-   "store": "Steam",
-   "sale": "2.49",
-   "normal": "24.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=1WnSkUl4HVy1GxtpZRKBJ5QaMwxwg%2Fyof1cdmMwAGbE%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
-   "store": "GamersGate",
-   "sale": "4.00",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=PVRg%2FyHCMCE6vB37NrqoNsATrSJsc6bxNRAgzv8W72E%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
   }
  ]
 }
