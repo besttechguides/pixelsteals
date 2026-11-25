@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:17Z",
+ "updated": "2026-11-25T18:51Z",
  "epic": [
   {
    "title": "Mark of the Deep",
@@ -159,6 +159,24 @@
    "img": "https://sttc.gamersgate.com/images/product/sid-meiers-civilization-v-brave-new-world/cover-180-c265c2.jpg"
   },
   {
+   "title": "Hitman 2: Silent Assassin",
+   "store": "GOG",
+   "sale": "0.89",
+   "normal": "8.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=02BngC2eerCKDu6td3LDoognymPLwY5pWbigLzanh5I%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6850/capsule_231x87.jpg?t=1732293077"
+  },
+  {
+   "title": "Unity of Command II",
+   "store": "Steam",
+   "sale": "2.99",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=fwNwzWaH9FmEtHMgvo6sAC3Rh%2BYLdvHR2LPBx21jh9U%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809230/capsule_231x87.jpg?t=1793164720"
+  },
+  {
    "title": "Borderlands 2: Tiny Tina's Assault on Dragon Keep",
    "store": "WinGameStore",
    "sale": "1.09",
@@ -177,6 +195,15 @@
    "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
   },
   {
+   "title": "Lacuna  A Sci-Fi Noir Adventure",
+   "store": "GOG",
+   "sale": "1.59",
+   "normal": "15.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=w5%2Fj0I5ToPSnuQErvQ7GznyqiXeL9n4TpaObgAGl6Fg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1364100/2f141b70398ce62fb98c1d849a56a05267f917a7/capsule_231x87.jpg?t=1794218067"
+  },
+  {
    "title": "Sid Meier's Civilization V: Gods and Kings",
    "store": "WinGameStore",
    "sale": "1.49",
@@ -184,6 +211,33 @@
    "savings": 95,
    "url": "https://www.cheapshark.com/redirect?dealID=1AsLXklXee9lvXme7pDbdLloVf4ILsgSk5M2lzWKBkM%3D",
    "img": "https://sttc.gamersgate.com/images/product/sid-meiers-civilization-v-gods-kings/cover-180-818916.jpg"
+  },
+  {
+   "title": "Europa Universalis IV",
+   "store": "GOG",
+   "sale": "4.99",
+   "normal": "49.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=3gu4QvPox5%2FrD5BJuqxNCH5ffFwcMJKwJzUjtFXbTDg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
+  },
+  {
+   "title": "SteamWorld Dig 2",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=dKEChl4oge1iERtCeaxD2Pq7SCbFHVCAeNBMa341tV8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg?t=1726132098"
+  },
+  {
+   "title": "The Witcher 3: Wild Hunt  Remastered",
+   "store": "GOG",
+   "sale": "19.99",
+   "normal": "49.99",
+   "savings": 60,
+   "url": "https://www.cheapshark.com/redirect?dealID=OR%2BVz0QIAULaNU5tjUdvoTs3iqGm6lodrS%2BXzXvxPXg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/18d06e8c33631b92a9727ac73cce3f4d81168ce8/capsule_231x87.jpg?t=1793900434"
   },
   {
    "title": "Psychonauts",
@@ -213,6 +267,33 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337000/96fc2a82c1820c77aae26304c62388841c2a93be/capsule_231x87.jpg?t=1780670420"
   },
   {
+   "title": "Lair of the Clockwork God",
+   "store": "GOG",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=ebEo%2FlhXRjW44hk5Xv51cvGo6a%2BwsRg1QKvrPjZZFXY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1060600/capsule_231x87.jpg?t=1769537301"
+  },
+  {
+   "title": "Shadow Tactics: Blades of the Shogun",
+   "store": "GOG",
+   "sale": "3.99",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=evPHVt7ofnWKB48WqFd8YaqH6sGGEZO6%2FaJ5%2F80L1YU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
+   "title": "Shadow Tactics: Blades of the Shogun",
+   "store": "Steam",
+   "sale": "3.99",
+   "normal": "39.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=j2lexFQ%2Fx%2FOeqECYZgxWgBxj7YX3hcQs0N3Y8mn8kHk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+  },
+  {
    "title": "Valfaris",
    "store": "IndieGala",
    "sale": "2.09",
@@ -220,87 +301,6 @@
    "savings": 92,
    "url": "https://www.cheapshark.com/redirect?dealID=AimE3rsevIwRCkXQTWfjIEfwKcb%2Ft6G3a2IL%2Fvi5nWg%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
-  },
-  {
-   "title": "Fell Seal: Arbiter's Mark",
-   "store": "WinGameStore",
-   "sale": "2.49",
-   "normal": "29.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=dbl55sw%2FjK4SaOCteKbuxKAzLAIeg8lqm1bHtbDxJZA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/699170/capsule_231x87.jpg?t=1789474578"
-  },
-  {
-   "title": "Battlefield 3",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "39.99",
-   "savings": 95,
-   "url": "https://www.cheapshark.com/redirect?dealID=FhBKK4XJ0dmqH9xN1YideiIrjTWPk6dXxgGVFlJzO7s%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238820/capsule_231x87.jpg?t=1777326004"
-  },
-  {
-   "title": "Aces and Adventures",
-   "store": "GameBillet",
-   "sale": "1.45",
-   "normal": "19.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=yXWoPbOU0lIAUrHfByAcNgDjUGy3oCM%2FKu0M%2BtHgbTM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815570/capsule_231x87.jpg?t=1731955791"
-  },
-  {
-   "title": "Sid Meier's Civilization: Beyond Earth",
-   "store": "WinGameStore",
-   "sale": "2.99",
-   "normal": "39.99",
-   "savings": 93,
-   "url": "https://www.cheapshark.com/redirect?dealID=sct1hS2s%2BnR5uLDl3aPrNJWNe%2FIiRFa0Tpk6DmBYzeA%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65980/capsule_231x87.jpg?t=1724341352"
-  },
-  {
-   "title": "Alan Wake",
-   "store": "WinGameStore",
-   "sale": "1.29",
-   "normal": "14.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2FgNU7XVq4DEanFxQxG8ibD2kJl9EHuEY%2Bw%2FQHcgRYfc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108710/a0e04fbe5de4b8116dbf8102354fcf4db5503fe1/capsule_231x87.jpg?t=1769717716"
-  },
-  {
-   "title": "Stacking",
-   "store": "WinGameStore",
-   "sale": "1.19",
-   "normal": "14.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=xOi%2B6LB4mikEim10GPL%2BEMGUM5F%2BdCxeCXw%2FdguccIM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115110/capsule_231x87.jpg?t=1793063456"
-  },
-  {
-   "title": "The Book of Unwritten Tales",
-   "store": "WinGameStore",
-   "sale": "1.89",
-   "normal": "19.95",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=OG1okG416yQbtUMpD5YoiTsRioEUWjW6MLkn%2BglL1lc%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/215160/capsule_231x87.jpg?t=1725012492"
-  },
-  {
-   "title": "Valfaris",
-   "store": "WinGameStore",
-   "sale": "2.39",
-   "normal": "24.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=NgYEAYo8KDLn0djGUJ4o0OxjV1glpnzRhrA5rnmrG%2F8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
-  },
-  {
-   "title": "Disco Elysium - The Final Cut",
-   "store": "WinGameStore",
-   "sale": "9.49",
-   "normal": "39.99",
-   "savings": 76,
-   "url": "https://www.cheapshark.com/redirect?dealID=aymbLiXk9HqRzVGZS%2B2cilmOHdlPAnRyWpf6%2FrdJM%2Bg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
   }
  ]
 }
