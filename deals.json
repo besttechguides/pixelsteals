@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:43Z",
+ "updated": "2026-11-25T08:17Z",
  "epic": [
   {
    "title": "Mark of the Deep",
@@ -96,6 +96,42 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1933370/29d6d17e4e203130ce7305717343b953452be8cd/capsule_231x87.jpg?t=1788364373"
   },
   {
+   "title": "Sid Meier's Civilization IV",
+   "store": "WinGameStore",
+   "sale": "1.39",
+   "normal": "19.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=722MMT3nb71TKpZB4FJNgn4SRd6XWhEVmPvrM6H%2F5hU%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900/capsule_231x87.jpg?t=1724341287"
+  },
+  {
+   "title": "Deus Ex: Human Revolution - Director's Cut",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "19.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=ZLniwdY%2BXppO6gBCgyKEBZHHPbgDOGqeHSSJOzYSTbo%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238010/capsule_231x87.jpg?t=1779722099"
+  },
+  {
+   "title": "Sid Meier's Civilization V",
+   "store": "WinGameStore",
+   "sale": "1.99",
+   "normal": "29.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=UC0WgDfCnJeedl7IzegVYgEWWfd2yvXOo%2BPPB%2FuDK%2Bw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8930/capsule_231x87.jpg?t=1724341158"
+  },
+  {
+   "title": "Sid Meiers Civilization VI",
+   "store": "WinGameStore",
+   "sale": "2.29",
+   "normal": "59.99",
+   "savings": 96,
+   "url": "https://www.cheapshark.com/redirect?dealID=OXQEiJVT%2B9IUTqZ5BL4983ZY9Mu0fVphn%2FlZuRKo6hk%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
+  },
+  {
    "title": "Divinity: Original Sin - Enhanced Edition",
    "store": "Steam",
    "sale": "3.99",
@@ -103,6 +139,33 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=vTZ81A14wUS99zrsTQ2UVPE%2BbPMgndYC%2BNJbOgQZ7Fs%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/373420/capsule_231x87.jpg?t=1765505119"
+  },
+  {
+   "title": "Borderlands 2",
+   "store": "WinGameStore",
+   "sale": "1.89",
+   "normal": "19.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2F%2BAE6cH6NTYWBu0J7b5KaG1seT0IN9hqLBjdEFxq1Cs%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49520/capsule_231x87.jpg?t=1793288352"
+  },
+  {
+   "title": "Sid Meier's Civilization V: Brave New World",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "29.99",
+   "savings": 95,
+   "url": "https://www.cheapshark.com/redirect?dealID=bd7qFDg8t6JMVrLvvGCdEPQEiNW8r37QPENnNs7ZQTg%3D",
+   "img": "https://sttc.gamersgate.com/images/product/sid-meiers-civilization-v-brave-new-world/cover-180-c265c2.jpg"
+  },
+  {
+   "title": "Borderlands 2: Tiny Tina's Assault on Dragon Keep",
+   "store": "WinGameStore",
+   "sale": "1.09",
+   "normal": "9.99",
+   "savings": 89,
+   "url": "https://www.cheapshark.com/redirect?dealID=H0GN0iaOLRKDuHPWi1uQSh%2BPmjtowNAtDDBmXvF0Dl4%3D",
+   "img": "https://sttc.gamersgate.com/images/product/borderlands-2-tiny-tinas-assault-on-dragon-keep/cover-180-a3c0f4.jpg"
   },
   {
    "title": "Destiny 2: The Final Shape",
@@ -114,6 +177,42 @@
    "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
   },
   {
+   "title": "Sid Meier's Civilization V: Gods and Kings",
+   "store": "WinGameStore",
+   "sale": "1.49",
+   "normal": "29.99",
+   "savings": 95,
+   "url": "https://www.cheapshark.com/redirect?dealID=1AsLXklXee9lvXme7pDbdLloVf4ILsgSk5M2lzWKBkM%3D",
+   "img": "https://sttc.gamersgate.com/images/product/sid-meiers-civilization-v-gods-kings/cover-180-818916.jpg"
+  },
+  {
+   "title": "Psychonauts",
+   "store": "WinGameStore",
+   "sale": "1.09",
+   "normal": "9.99",
+   "savings": 89,
+   "url": "https://www.cheapshark.com/redirect?dealID=TlMffj7LN9gRhMMPOqlrPFy%2FrOXAILcc1XvYVckSvs8%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3830/capsule_231x87.jpg?t=1793063134"
+  },
+  {
+   "title": "IL-2 Sturmovik: 1946",
+   "store": "WinGameStore",
+   "sale": "1.19",
+   "normal": "9.99",
+   "savings": 88,
+   "url": "https://www.cheapshark.com/redirect?dealID=aNAamitLXrQJSrXJQUA8h4gisWSJKCIiZA1uOLDXUgg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945"
+  },
+  {
+   "title": "Deus Ex: Mankind Divided",
+   "store": "WinGameStore",
+   "sale": "2.49",
+   "normal": "29.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=pLfGrv6mjaR7UOkc8UjfGhMrlaGLQEYkdnDUsQjhp68%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337000/96fc2a82c1820c77aae26304c62388841c2a93be/capsule_231x87.jpg?t=1780670420"
+  },
+  {
    "title": "Valfaris",
    "store": "IndieGala",
    "sale": "2.09",
@@ -121,6 +220,15 @@
    "savings": 92,
    "url": "https://www.cheapshark.com/redirect?dealID=AimE3rsevIwRCkXQTWfjIEfwKcb%2Ft6G3a2IL%2Fvi5nWg%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
+  },
+  {
+   "title": "Fell Seal: Arbiter's Mark",
+   "store": "WinGameStore",
+   "sale": "2.49",
+   "normal": "29.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=dbl55sw%2FjK4SaOCteKbuxKAzLAIeg8lqm1bHtbDxJZA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/699170/capsule_231x87.jpg?t=1789474578"
   },
   {
    "title": "Battlefield 3",
@@ -141,6 +249,42 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1815570/capsule_231x87.jpg?t=1731955791"
   },
   {
+   "title": "Sid Meier's Civilization: Beyond Earth",
+   "store": "WinGameStore",
+   "sale": "2.99",
+   "normal": "39.99",
+   "savings": 93,
+   "url": "https://www.cheapshark.com/redirect?dealID=sct1hS2s%2BnR5uLDl3aPrNJWNe%2FIiRFa0Tpk6DmBYzeA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/65980/capsule_231x87.jpg?t=1724341352"
+  },
+  {
+   "title": "Alan Wake",
+   "store": "WinGameStore",
+   "sale": "1.29",
+   "normal": "14.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2FgNU7XVq4DEanFxQxG8ibD2kJl9EHuEY%2Bw%2FQHcgRYfc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/108710/a0e04fbe5de4b8116dbf8102354fcf4db5503fe1/capsule_231x87.jpg?t=1769717716"
+  },
+  {
+   "title": "Stacking",
+   "store": "WinGameStore",
+   "sale": "1.19",
+   "normal": "14.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=xOi%2B6LB4mikEim10GPL%2BEMGUM5F%2BdCxeCXw%2FdguccIM%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/115110/capsule_231x87.jpg?t=1793063456"
+  },
+  {
+   "title": "The Book of Unwritten Tales",
+   "store": "WinGameStore",
+   "sale": "1.89",
+   "normal": "19.95",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=OG1okG416yQbtUMpD5YoiTsRioEUWjW6MLkn%2BglL1lc%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/215160/capsule_231x87.jpg?t=1725012492"
+  },
+  {
    "title": "Valfaris",
    "store": "WinGameStore",
    "sale": "2.39",
@@ -157,150 +301,6 @@
    "savings": 76,
    "url": "https://www.cheapshark.com/redirect?dealID=aymbLiXk9HqRzVGZS%2B2cilmOHdlPAnRyWpf6%2FrdJM%2Bg%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
-  },
-  {
-   "title": "Sid Meiers Civilization VI",
-   "store": "IndieGala",
-   "sale": "5.99",
-   "normal": "59.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=KmJ7PdJp5h1NytnnuNjMpdHV%2B7wRa18fIT6DTbKp994%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
-  },
-  {
-   "title": "Battlefield 1",
-   "store": "Steam",
-   "sale": "1.99",
-   "normal": "39.99",
-   "savings": 95,
-   "url": "https://www.cheapshark.com/redirect?dealID=ICV0L0NmwniVHpc4NjfQsDO5gRILOIkqPz05jfxFtCM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238840/capsule_231x87.jpg?t=1777324289"
-  },
-  {
-   "title": "BioShock",
-   "store": "IndieGala",
-   "sale": "4.99",
-   "normal": "19.99",
-   "savings": 75,
-   "url": "https://www.cheapshark.com/redirect?dealID=skI63%2BeyPLLEkSKijXOMlOPOB%2FbImS7TMzSRfvfG%2BU8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/7670/capsule_231x87.jpg?t=1730172622"
-  },
-  {
-   "title": "Disco Elysium - The Final Cut",
-   "store": "IndieGala",
-   "sale": "8.08",
-   "normal": "39.99",
-   "savings": 80,
-   "url": "https://www.cheapshark.com/redirect?dealID=3Y%2Fp3MbsSuCo%2FLOFoOL7cnlYwZl1qBKQCMsAaqZHRl8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
-  },
-  {
-   "title": "Destiny 2: The Witch Queen",
-   "store": "GameBillet",
-   "sale": "1.76",
-   "normal": "29.99",
-   "savings": 94,
-   "url": "https://www.cheapshark.com/redirect?dealID=y0G2NjENED%2B%2BgaHpesSEJdnwsEBa7GuVx6nOa0bHBs8%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-witch-queen/cover-180-76a978.jpg"
-  },
-  {
-   "title": "Injustice 2",
-   "store": "Steam",
-   "sale": "4.99",
-   "normal": "49.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=3Z4THVFnoVlZCAuD20HvK0GVRSsN0lYUx2brrp%2FgHu0%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/627270/capsule_231x87.jpg?t=1793829728"
-  },
-  {
-   "title": "Destiny 2: The Final Shape",
-   "store": "IndieGala",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=jo1ZFkiEE6osSnRafvaZyIiGDEZKTCeu3EG4QOeN4ks%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
-  },
-  {
-   "title": "Destiny 2: The Final Shape",
-   "store": "Gamesplanet",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=GdFqoOIz7vFaQwfhPv4mGus8aNzK96Wp3dl8Qum2UE0%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
-  },
-  {
-   "title": "Destiny 2: The Final Shape",
-   "store": "GreenManGaming",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=f72xXs5d3UE%2FZ2oFOC5SpWB381mfv4PluIjFe3kt8yc%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
-  },
-  {
-   "title": "Destiny 2: The Final Shape",
-   "store": "GamersGate",
-   "sale": "2.00",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=tK4MPuEZkf88dMzBD%2BDTj3f3%2B8yEEteuv8c2lCskWRg%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
-  },
-  {
-   "title": "Mortal Kombat 11 Ultimate",
-   "store": "Steam",
-   "sale": "8.99",
-   "normal": "59.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=hBzFkwXV5CCVfkjbLZexRx1fhOrxUk1Idvnte3OGtao%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/518699/capsule_231x87.jpg?t=1780429573"
-  },
-  {
-   "title": "BioShock 2",
-   "store": "IndieGala",
-   "sale": "2.99",
-   "normal": "19.99",
-   "savings": 85,
-   "url": "https://www.cheapshark.com/redirect?dealID=f7KQ%2BTIaltO%2F0V6EkxudAzwfbw5dzJ7nrPXmW2cc5JM%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/8850/capsule_231x87.jpg?t=1730174099"
-  },
-  {
-   "title": "Monster Hunter World: Iceborne",
-   "store": "GameBillet",
-   "sale": "5.06",
-   "normal": "39.99",
-   "savings": 87,
-   "url": "https://www.cheapshark.com/redirect?dealID=q07SnKgDW62ok7Zxj2QKkB4Ywen0gMRGi0g6HfnWtrs%3D",
-   "img": "https://sttc.gamersgate.com/images/product/monster-hunter-world-iceborne/cover-180-ea43cb.jpg"
-  },
-  {
-   "title": "Destiny 2: Shadowkeep",
-   "store": "WinGameStore",
-   "sale": "1.59",
-   "normal": "24.99",
-   "savings": 94,
-   "url": "https://www.cheapshark.com/redirect?dealID=iI3ienrGIWF6Flb2NLnQyvcPItLTq4pIoUdl2jVMHok%3D",
-   "img": "https://sttc.gamersgate.com/images/product/destiny-2-shadowkeep/cover-180-1cf22f.jpg"
-  },
-  {
-   "title": "The Next Penelope",
-   "store": "Steam",
-   "sale": "1.29",
-   "normal": "12.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=1w0Q%2BGPAAgMe8QP8lFX5TGO8kH%2FQ%2BF5Qmb5K0MYoE%2FU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/332250/capsule_231x87.jpg?t=1781884634"
-  },
-  {
-   "title": "Sid Meiers Civilization VI",
-   "store": "GameBillet",
-   "sale": "5.05",
-   "normal": "59.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2FcSarHtc28W00%2BabB0nYX%2FE%2FrJHBTa8OsaXqrAa9208%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   }
  ]
 }
