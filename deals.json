@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T18:51Z",
+ "updated": "2026-11-26T08:17Z",
  "epic": [
   {
    "title": "Mark of the Deep",
@@ -147,7 +147,7 @@
    "normal": "19.99",
    "savings": 91,
    "url": "https://www.cheapshark.com/redirect?dealID=%2F%2BAE6cH6NTYWBu0J7b5KaG1seT0IN9hqLBjdEFxq1Cs%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49520/capsule_231x87.jpg?t=1793288352"
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/49520/capsule_231x87.jpg?t=1795638461"
   },
   {
    "title": "Sid Meier's Civilization V: Brave New World",
@@ -174,6 +174,15 @@
    "normal": "29.99",
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=fwNwzWaH9FmEtHMgvo6sAC3Rh%2BYLdvHR2LPBx21jh9U%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809230/capsule_231x87.jpg?t=1793164720"
+  },
+  {
+   "title": "Unity of Command II",
+   "store": "GamersGate",
+   "sale": "3.00",
+   "normal": "29.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=vrL3GEG4hfW4ygd8ciHwmz0%2F2OlDCMlR%2Fuf1ZjXjaGY%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/809230/capsule_231x87.jpg?t=1793164720"
   },
   {
@@ -258,6 +267,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945"
   },
   {
+   "title": "Unity of Command",
+   "store": "GamersGate",
+   "sale": "1.00",
+   "normal": "9.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=%2Ba%2BwwradTrSqfgBnCjGlqpqSC3tLFctUCvleqN6Iy8Y%3D",
+   "img": "https://sttc.gamersgate.com/images/product/unity-of-command/cover-180-3c5b95.jpg"
+  },
+  {
    "title": "Deus Ex: Mankind Divided",
    "store": "WinGameStore",
    "sale": "2.49",
@@ -283,24 +301,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=evPHVt7ofnWKB48WqFd8YaqH6sGGEZO6%2FaJ5%2F80L1YU%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
-   "store": "Steam",
-   "sale": "3.99",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=j2lexFQ%2Fx%2FOeqECYZgxWgBxj7YX3hcQs0N3Y8mn8kHk%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
-  },
-  {
-   "title": "Valfaris",
-   "store": "IndieGala",
-   "sale": "2.09",
-   "normal": "24.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=AimE3rsevIwRCkXQTWfjIEfwKcb%2Ft6G3a2IL%2Fvi5nWg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/600130/capsule_231x87.jpg?t=1738686818"
   }
  ]
 }
