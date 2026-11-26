@@ -1,23 +1,24 @@
 {
- "updated": "2026-11-26T08:17Z",
+ "updated": "2026-11-26T18:39Z",
  "epic": [
   {
-   "title": "Mark of the Deep",
-   "ends": "2026-11-26T16:00:00.000Z",
-   "url": "https://store.epicgames.com/en-GB/p/mark-of-the-deep-f7dc08",
-   "img": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png"
+   "title": "Firestone \u2013 Idle Clicker Online RPG",
+   "ends": "2026-12-03T16:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/firestone-online-idle-rpg-bfd04b",
+   "img": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg"
+  },
+  {
+   "title": "Bread and Fred",
+   "ends": "2026-12-03T16:00:00.000Z",
+   "url": "https://store.epicgames.com/en-GB/p/bread-and-fred-1db362",
+   "img": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg"
   }
  ],
  "epic_upcoming": [
   {
-   "title": "Firestone \u2013 Idle Clicker Online RPG",
-   "starts": "2026-11-26T16:00:00.000Z",
-   "ends": "2026-12-03T16:00:00.000Z"
-  },
-  {
-   "title": "Bread and Fred",
-   "starts": "2026-11-26T16:00:00.000Z",
-   "ends": "2026-12-03T16:00:00.000Z"
+   "title": "Strange Antiquities",
+   "starts": "2026-12-03T16:00:00.000Z",
+   "ends": "2026-12-10T16:00:00.000Z"
   }
  ],
  "free_other": [
@@ -87,13 +88,13 @@
  ],
  "deals": [
   {
-   "title": "Mark of the Deep",
+   "title": "Bread and Fred",
    "store": "Epic Games Store",
    "sale": "0.00",
-   "normal": "19.99",
+   "normal": "14.99",
    "savings": 100,
-   "url": "https://www.cheapshark.com/redirect?dealID=J3QoV3DZfxoGHf0gnngRHd1PS4AMm%2Fuqeh6CmIov%2Fk4%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1933370/29d6d17e4e203130ce7305717343b953452be8cd/capsule_231x87.jpg?t=1788364373"
+   "url": "https://www.cheapshark.com/redirect?dealID=%2F5DFE%2F2K%2FVul88oIaSEPBozm0YOSy8ep%2BifmrdL4J2o%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1607680/f5df5f261dc7c5c58bda1f1c3709fefa80d78466/capsule_231x87.jpg?t=1773071421"
   },
   {
    "title": "Sid Meier's Civilization IV",
