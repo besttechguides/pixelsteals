@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T00:33Z",
+ "updated": "2026-11-27T08:17Z",
  "epic": [
   {
    "title": "Firestone \u2013 Idle Clicker Online RPG",
@@ -133,6 +133,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/289070/capsule_231x87.jpg?t=1792718069"
   },
   {
+   "title": "Cruelty Squad",
+   "store": "Steam",
+   "sale": "1.99",
+   "normal": "19.99",
+   "savings": 90,
+   "url": "https://www.cheapshark.com/redirect?dealID=z7QIDb1gN5GCKZ%2FoJN88DNqeGqnf7r1J4XQ0tT6q1zY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1388770/capsule_231x87.jpg?t=1740330233"
+  },
+  {
    "title": "Divinity: Original Sin - Enhanced Edition",
    "store": "Steam",
    "sale": "3.99",
@@ -158,6 +167,15 @@
    "savings": 95,
    "url": "https://www.cheapshark.com/redirect?dealID=bd7qFDg8t6JMVrLvvGCdEPQEiNW8r37QPENnNs7ZQTg%3D",
    "img": "https://sttc.gamersgate.com/images/product/sid-meiers-civilization-v-brave-new-world/cover-180-c265c2.jpg"
+  },
+  {
+   "title": "The Witcher 3: Wild Hunt  Remastered",
+   "store": "Steam",
+   "sale": "19.99",
+   "normal": "49.99",
+   "savings": 60,
+   "url": "https://www.cheapshark.com/redirect?dealID=euqnWBWrNuYJRZcmBvRsrfFRGIoPWUgNODLCgSA%2BDTY%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/18d06e8c33631b92a9727ac73cce3f4d81168ce8/capsule_231x87.jpg?t=1793900434"
   },
   {
    "title": "Hitman 2: Silent Assassin",
@@ -196,6 +214,15 @@
    "img": "https://sttc.gamersgate.com/images/product/borderlands-2-tiny-tinas-assault-on-dragon-keep/cover-180-a3c0f4.jpg"
   },
   {
+   "title": "The Witcher 2: Assassins of Kings Enhanced Edition",
+   "store": "Steam",
+   "sale": "2.99",
+   "normal": "19.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=8JWQ51DVapSJnGVviMI0Hgu4YFqxme2sBdLD3vh6dZw%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20920/capsule_231x87.jpg?t=1761657279"
+  },
+  {
    "title": "Destiny 2: The Final Shape",
    "store": "GameBillet",
    "sale": "1.76",
@@ -232,6 +259,24 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236850/f4e714d0f5a6be6b76e4b7cfddd692ccc689884a/capsule_231x87.jpg?t=1790873960"
   },
   {
+   "title": "The Witcher: Enhanced Edition Director's Cut",
+   "store": "Steam",
+   "sale": "1.49",
+   "normal": "9.99",
+   "savings": 85,
+   "url": "https://www.cheapshark.com/redirect?dealID=XvdAVEU9b7gYQqsNjJB6TCQtxN8qpubzIpJWMLvEVsQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20900/capsule_231x87.jpg?t=1749200362"
+  },
+  {
+   "title": "A Plague Tale: Innocence",
+   "store": "Gamesplanet",
+   "sale": "3.59",
+   "normal": "39.99",
+   "savings": 91,
+   "url": "https://www.cheapshark.com/redirect?dealID=PiN5W28rzqQl0HfeL8AJCuiglA7v2bgQTyX%2B2vVauDQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/752590/capsule_231x87.jpg?t=1784712345"
+  },
+  {
    "title": "SteamWorld Dig 2",
    "store": "GOG",
    "sale": "1.99",
@@ -239,15 +284,6 @@
    "savings": 90,
    "url": "https://www.cheapshark.com/redirect?dealID=dKEChl4oge1iERtCeaxD2Pq7SCbFHVCAeNBMa341tV8%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg?t=1726132098"
-  },
-  {
-   "title": "The Witcher 3: Wild Hunt  Remastered",
-   "store": "GOG",
-   "sale": "19.99",
-   "normal": "49.99",
-   "savings": 60,
-   "url": "https://www.cheapshark.com/redirect?dealID=OR%2BVz0QIAULaNU5tjUdvoTs3iqGm6lodrS%2BXzXvxPXg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/18d06e8c33631b92a9727ac73cce3f4d81168ce8/capsule_231x87.jpg?t=1793900434"
   },
   {
    "title": "Psychonauts",
@@ -259,49 +295,13 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3830/capsule_231x87.jpg?t=1793063134"
   },
   {
-   "title": "IL-2 Sturmovik: 1946",
-   "store": "WinGameStore",
-   "sale": "1.19",
-   "normal": "9.99",
-   "savings": 88,
-   "url": "https://www.cheapshark.com/redirect?dealID=aNAamitLXrQJSrXJQUA8h4gisWSJKCIiZA1uOLDXUgg%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/15320/0b352d1677737c25ad5754371a6052e3960b6e97/capsule_231x87.jpg?t=1773655945"
-  },
-  {
-   "title": "Unity of Command",
-   "store": "GamersGate",
-   "sale": "1.00",
-   "normal": "9.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=%2Ba%2BwwradTrSqfgBnCjGlqpqSC3tLFctUCvleqN6Iy8Y%3D",
-   "img": "https://sttc.gamersgate.com/images/product/unity-of-command/cover-180-3c5b95.jpg"
-  },
-  {
-   "title": "Deus Ex: Mankind Divided",
-   "store": "WinGameStore",
-   "sale": "2.49",
-   "normal": "29.99",
-   "savings": 92,
-   "url": "https://www.cheapshark.com/redirect?dealID=pLfGrv6mjaR7UOkc8UjfGhMrlaGLQEYkdnDUsQjhp68%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/337000/96fc2a82c1820c77aae26304c62388841c2a93be/capsule_231x87.jpg?t=1780670420"
-  },
-  {
-   "title": "Lair of the Clockwork God",
+   "title": "The Witcher 3: Wild Hunt  Remastered",
    "store": "GOG",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=ebEo%2FlhXRjW44hk5Xv51cvGo6a%2BwsRg1QKvrPjZZFXY%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1060600/capsule_231x87.jpg?t=1769537301"
-  },
-  {
-   "title": "Shadow Tactics: Blades of the Shogun",
-   "store": "GOG",
-   "sale": "3.99",
-   "normal": "39.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=evPHVt7ofnWKB48WqFd8YaqH6sGGEZO6%2FaJ5%2F80L1YU%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/418240/capsule_231x87.jpg?t=1789475696"
+   "sale": "19.99",
+   "normal": "49.99",
+   "savings": 60,
+   "url": "https://www.cheapshark.com/redirect?dealID=OR%2BVz0QIAULaNU5tjUdvoTs3iqGm6lodrS%2BXzXvxPXg%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/18d06e8c33631b92a9727ac73cce3f4d81168ce8/capsule_231x87.jpg?t=1793900434"
   }
  ]
 }
