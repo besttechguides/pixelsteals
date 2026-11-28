@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T18:29Z",
+ "updated": "2026-11-28T08:17Z",
  "epic": [
   {
    "title": "Firestone \u2013 Idle Clicker Online RPG",
@@ -28,6 +28,41 @@
    "url": "https://www.gamerpower.com/open/dead-age-2-gog-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/6b0969de22e37.jpg",
    "ends": "2026-11-30T14:40:09Z"
+  },
+  {
+   "title": "Boots Quest DX",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/boots-quest-dx-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/64cd77c7ac5fe.jpg",
+   "ends": "2026-11-30T23:59:59Z"
+  },
+  {
+   "title": "Tim-Tim 2: The Almighty Gnome",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/tim-tim-2-the-almighty-gnome-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/63a7d58806279.jpg",
+   "ends": "2026-12-02T23:59:01Z"
+  },
+  {
+   "title": "Ba B\u1ecb",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/n-a",
+   "img": "https://www.gamerpower.com/offers/1b/6b0a1024d09c7.jpg",
+   "ends": "2026-12-04T23:59:00Z"
+  },
+  {
+   "title": "Lonely in the Winter",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/lonely-in-the-winter-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/6b0a113ba497d.jpg",
+   "ends": "2026-12-06T23:59:00Z"
+  },
+  {
+   "title": "Rulebound",
+   "store": "itch.io",
+   "url": "https://www.gamerpower.com/open/rulebound-itch-io-giveaway",
+   "img": "https://www.gamerpower.com/offers/1b/6b0a0de4276dc.jpg",
+   "ends": "2026-12-31T23:59:00Z"
   },
   {
    "title": "Mysterious House",
@@ -69,27 +104,6 @@
    "store": "IndieGala",
    "url": "https://www.gamerpower.com/open/battle-ram-pc-giveaway",
    "img": "https://www.gamerpower.com/offers/1b/68efabd65f913.jpg",
-   "ends": null
-  },
-  {
-   "title": "Leaper",
-   "store": "IndieGala",
-   "url": "https://www.gamerpower.com/open/leaper-pc-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/68e6513c31514.jpg",
-   "ends": null
-  },
-  {
-   "title": "GigaBash",
-   "store": "Stove",
-   "url": "https://www.gamerpower.com/open/gigabash-pc-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/69567c4ee0fa3.jpg",
-   "ends": null
-  },
-  {
-   "title": "Dual Chroma: Academy Carols",
-   "store": "itch.io",
-   "url": "https://www.gamerpower.com/open/dual-chroma-academy-carols-itch-io-giveaway",
-   "img": "https://www.gamerpower.com/offers/1b/63c6f67bb9c8b.jpg",
    "ends": null
   }
  ],
@@ -203,6 +217,15 @@
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/292030/18d06e8c33631b92a9727ac73cce3f4d81168ce8/capsule_231x87.jpg?t=1793900434"
   },
   {
+   "title": "Disco Elysium - The Final Cut",
+   "store": "Steam",
+   "sale": "9.99",
+   "normal": "39.99",
+   "savings": 75,
+   "url": "https://www.cheapshark.com/redirect?dealID=Uk9pH81%2BgPUwbkh9YzwMnYLT%2B%2FEaktqN8AgwMr6Y2wQ%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/632470/e2afca9fe9b3e70e0da58b3006c893f6d07d10d6/capsule_231x87.jpg?t=1780913406"
+  },
+  {
    "title": "Hitman 2: Silent Assassin",
    "store": "GOG",
    "sale": "0.89",
@@ -257,6 +280,15 @@
    "img": "https://sttc.gamersgate.com/images/product/destiny-2-the-final-shape/cover-180-cccf3a.jpg"
   },
   {
+   "title": "Hogwarts Legacy",
+   "store": "GameBillet",
+   "sale": "5.09",
+   "normal": "59.99",
+   "savings": 92,
+   "url": "https://www.cheapshark.com/redirect?dealID=gp5D%2B6fuDZv3%2BuTyGi0DtMIwlNiMlcsK519E%2Bpa7DEA%3D",
+   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/990080/4617336bf98ab04289173328838f18303673457f/capsule_231x87.jpg?t=1790708992"
+  },
+  {
    "title": "Lacuna  A Sci-Fi Noir Adventure",
    "store": "GOG",
    "sale": "1.59",
@@ -291,24 +323,6 @@
    "savings": 85,
    "url": "https://www.cheapshark.com/redirect?dealID=XvdAVEU9b7gYQqsNjJB6TCQtxN8qpubzIpJWMLvEVsQ%3D",
    "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/20900/capsule_231x87.jpg?t=1749200362"
-  },
-  {
-   "title": "A Plague Tale: Innocence",
-   "store": "Gamesplanet",
-   "sale": "3.59",
-   "normal": "39.99",
-   "savings": 91,
-   "url": "https://www.cheapshark.com/redirect?dealID=PiN5W28rzqQl0HfeL8AJCuiglA7v2bgQTyX%2B2vVauDQ%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/752590/capsule_231x87.jpg?t=1784712345"
-  },
-  {
-   "title": "SteamWorld Dig 2",
-   "store": "GOG",
-   "sale": "1.99",
-   "normal": "19.99",
-   "savings": 90,
-   "url": "https://www.cheapshark.com/redirect?dealID=dKEChl4oge1iERtCeaxD2Pq7SCbFHVCAeNBMa341tV8%3D",
-   "img": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/571310/capsule_231x87.jpg?t=1726132098"
   }
  ]
 }
